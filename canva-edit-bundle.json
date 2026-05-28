@@ -1,0 +1,1336 @@
+{
+  "assets": [
+    {
+      "contentType": "image/png",
+      "id": "b7523cbf44c752ce",
+      "kind": "image",
+      "name": "t.png",
+      "path": "/var/folders/gz/0wf5kyb51zdb_bb1_w4cvb6m0000gn/T/browser-use/assets/e6dd75bd-e56b-4188-b96a-543e83880701/b7523cbf44c752ce.png",
+      "url": "https://media-public.canva.com/Wnr-k/MAEjHHWnr-k/1/t.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "866838c75b69a2c1",
+      "kind": "image",
+      "name": "t.png",
+      "path": "/var/folders/gz/0wf5kyb51zdb_bb1_w4cvb6m0000gn/T/browser-use/assets/e6dd75bd-e56b-4188-b96a-543e83880701/866838c75b69a2c1.png",
+      "url": "https://media-public.canva.com/iRQEI/MAE2WEiRQEI/1/t.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "14bd8ead7a6caaa7",
+      "kind": "image",
+      "name": "t.png",
+      "path": "/var/folders/gz/0wf5kyb51zdb_bb1_w4cvb6m0000gn/T/browser-use/assets/e6dd75bd-e56b-4188-b96a-543e83880701/14bd8ead7a6caaa7.png",
+      "url": "https://media-public.canva.com/RXwDc/MAG3QTRXwDc/1/t.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "3db50a44849c530b",
+      "kind": "image",
+      "name": "t.png",
+      "path": "/var/folders/gz/0wf5kyb51zdb_bb1_w4cvb6m0000gn/T/browser-use/assets/e6dd75bd-e56b-4188-b96a-543e83880701/3db50a44849c530b.png",
+      "url": "https://media-public.canva.com/oWbJM/MAD9WjoWbJM/1/t.png"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "c44e9ea79756a9e5",
+      "kind": "image",
+      "name": "width:50",
+      "path": "/var/folders/gz/0wf5kyb51zdb_bb1_w4cvb6m0000gn/T/browser-use/assets/e6dd75bd-e56b-4188-b96a-543e83880701/c44e9ea79756a9e5",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:37/quality:100/uri:ifs%3A%2F%2FM%2Fa86e9ae6-c6b5-4a89-a94a-de3f928fb470/watermark:F/width:50?csig=AAAAAAAAAAAAAAAAAAAAABLMG8DeDnMWKeHxgM4ygl1kpaPH8G5ZjblMJoVZBVIt&exp=1780006115&osig=AAAAAAAAAAAAAAAAAAAAANJ_C5ps0CKi6_pworR1Ax87bXSUKv4Yt2hlmgCLi86x&signer=media-rpc&x-canva-quality=pico_thumbnail"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "fd41eea9db2e109c",
+      "kind": "image",
+      "name": "width:50",
+      "path": "/var/folders/gz/0wf5kyb51zdb_bb1_w4cvb6m0000gn/T/browser-use/assets/e6dd75bd-e56b-4188-b96a-543e83880701/fd41eea9db2e109c",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:17/quality:100/uri:ifs%3A%2F%2FM%2Ff076b227-6649-4448-a7b6-c76346a3f9fc/watermark:F/width:50?csig=AAAAAAAAAAAAAAAAAAAAAGLILvZHxBk8hl9GPlkrDPOFyny_ABFQRfaM_Cyw83jD&exp=1780002852&osig=AAAAAAAAAAAAAAAAAAAAADqTJaRoDd86h53HiFYnujDCAjITY8C7x_Y4JQR6Ek90&signer=media-rpc&x-canva-quality=pico_thumbnail"
+    },
+    {
+      "contentType": "image/png",
+      "id": "ab6d7cd371580ac8",
+      "kind": "image",
+      "name": "width:50",
+      "path": "/var/folders/gz/0wf5kyb51zdb_bb1_w4cvb6m0000gn/T/browser-use/assets/e6dd75bd-e56b-4188-b96a-543e83880701/ab6d7cd371580ac8",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:12/quality:100/uri:ifs%3A%2F%2FM%2Fcd7ebb8e-d9af-4656-9782-735b9eb09782/watermark:F/width:50?csig=AAAAAAAAAAAAAAAAAAAAAGKGJvCUbDOVDzALYbLEhSUe3Lw463_gIhlRZdrN3sfj&exp=1780003041&osig=AAAAAAAAAAAAAAAAAAAAAK1JWyEqKLyg-ZcfVpTU9ED2U8oBSb8e-Uc8PSHyRxAj&signer=media-rpc&x-canva-quality=pico_thumbnail"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "f2b715898f9ddfaa",
+      "kind": "image",
+      "name": "width:50",
+      "path": "/var/folders/gz/0wf5kyb51zdb_bb1_w4cvb6m0000gn/T/browser-use/assets/e6dd75bd-e56b-4188-b96a-543e83880701/f2b715898f9ddfaa",
+      "url": "https://media.canva.com/v2/image-resize/format:JPG/height:13/quality:92/uri:ifs%3A%2F%2FM%2Fd3ff1ab8-d117-4347-a11e-da9a3c616784/watermark:F/width:50?csig=AAAAAAAAAAAAAAAAAAAAAHgHxED77Xg35py5XN5PrBTygQfvkYP3WafihWHX19ZV&exp=1780005102&osig=AAAAAAAAAAAAAAAAAAAAAPsPrfWNbsRjn1yeMOyH9-Z6N69v5iPvd5zunmV_yBTK&signer=media-rpc&x-canva-quality=pico_thumbnail"
+    },
+    {
+      "contentType": "image/png",
+      "id": "0a0f809cbc8a5554",
+      "kind": "image",
+      "name": "t.png",
+      "path": "/var/folders/gz/0wf5kyb51zdb_bb1_w4cvb6m0000gn/T/browser-use/assets/e6dd75bd-e56b-4188-b96a-543e83880701/0a0f809cbc8a5554.png",
+      "url": "https://media-public.canva.com/3jHeg/MAG9O23jHeg/1/t.png"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "57014064af5283d7",
+      "kind": "image",
+      "name": "width:50",
+      "path": "/var/folders/gz/0wf5kyb51zdb_bb1_w4cvb6m0000gn/T/browser-use/assets/e6dd75bd-e56b-4188-b96a-543e83880701/57014064af5283d7",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:17/quality:100/uri:ifs%3A%2F%2FM%2F4ad36bc5-191b-42bd-8615-10ff567fe50d/watermark:F/width:50?csig=AAAAAAAAAAAAAAAAAAAAAN2uCVFMBk_VsXWOI_pcq-umzgnC2bcID4SvLXTN7_gZ&exp=1780005929&osig=AAAAAAAAAAAAAAAAAAAAAFQPuVX4qpi8VdfX-Va5_D1J7HklLqsE4ly7lnHU26Xe&signer=media-rpc&x-canva-quality=pico_thumbnail"
+    },
+    {
+      "contentType": "image/png",
+      "id": "41524bbff9db3615",
+      "kind": "image",
+      "name": "width:50",
+      "path": "/var/folders/gz/0wf5kyb51zdb_bb1_w4cvb6m0000gn/T/browser-use/assets/e6dd75bd-e56b-4188-b96a-543e83880701/41524bbff9db3615",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:33/quality:100/uri:ifs%3A%2F%2FM%2Fcf420bd4-3c68-48a5-8078-49cd37f8ec61/watermark:F/width:50?csig=AAAAAAAAAAAAAAAAAAAAAIzi-GJ_k3Nmvx1wRB5huW2DUgGys0spotxxbqn6eAnf&exp=1780003178&osig=AAAAAAAAAAAAAAAAAAAAAGLX_3p5fHY_uUgXU--0B2MB8_67OCH3rPvLqEKhZveB&signer=media-rpc&x-canva-quality=pico_thumbnail"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "00356cec947c263e",
+      "kind": "image",
+      "name": "width:50",
+      "path": "/var/folders/gz/0wf5kyb51zdb_bb1_w4cvb6m0000gn/T/browser-use/assets/e6dd75bd-e56b-4188-b96a-543e83880701/00356cec947c263e",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:23/quality:100/uri:ifs%3A%2F%2FM%2Fd9e3f84f-9873-4dfd-867a-c8cb29fc5f00/watermark:F/width:50?csig=AAAAAAAAAAAAAAAAAAAAAFLnEasMi-muqfMqeqPD_En0Di1P75PLx1Jc05W5euPY&exp=1780004286&osig=AAAAAAAAAAAAAAAAAAAAAJya5YcCZR0XqXJgScu8k1NUFJ6LpwfNGW5F78ob1kC-&signer=media-rpc&x-canva-quality=pico_thumbnail"
+    },
+    {
+      "contentType": "image/png",
+      "id": "3e625580f7af0290",
+      "kind": "image",
+      "name": "width:50",
+      "path": "/var/folders/gz/0wf5kyb51zdb_bb1_w4cvb6m0000gn/T/browser-use/assets/e6dd75bd-e56b-4188-b96a-543e83880701/3e625580f7af0290",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:50/quality:100/uri:ifs%3A%2F%2FM%2F4266a9ae-ad37-43b6-9fc6-b58d12028dab/watermark:F/width:50?csig=AAAAAAAAAAAAAAAAAAAAAENT6mzG7aQRUcNj2iMBA0BHDbfWp8i1RJzQNm6GnMsO&exp=1780003208&osig=AAAAAAAAAAAAAAAAAAAAAEJ1akVQk6cOtbhO-ITno4eHxDiV7D_xu-xfdKc6qEJL&signer=media-rpc&x-canva-quality=pico_thumbnail"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "1535ce70701f7255",
+      "kind": "image",
+      "name": "width:50",
+      "path": "/var/folders/gz/0wf5kyb51zdb_bb1_w4cvb6m0000gn/T/browser-use/assets/e6dd75bd-e56b-4188-b96a-543e83880701/1535ce70701f7255",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:45/quality:100/uri:ifs%3A%2F%2FM%2F1a8aa05d-2904-4c34-9cb4-6138607c4bde/watermark:F/width:50?csig=AAAAAAAAAAAAAAAAAAAAADr9EsXKzX9_Ae0Cz3UEC0Hhxm9czll5TlSXcvIQq5un&exp=1780005326&osig=AAAAAAAAAAAAAAAAAAAAAIzlW7XZ9rK0RyrWRoXJMRtZjjawXJ-HZtaTsPIOZ2Uv&signer=media-rpc&x-canva-quality=pico_thumbnail"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "c6427fe7b024c413",
+      "kind": "image",
+      "name": "width:50",
+      "path": "/var/folders/gz/0wf5kyb51zdb_bb1_w4cvb6m0000gn/T/browser-use/assets/e6dd75bd-e56b-4188-b96a-543e83880701/c6427fe7b024c413",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:18/quality:100/uri:ifs%3A%2F%2FM%2Fb4662a11-186b-4d3e-bb80-13b421b844ad/watermark:F/width:50?csig=AAAAAAAAAAAAAAAAAAAAABTDbBvj8YYLWgIQia7Sws9IzUJKNJd3TOzCn7h-Ns7o&exp=1780005225&osig=AAAAAAAAAAAAAAAAAAAAAIrsHxx6a5iMSCYfn7wlbaFIj66sPQEqOD1zK-SFm9X0&signer=media-rpc&x-canva-quality=pico_thumbnail"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "18b3fd72dce65145",
+      "kind": "image",
+      "name": "width:34",
+      "path": "/var/folders/gz/0wf5kyb51zdb_bb1_w4cvb6m0000gn/T/browser-use/assets/e6dd75bd-e56b-4188-b96a-543e83880701/18b3fd72dce65145",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:50/quality:100/uri:ifs%3A%2F%2FM%2F97555d7f-ca95-4936-815d-cf0b07e654bd/watermark:F/width:34?csig=AAAAAAAAAAAAAAAAAAAAAEg7wvKTqLoJptxuzU_RphMRFFSkheXh7siXCAUZYf4K&exp=1780005574&osig=AAAAAAAAAAAAAAAAAAAAAJzOiQCAZvW5l-y7auK72ZBMFUS_VwFFJNkYKoGImm8z&signer=media-rpc&x-canva-quality=pico_thumbnail"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "137421290826c221",
+      "kind": "image",
+      "name": "width:50",
+      "path": "/var/folders/gz/0wf5kyb51zdb_bb1_w4cvb6m0000gn/T/browser-use/assets/e6dd75bd-e56b-4188-b96a-543e83880701/137421290826c221",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:50/quality:100/uri:ifs%3A%2F%2FM%2Fc7c67724-754a-4123-8be5-404f3a810bb0/watermark:F/width:50?csig=AAAAAAAAAAAAAAAAAAAAAHDS-Dik-3hLQq8593MZEXrDoSwP1uZNNJowttY0LkBu&exp=1780006213&osig=AAAAAAAAAAAAAAAAAAAAAA-U559B_BzPFJKenHoNNw5CVM99oG_5Ugx7Md_wbQSz&signer=media-rpc&x-canva-quality=pico_thumbnail"
+    },
+    {
+      "contentType": "image/png",
+      "id": "9acda22190cc5a40",
+      "kind": "image",
+      "name": "t.png",
+      "path": "/var/folders/gz/0wf5kyb51zdb_bb1_w4cvb6m0000gn/T/browser-use/assets/e6dd75bd-e56b-4188-b96a-543e83880701/9acda22190cc5a40.png",
+      "url": "https://media-public.canva.com/KrzKM/MAGzNqKrzKM/1/t.png"
+    },
+    {
+      "contentType": "image/png",
+      "id": "f0031feec6193834",
+      "kind": "image",
+      "name": "t.png",
+      "path": "/var/folders/gz/0wf5kyb51zdb_bb1_w4cvb6m0000gn/T/browser-use/assets/e6dd75bd-e56b-4188-b96a-543e83880701/f0031feec6193834.png",
+      "url": "https://media-public.canva.com/lFmek/MAGXF7lFmek/1/t.png"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "6e7b148705fb8cfa",
+      "kind": "image",
+      "name": "width:1200",
+      "path": "/var/folders/gz/0wf5kyb51zdb_bb1_w4cvb6m0000gn/T/browser-use/assets/e6dd75bd-e56b-4188-b96a-543e83880701/6e7b148705fb8cfa",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:800/quality:100/uri:ifs%3A%2F%2FM%2F05e6e835-fced-4201-9884-2483ed0f3260/watermark:F/width:1200?csig=AAAAAAAAAAAAAAAAAAAAALq9i_cTmKL38Dcv_-xaT1NNLlfjUT87ueYvtbwIJypN&exp=1780004800&osig=AAAAAAAAAAAAAAAAAAAAAIDyalpjgNIgtE8jq1Fsj_7SlwP_07ma-8w2Cn56leIg&signer=media-rpc&x-canva-quality=screen_3x"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "c9e3430aefc69f39",
+      "kind": "image",
+      "name": "width:2400",
+      "path": "/var/folders/gz/0wf5kyb51zdb_bb1_w4cvb6m0000gn/T/browser-use/assets/e6dd75bd-e56b-4188-b96a-543e83880701/c9e3430aefc69f39",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:1083/quality:100/uri:ifs%3A%2F%2FM%2Fe3f59674-3cfb-4920-a4d5-0138bfc7740b/watermark:F/width:2400?csig=AAAAAAAAAAAAAAAAAAAAAJHNLawBjr9XUN2D_Eh-rU_6BmeBChTkCAUhM-4z5Oy8&exp=1780004544&osig=AAAAAAAAAAAAAAAAAAAAAHojLnmTBByaXmtNs52YPS0CDc-iBzXkKYs8-8AE9AQC&signer=media-rpc&x-canva-quality=screen_3x"
+    },
+    {
+      "contentType": "image/png",
+      "id": "c5743dd0708b36ef",
+      "kind": "image",
+      "name": "width:736",
+      "path": "/var/folders/gz/0wf5kyb51zdb_bb1_w4cvb6m0000gn/T/browser-use/assets/e6dd75bd-e56b-4188-b96a-543e83880701/c5743dd0708b36ef",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:1545/quality:100/uri:ifs%3A%2F%2FM%2F5d4adc3c-b712-47c6-a6bf-336044718422/watermark:F/width:736?csig=AAAAAAAAAAAAAAAAAAAAAK1kOGqJ6BAKTC5HYL_OQ-PE8z4aS8itizTY17zAsX84&exp=1780003897&osig=AAAAAAAAAAAAAAAAAAAAAFPuH8p-49m4P8hlF1dj-zFtexgnM4HnW2vRTlK6fQXl&signer=media-rpc&x-canva-quality=screen_3x"
+    },
+    {
+      "contentType": "image/png",
+      "id": "05879d96e6e899d3",
+      "kind": "image",
+      "name": "width:150",
+      "path": "/var/folders/gz/0wf5kyb51zdb_bb1_w4cvb6m0000gn/T/browser-use/assets/e6dd75bd-e56b-4188-b96a-543e83880701/05879d96e6e899d3",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:100/quality:100/uri:ifs%3A%2F%2FM%2Fcf420bd4-3c68-48a5-8078-49cd37f8ec61/watermark:F/width:150?csig=AAAAAAAAAAAAAAAAAAAAAAtEIoY-jgHsf8CZUqSHXaL5rHbCmM-MjQV74U_hcHWu&exp=1780003178&osig=AAAAAAAAAAAAAAAAAAAAAJUdtq4-vNzrgHAOl3sRuKhz5QQP4plLd7h-3nRw3fn6&signer=media-rpc&x-canva-quality=micro_thumbnail"
+    },
+    {
+      "contentType": "image/png",
+      "id": "3cd5e434a2e22174",
+      "kind": "image",
+      "name": "wm_s.png",
+      "path": "/var/folders/gz/0wf5kyb51zdb_bb1_w4cvb6m0000gn/T/browser-use/assets/e6dd75bd-e56b-4188-b96a-543e83880701/3cd5e434a2e22174.png",
+      "url": "https://media-public.canva.com/aGDJU/MAF7bxaGDJU/1/wm_s.png"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "84494127381d9954",
+      "kind": "image",
+      "name": "width:533",
+      "path": "/var/folders/gz/0wf5kyb51zdb_bb1_w4cvb6m0000gn/T/browser-use/assets/e6dd75bd-e56b-4188-b96a-543e83880701/84494127381d9954",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:799/quality:100/uri:ifs%3A%2F%2FM%2F91618e31-5f3d-415f-bebe-2fd29e62ad8b/watermark:F/width:533?csig=AAAAAAAAAAAAAAAAAAAAAP1r9NpdZqrN-M2w_4Hq6SFXf3RcvXKqlHpwgTDLzvhx&exp=1780003009&osig=AAAAAAAAAAAAAAAAAAAAAEHpy5dAPv-VVoWJ3j9yxI1CRj_6RzB0_3QorB9i6aAc&signer=media-rpc&x-canva-quality=screen"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "7d3073bd16e7b821",
+      "kind": "image",
+      "name": "uri:ifs%3A%2F%2FV%2FfIZtvIy0p5h53Jx-TKTViKa1-BK5LAzhlhe8E_nQb_w.jpg",
+      "path": "/var/folders/gz/0wf5kyb51zdb_bb1_w4cvb6m0000gn/T/browser-use/assets/e6dd75bd-e56b-4188-b96a-543e83880701/7d3073bd16e7b821.jpg",
+      "url": "https://media.canva.com/v2/files/uri:ifs%3A%2F%2FV%2FfIZtvIy0p5h53Jx-TKTViKa1-BK5LAzhlhe8E_nQb_w.jpg?csig=AAAAAAAAAAAAAAAAAAAAAGri46PgW1PLMfOrWJeBUjhfiEdbWwiBQK6zVDX9v70k&exp=1779996360&signer=video-rpc&token=AAIAAVYAL2ZJWnR2SXkwcDVoNTNKeC1US1RWaUthMS1CSzVMQXpobGhlOEVfblFiX3cuanBnAAAAAAGecAz9QN3QAUQcdf1H2PWkKLyBRAc0KjP0BdSJZTrzKN2E2r3W"
+    },
+    {
+      "contentType": "image/png",
+      "id": "4cd8032f971429b3",
+      "kind": "image",
+      "name": "width:150",
+      "path": "/var/folders/gz/0wf5kyb51zdb_bb1_w4cvb6m0000gn/T/browser-use/assets/e6dd75bd-e56b-4188-b96a-543e83880701/4cd8032f971429b3",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:51/quality:100/uri:ifs%3A%2F%2FM%2Ff076b227-6649-4448-a7b6-c76346a3f9fc/watermark:F/width:150?csig=AAAAAAAAAAAAAAAAAAAAAARTMbJh-ahKgLbjyCJfy6IEI_xSuRR6CWVz9SlzN52Q&exp=1780002852&osig=AAAAAAAAAAAAAAAAAAAAAG_mUbRnvn3C129Q0442nNhROMWiaF-D9PODxGbLyLQO&signer=media-rpc&x-canva-quality=micro_thumbnail"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "fb24449891611bb0",
+      "kind": "image",
+      "name": "width:200",
+      "path": "/var/folders/gz/0wf5kyb51zdb_bb1_w4cvb6m0000gn/T/browser-use/assets/e6dd75bd-e56b-4188-b96a-543e83880701/fb24449891611bb0",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:71/quality:100/uri:ifs%3A%2F%2FM%2F4ad36bc5-191b-42bd-8615-10ff567fe50d/watermark:F/width:200?csig=AAAAAAAAAAAAAAAAAAAAAOOI0dEU-1E3VmpOqFrwyvtC-vYmaj8pRPJoUDeZ6v3y&exp=1780005929&osig=AAAAAAAAAAAAAAAAAAAAAO4Fjw3mRKzLqXVZyXXWoT_lm1UqJhq_9lZV6VcMJwOP&signer=media-rpc&x-canva-quality=thumbnail"
+    },
+    {
+      "contentType": "image/png",
+      "id": "a3bba502fca2603a",
+      "kind": "image",
+      "name": "width:169",
+      "path": "/var/folders/gz/0wf5kyb51zdb_bb1_w4cvb6m0000gn/T/browser-use/assets/e6dd75bd-e56b-4188-b96a-543e83880701/a3bba502fca2603a",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:200/quality:100/uri:ifs%3A%2F%2FM%2F3cc28c57-0a82-432a-b1ae-4c4cbd4596bc/watermark:F/width:169?csig=AAAAAAAAAAAAAAAAAAAAAANfH9Gl22EcoSLkdQBuYpsD9_pJ2fbw5nG0Zk2ZOVNg&exp=1780002899&osig=AAAAAAAAAAAAAAAAAAAAAIhn_dqauPlWQqKSZmt-qm7xxaTJu7f0Ta0tYvU5vOTU&signer=media-rpc&x-canva-quality=thumbnail"
+    },
+    {
+      "contentType": "image/png",
+      "id": "00240ad2bc555c56",
+      "kind": "image",
+      "name": "width:149",
+      "path": "/var/folders/gz/0wf5kyb51zdb_bb1_w4cvb6m0000gn/T/browser-use/assets/e6dd75bd-e56b-4188-b96a-543e83880701/00240ad2bc555c56",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:200/quality:100/uri:ifs%3A%2F%2FM%2Fe18a2a29-d897-44a4-90b2-d8204afaa748/watermark:F/width:149?csig=AAAAAAAAAAAAAAAAAAAAAAmVk7OoU46D_EkDvHkkjEPWFt0vOoPrPNRP-cU9X7nh&exp=1780003298&osig=AAAAAAAAAAAAAAAAAAAAAM-JgWUhw8y_WZ_zt3zqoQYu-N2O93Ev9JX8w1K8vywq&signer=media-rpc&x-canva-quality=thumbnail"
+    },
+    {
+      "contentType": "image/png",
+      "id": "b31da49a1894ad17",
+      "kind": "image",
+      "name": "width:200",
+      "path": "/var/folders/gz/0wf5kyb51zdb_bb1_w4cvb6m0000gn/T/browser-use/assets/e6dd75bd-e56b-4188-b96a-543e83880701/b31da49a1894ad17",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:200/quality:100/uri:ifs%3A%2F%2FM%2Fda9b6b1a-96ed-4623-a031-9967b183e45e/watermark:F/width:200?csig=AAAAAAAAAAAAAAAAAAAAAK27MAWHeIkQque8u04_tsgWEWYgdJ7x_kspTw42TPn6&exp=1780003124&osig=AAAAAAAAAAAAAAAAAAAAAP-9LTBeqKmZX8cHGYNQvtindYDjI4nA60F83nfR-0u4&signer=media-rpc&x-canva-quality=thumbnail"
+    },
+    {
+      "contentType": "image/png",
+      "id": "4637232ff52fbb74",
+      "kind": "image",
+      "name": "width:200",
+      "path": "/var/folders/gz/0wf5kyb51zdb_bb1_w4cvb6m0000gn/T/browser-use/assets/e6dd75bd-e56b-4188-b96a-543e83880701/4637232ff52fbb74",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:170/quality:100/uri:ifs%3A%2F%2FM%2F138ecf2e-04b0-4c2e-9924-7107eed0379c/watermark:F/width:200?csig=AAAAAAAAAAAAAAAAAAAAAMR71yHqJGESfTdhDqjHUOi5KcIZmsTDsGzX9HOdMOCU&exp=1780002769&osig=AAAAAAAAAAAAAAAAAAAAAIqnh0JsPkOho1qtCtCHLZL9RJHlYP0qcuZDcknXyz4q&signer=media-rpc&x-canva-quality=thumbnail"
+    },
+    {
+      "contentType": "image/png",
+      "id": "cc32dd4fb48636bb",
+      "kind": "image",
+      "name": "width:162",
+      "path": "/var/folders/gz/0wf5kyb51zdb_bb1_w4cvb6m0000gn/T/browser-use/assets/e6dd75bd-e56b-4188-b96a-543e83880701/cc32dd4fb48636bb",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:200/quality:100/uri:ifs%3A%2F%2FM%2Ffdc7862b-dad6-4fde-a6e6-a34cf6662514/watermark:F/width:162?csig=AAAAAAAAAAAAAAAAAAAAAMW6wsPapsX-wiCfJniRWNumpaIlrSy-FCyw4C-TBMRZ&exp=1780003807&osig=AAAAAAAAAAAAAAAAAAAAAKvL89llkdx-o9DKE0pFLatU0pHvuZoC9CZwfs7QZY0b&signer=media-rpc&x-canva-quality=thumbnail"
+    },
+    {
+      "contentType": "image/png",
+      "id": "db4c7f05faa31086",
+      "kind": "image",
+      "name": "width:158",
+      "path": "/var/folders/gz/0wf5kyb51zdb_bb1_w4cvb6m0000gn/T/browser-use/assets/e6dd75bd-e56b-4188-b96a-543e83880701/db4c7f05faa31086",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:200/quality:100/uri:ifs%3A%2F%2FM%2F615699f2-be04-48ad-9b8f-0551cc218925/watermark:F/width:158?csig=AAAAAAAAAAAAAAAAAAAAAGk-19V_vQXUwaRhqHHAwXJ-Tcmmz0b9Kb8xVCf0QYay&exp=1780005149&osig=AAAAAAAAAAAAAAAAAAAAAAmLuBlMoogAnyLIdzYllT2c4FyLft97fG7FuiLjYSwt&signer=media-rpc&x-canva-quality=thumbnail"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "f023e9b724e251f1",
+      "kind": "image",
+      "name": "width:168",
+      "path": "/var/folders/gz/0wf5kyb51zdb_bb1_w4cvb6m0000gn/T/browser-use/assets/e6dd75bd-e56b-4188-b96a-543e83880701/f023e9b724e251f1",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:200/quality:100/uri:ifs%3A%2F%2FM%2F5b79c1e2-9e82-48da-80fd-6bbf9685a1fc/watermark:F/width:168?csig=AAAAAAAAAAAAAAAAAAAAADoHmukaL708qB2K7UaazmrXHxxTO5oOVjjmAoRrKm5P&exp=1780005598&osig=AAAAAAAAAAAAAAAAAAAAAGrdWVEYLcK1flLyC9VCjUUraZ9SAzCDjgOuXvsBG270&signer=media-rpc&x-canva-quality=thumbnail"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "9eebd396597b9782",
+      "kind": "image",
+      "name": "width:165",
+      "path": "/var/folders/gz/0wf5kyb51zdb_bb1_w4cvb6m0000gn/T/browser-use/assets/e6dd75bd-e56b-4188-b96a-543e83880701/9eebd396597b9782",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:200/quality:100/uri:ifs%3A%2F%2FM%2Fc00780db-0c8e-470a-9473-81698a049449/watermark:F/width:165?csig=AAAAAAAAAAAAAAAAAAAAAMGJUFzEL66qSnHAAGdmpCXyWenE4g04V_VW3Jico6aV&exp=1780005030&osig=AAAAAAAAAAAAAAAAAAAAAK1YWW-74bXu-fE1wqw6p2dzpl921Z0TGJNUiqQhtod4&signer=media-rpc&x-canva-quality=thumbnail"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "947cb992ed4a65ba",
+      "kind": "image",
+      "name": "width:155",
+      "path": "/var/folders/gz/0wf5kyb51zdb_bb1_w4cvb6m0000gn/T/browser-use/assets/e6dd75bd-e56b-4188-b96a-543e83880701/947cb992ed4a65ba",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:200/quality:100/uri:ifs%3A%2F%2FM%2Ff0e22635-e80b-4308-9d25-d56f1608adc6/watermark:F/width:155?csig=AAAAAAAAAAAAAAAAAAAAANW8OiwTK1PsipyCpfgH7ON8ujx1lLxafampBcpJFgy5&exp=1780005065&osig=AAAAAAAAAAAAAAAAAAAAAIczNN84m1S7VCrnPay99dzd8rj2hqTlo1zgWqmaZDeo&signer=media-rpc&x-canva-quality=thumbnail"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "83ca8cc08acd263c",
+      "kind": "image",
+      "name": "width:160",
+      "path": "/var/folders/gz/0wf5kyb51zdb_bb1_w4cvb6m0000gn/T/browser-use/assets/e6dd75bd-e56b-4188-b96a-543e83880701/83ca8cc08acd263c",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:200/quality:100/uri:ifs%3A%2F%2FM%2F73b00316-accf-40d9-96e6-faa1945ea5d8/watermark:F/width:160?csig=AAAAAAAAAAAAAAAAAAAAAI32gslhEYd0uN6RApzw3qdk3XwTgJWqiuq6FGfmBwW2&exp=1780004846&osig=AAAAAAAAAAAAAAAAAAAAADccW1JLiWQDGAEpxX6qPZ3OxAgGeNfT1VCSOS9VpirE&signer=media-rpc&x-canva-quality=thumbnail"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "ed7ac1416ce06ec3",
+      "kind": "image",
+      "name": "width:150",
+      "path": "/var/folders/gz/0wf5kyb51zdb_bb1_w4cvb6m0000gn/T/browser-use/assets/e6dd75bd-e56b-4188-b96a-543e83880701/ed7ac1416ce06ec3",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:200/quality:100/uri:ifs%3A%2F%2FM%2F2ae43d9d-ce40-4083-88f8-7b8c77701d48/watermark:F/width:150?csig=AAAAAAAAAAAAAAAAAAAAAHD6cLcT55Op5V09P6NPPI7pCZpKv480ePBSnuhDaEkk&exp=1780004531&osig=AAAAAAAAAAAAAAAAAAAAABPQey3VuCsqOfzemhHh1Kwvf05igQORJLcNlRGQImpb&signer=media-rpc&x-canva-quality=thumbnail"
+    },
+    {
+      "contentType": "image/jpeg",
+      "id": "a7f625285eb92c23",
+      "kind": "image",
+      "name": "width:149",
+      "path": "/var/folders/gz/0wf5kyb51zdb_bb1_w4cvb6m0000gn/T/browser-use/assets/e6dd75bd-e56b-4188-b96a-543e83880701/a7f625285eb92c23",
+      "url": "https://media.canva.com/v2/image-resize/format:JPG/height:200/quality:75/uri:ifs%3A%2F%2FM%2F75406b2a-580c-40b4-9a71-14ef0990bcc4/watermark:F/width:149?csig=AAAAAAAAAAAAAAAAAAAAAHSM1Hkf8kPdS8aK6Pjx5U1EEiHX0CM38PJkWg8q80qo&exp=1780003186&osig=AAAAAAAAAAAAAAAAAAAAAKPuzJTBJMxn4jJfnqcwthuJuEQA5A2FB-3lPm5UICcP&signer=media-rpc&x-canva-quality=thumbnail"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "c1d716f830047cc6",
+      "kind": "image",
+      "name": "width:150",
+      "path": "/var/folders/gz/0wf5kyb51zdb_bb1_w4cvb6m0000gn/T/browser-use/assets/e6dd75bd-e56b-4188-b96a-543e83880701/c1d716f830047cc6",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:149/quality:100/uri:ifs%3A%2F%2FM%2Fa679a5ab-427c-4f82-b668-5bc328dd9795/watermark:F/width:150?csig=AAAAAAAAAAAAAAAAAAAAAMAwuXhttx-tzbTcjlIV-HyxygBgwKrNG_kKP2jmYNn0&exp=1780004599&osig=AAAAAAAAAAAAAAAAAAAAAJFAqQqv_1K806MJnhmIHAOh_KpPKrWc8jCUg43gNlp-&signer=media-rpc&x-canva-quality=micro_thumbnail"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "afdee51516b85aa8",
+      "kind": "image",
+      "name": "width:150",
+      "path": "/var/folders/gz/0wf5kyb51zdb_bb1_w4cvb6m0000gn/T/browser-use/assets/e6dd75bd-e56b-4188-b96a-543e83880701/afdee51516b85aa8",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:150/quality:100/uri:ifs%3A%2F%2FM%2F35a7ef63-7733-4b1c-b3ae-06c35b0ba9c5/watermark:F/width:150?csig=AAAAAAAAAAAAAAAAAAAAAP091hq-0L_-XE7CmBYn5bfstIG3ehJdJtYqFHsdhVgX&exp=1780004862&osig=AAAAAAAAAAAAAAAAAAAAAKx8I4nsRn_9hnMdEsuO-kTBxTCOU_cPoRlXDKFmxyT1&signer=media-rpc&x-canva-quality=micro_thumbnail"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "679c6c5d10d58f4e",
+      "kind": "image",
+      "name": "width:150",
+      "path": "/var/folders/gz/0wf5kyb51zdb_bb1_w4cvb6m0000gn/T/browser-use/assets/e6dd75bd-e56b-4188-b96a-543e83880701/679c6c5d10d58f4e",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:150/quality:100/uri:ifs%3A%2F%2FM%2F6fb46eb2-32eb-4946-97e2-1c51236fe1fc/watermark:F/width:150?csig=AAAAAAAAAAAAAAAAAAAAAK2EIwC3HadrdHLzwhXTS9xu5BGQQfa7EeKv_VkbhvXN&exp=1780002802&osig=AAAAAAAAAAAAAAAAAAAAAC0uauvXtNUa_OCdJ3ljQNe2LUCR0QBiFJJA6YDXhJ2H&signer=media-rpc&x-canva-quality=micro_thumbnail"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "f2ede38187efa620",
+      "kind": "image",
+      "name": "width:129",
+      "path": "/var/folders/gz/0wf5kyb51zdb_bb1_w4cvb6m0000gn/T/browser-use/assets/e6dd75bd-e56b-4188-b96a-543e83880701/f2ede38187efa620",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:150/quality:100/uri:ifs%3A%2F%2FM%2Fb2557964-2775-4291-86fe-c922a4b6b393/watermark:F/width:129?csig=AAAAAAAAAAAAAAAAAAAAAOE6qCviazmLs1NuVM30NLF0k8CyLE-z9vAAZmnA8oZf&exp=1780004182&osig=AAAAAAAAAAAAAAAAAAAAADsqXZl6LXU8BjL4WM34z8PelnLZmhL7sLdPbx-2fqa-&signer=media-rpc&x-canva-quality=micro_thumbnail"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "9f9f0dc8239c8b65",
+      "kind": "image",
+      "name": "width:150",
+      "path": "/var/folders/gz/0wf5kyb51zdb_bb1_w4cvb6m0000gn/T/browser-use/assets/e6dd75bd-e56b-4188-b96a-543e83880701/9f9f0dc8239c8b65",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:150/quality:100/uri:ifs%3A%2F%2FM%2F72308b1a-775f-4732-99d3-c67bc47b6acd/watermark:F/width:150?csig=AAAAAAAAAAAAAAAAAAAAAA1_SblArBSJu6K9qA0SWKtlayVBiDZCpE76yW0llPhb&exp=1780006057&osig=AAAAAAAAAAAAAAAAAAAAAHjPj6oi8Sjoh5YZ-Pr4RPtMbINwx5p6_RLUhL3pS3ag&signer=media-rpc&x-canva-quality=micro_thumbnail"
+    },
+    {
+      "contentType": "image/png",
+      "id": "0ba28b03df33b5f6",
+      "kind": "image",
+      "name": "width:148",
+      "path": "/var/folders/gz/0wf5kyb51zdb_bb1_w4cvb6m0000gn/T/browser-use/assets/e6dd75bd-e56b-4188-b96a-543e83880701/0ba28b03df33b5f6",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:150/quality:100/uri:ifs%3A%2F%2FM%2F3875f908-1aaa-4bf5-85d0-4d51583fe1fe/watermark:F/width:148?csig=AAAAAAAAAAAAAAAAAAAAAE0E8leCUhq5yVm_ZgrG9vzC85l1gPhM258vhTbWuvKi&exp=1780002722&osig=AAAAAAAAAAAAAAAAAAAAABzux710DT0bUWYcBooIteKK2mIC2ksGYkrcST9sEa-8&signer=media-rpc&x-canva-quality=micro_thumbnail"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "f72e4e9c869c8da9",
+      "kind": "image",
+      "name": "width:136",
+      "path": "/var/folders/gz/0wf5kyb51zdb_bb1_w4cvb6m0000gn/T/browser-use/assets/e6dd75bd-e56b-4188-b96a-543e83880701/f72e4e9c869c8da9",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:150/quality:100/uri:ifs%3A%2F%2FM%2F3a8d62fa-d04e-47f7-a775-ebecf4aaf7ce/watermark:F/width:136?csig=AAAAAAAAAAAAAAAAAAAAAI7RedFyryPNclyW5ja67JCJxsUcn4LFEG2Sq0K-mi94&exp=1780005371&osig=AAAAAAAAAAAAAAAAAAAAAMmn6hFJaUrYeFuM3xlyF12LeEWKc6pzMzRsv3KFunP3&signer=media-rpc&x-canva-quality=micro_thumbnail"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "ac46535ba592cd20",
+      "kind": "image",
+      "name": "width:148",
+      "path": "/var/folders/gz/0wf5kyb51zdb_bb1_w4cvb6m0000gn/T/browser-use/assets/e6dd75bd-e56b-4188-b96a-543e83880701/ac46535ba592cd20",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:150/quality:100/uri:ifs%3A%2F%2FM%2F8e2c9187-f857-4177-8018-9be421326ab4/watermark:F/width:148?csig=AAAAAAAAAAAAAAAAAAAAAJ2LkA40au0RpXozeOiUGjkklSZibxjGLHASglWCGJNG&exp=1780004094&osig=AAAAAAAAAAAAAAAAAAAAAGcY0jCrCcNirP6KSBnLbXhGEmwQ5xPNE06uJWE1Zst_&signer=media-rpc&x-canva-quality=micro_thumbnail"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "9f58009634d2a415",
+      "kind": "image",
+      "name": "width:114",
+      "path": "/var/folders/gz/0wf5kyb51zdb_bb1_w4cvb6m0000gn/T/browser-use/assets/e6dd75bd-e56b-4188-b96a-543e83880701/9f58009634d2a415",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:150/quality:100/uri:ifs%3A%2F%2FM%2F8e3c8ebf-4085-4fc5-ad57-96bc9e90c99e/watermark:F/width:114?csig=AAAAAAAAAAAAAAAAAAAAAGjCCb2A6IPOrpRGpy6wxB6ZfJIGMvKYsMsklDkcFkPd&exp=1780003990&osig=AAAAAAAAAAAAAAAAAAAAANwMYVk1IY2H1mca94C_o_6Zp4LFN112KrkHjkPbvmCQ&signer=media-rpc&x-canva-quality=micro_thumbnail"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "aa10fd92d734ae7f",
+      "kind": "image",
+      "name": "width:149",
+      "path": "/var/folders/gz/0wf5kyb51zdb_bb1_w4cvb6m0000gn/T/browser-use/assets/e6dd75bd-e56b-4188-b96a-543e83880701/aa10fd92d734ae7f",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:113/quality:100/uri:ifs%3A%2F%2FM%2Fa86e9ae6-c6b5-4a89-a94a-de3f928fb470/watermark:F/width:149?csig=AAAAAAAAAAAAAAAAAAAAAH1tD2jr7D3mnC6B1wQWsne-EFhtCSnUbEXGX7PeHdAl&exp=1780006115&osig=AAAAAAAAAAAAAAAAAAAAAPnvXXEfbpLfzjjJ6RWmMoMkHg4umvV8_22la1TwA19g&signer=media-rpc&x-canva-quality=micro_thumbnail"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "c3eac4c25ae11b63",
+      "kind": "image",
+      "name": "width:200",
+      "path": "/var/folders/gz/0wf5kyb51zdb_bb1_w4cvb6m0000gn/T/browser-use/assets/e6dd75bd-e56b-4188-b96a-543e83880701/c3eac4c25ae11b63",
+      "url": "https://media.canva.com/v2/image-resize/format:JPG/height:54/quality:75/uri:ifs%3A%2F%2FM%2Fd3ff1ab8-d117-4347-a11e-da9a3c616784/watermark:F/width:200?csig=AAAAAAAAAAAAAAAAAAAAAFdttMzmL9b7GAuurw1D5FDOWaVOmTpo5yQ4ZiJvoZj_&exp=1780005102&osig=AAAAAAAAAAAAAAAAAAAAAEmSBgLu1L0yY1vpOAHGkEhWl2o1nbnBTCw6CAbu_26w&signer=media-rpc&x-canva-quality=thumbnail"
+    },
+    {
+      "contentType": "image/png",
+      "id": "ea0b1fc0ae19ba17",
+      "kind": "image",
+      "name": "width:200",
+      "path": "/var/folders/gz/0wf5kyb51zdb_bb1_w4cvb6m0000gn/T/browser-use/assets/e6dd75bd-e56b-4188-b96a-543e83880701/ea0b1fc0ae19ba17",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:51/quality:100/uri:ifs%3A%2F%2FM%2Fcd7ebb8e-d9af-4656-9782-735b9eb09782/watermark:F/width:200?csig=AAAAAAAAAAAAAAAAAAAAADwXgmqxXIFf2H1hjGcmFI3loxnIi11-qP2FJH2DLcad&exp=1780003041&osig=AAAAAAAAAAAAAAAAAAAAAMFiMBQqESCq0nU9QxUTYfuP_C1605Vu8fUyVhP5_vLM&signer=media-rpc&x-canva-quality=thumbnail"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "a4c3175ea04010ea",
+      "kind": "image",
+      "name": "width:150",
+      "path": "/var/folders/gz/0wf5kyb51zdb_bb1_w4cvb6m0000gn/T/browser-use/assets/e6dd75bd-e56b-4188-b96a-543e83880701/a4c3175ea04010ea",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:135/quality:100/uri:ifs%3A%2F%2FM%2F1a8aa05d-2904-4c34-9cb4-6138607c4bde/watermark:F/width:150?csig=AAAAAAAAAAAAAAAAAAAAANKua5gl_OHmmifRGpW4-4ReGL1usWki9YG5OvP1Dp8m&exp=1780005326&osig=AAAAAAAAAAAAAAAAAAAAALeq1B-wWyUMT9OIvQrklMXLgw_59XyuayQf8odgpkoq&signer=media-rpc&x-canva-quality=micro_thumbnail"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "e1d0c4765a25daf0",
+      "kind": "image",
+      "name": "width:200",
+      "path": "/var/folders/gz/0wf5kyb51zdb_bb1_w4cvb6m0000gn/T/browser-use/assets/e6dd75bd-e56b-4188-b96a-543e83880701/e1d0c4765a25daf0",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:95/quality:100/uri:ifs%3A%2F%2FM%2Fd9e3f84f-9873-4dfd-867a-c8cb29fc5f00/watermark:F/width:200?csig=AAAAAAAAAAAAAAAAAAAAANisBM8Wb4-I6I4jlp_FZyVbPR_6z25qpbyTwpaqAeib&exp=1780004286&osig=AAAAAAAAAAAAAAAAAAAAAC9k8erQDqcmfmROTPHrT-VhsGPy7f48ane-WlbM-ev9&signer=media-rpc&x-canva-quality=thumbnail"
+    },
+    {
+      "contentType": "image/png",
+      "id": "2d02d6a661925ae4",
+      "kind": "image",
+      "name": "width:200",
+      "path": "/var/folders/gz/0wf5kyb51zdb_bb1_w4cvb6m0000gn/T/browser-use/assets/e6dd75bd-e56b-4188-b96a-543e83880701/2d02d6a661925ae4",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:75/quality:100/uri:ifs%3A%2F%2FM%2Fb4662a11-186b-4d3e-bb80-13b421b844ad/watermark:F/width:200?csig=AAAAAAAAAAAAAAAAAAAAAM8dY3f2-xr9IsXTMlToDNa2nT0esBnyBodPzjnG11xX&exp=1780005225&osig=AAAAAAAAAAAAAAAAAAAAAN4MVa8aU-4Iyf7VupjbDz4bXVi5ODysSCfkearD7_rr&signer=media-rpc&x-canva-quality=thumbnail"
+    },
+    {
+      "contentType": "image/png",
+      "id": "27ed3f05c004f948",
+      "kind": "image",
+      "name": "width:150",
+      "path": "/var/folders/gz/0wf5kyb51zdb_bb1_w4cvb6m0000gn/T/browser-use/assets/e6dd75bd-e56b-4188-b96a-543e83880701/27ed3f05c004f948",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:150/quality:100/uri:ifs%3A%2F%2FM%2F4266a9ae-ad37-43b6-9fc6-b58d12028dab/watermark:F/width:150?csig=AAAAAAAAAAAAAAAAAAAAAPpetGpy1MDL7H4YqdQnVi_zmEentJiS3ANi7c3OaVPv&exp=1780003208&osig=AAAAAAAAAAAAAAAAAAAAAP6OiYrcTnF9HrAQyTFW5hCatFVpRJksUg2MbubGtbd1&signer=media-rpc&x-canva-quality=micro_thumbnail"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "7880c028768659ad",
+      "kind": "image",
+      "name": "width:75",
+      "path": "/var/folders/gz/0wf5kyb51zdb_bb1_w4cvb6m0000gn/T/browser-use/assets/e6dd75bd-e56b-4188-b96a-543e83880701/7880c028768659ad",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:75/quality:100/uri:ifs%3A%2F%2FM%2Fc7c67724-754a-4123-8be5-404f3a810bb0/watermark:F/width:75?csig=AAAAAAAAAAAAAAAAAAAAAK9Dz0x4KCUukW82cGG7vmUMgYbS_tD28prJnmv97LPQ&exp=1780006213&osig=AAAAAAAAAAAAAAAAAAAAAGDeqYgzdUuXk1jCbodY-P-1HjKPbrZzFvk_q4wz735Z&signer=media-rpc&x-canva-quality=nano_thumbnail"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "b5182497f9a3e108",
+      "kind": "image",
+      "name": "width:102",
+      "path": "/var/folders/gz/0wf5kyb51zdb_bb1_w4cvb6m0000gn/T/browser-use/assets/e6dd75bd-e56b-4188-b96a-543e83880701/b5182497f9a3e108",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:150/quality:100/uri:ifs%3A%2F%2FM%2F97555d7f-ca95-4936-815d-cf0b07e654bd/watermark:F/width:102?csig=AAAAAAAAAAAAAAAAAAAAAILbaj7zVjzbDGhyGhDUdk1zHbcDnrsSik6ymG6k5xLr&exp=1780005574&osig=AAAAAAAAAAAAAAAAAAAAAAGBvrwD6GukADQ7kKJ4M13CVX0WxW_yLsgZ2qrBlxdt&signer=media-rpc&x-canva-quality=micro_thumbnail"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "2a1d725866ba236e",
+      "kind": "image",
+      "name": "width:450",
+      "path": "/var/folders/gz/0wf5kyb51zdb_bb1_w4cvb6m0000gn/T/browser-use/assets/e6dd75bd-e56b-4188-b96a-543e83880701/2a1d725866ba236e",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:800/quality:100/uri:ifs%3A%2F%2FM%2Fa5dc7c87-c28f-4dac-8cec-56bcf6be8a53/watermark:F/width:450?csig=AAAAAAAAAAAAAAAAAAAAAB-H_Rj4A5y0OZmxL3uk6iSlm06GbvosAhgq6Jym1YYz&exp=1780005031&osig=AAAAAAAAAAAAAAAAAAAAAMQMRuiJEVg4yvcSnUpjJxfbDlXenk8su4S4Cg82nKds&signer=media-rpc&x-canva-quality=screen"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "995a51469559bab9",
+      "kind": "image",
+      "name": "width:150",
+      "path": "/var/folders/gz/0wf5kyb51zdb_bb1_w4cvb6m0000gn/T/browser-use/assets/e6dd75bd-e56b-4188-b96a-543e83880701/995a51469559bab9",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:150/quality:100/uri:ifs%3A%2F%2FM%2F2c00456b-1fba-420e-a15e-966923626cc7/watermark:F/width:150?csig=AAAAAAAAAAAAAAAAAAAAAMWhLQpn0MT09fYCH7Ub2JJWSetEZkkzhk7raFJRlMty&exp=1780004451&osig=AAAAAAAAAAAAAAAAAAAAAGk2hx7YLJ-39XgT-NwtozPUD8sAwaudJW20rdBf2s_q&signer=media-rpc&x-canva-quality=micro_thumbnail"
+    },
+    {
+      "contentType": "image/png",
+      "id": "4355c4f41c7323b7",
+      "kind": "image",
+      "name": "width:640",
+      "path": "/var/folders/gz/0wf5kyb51zdb_bb1_w4cvb6m0000gn/T/browser-use/assets/e6dd75bd-e56b-4188-b96a-543e83880701/4355c4f41c7323b7",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:800/quality:100/uri:ifs%3A%2F%2FM%2Fb69423bf-658b-436e-95e6-719245663e90/watermark:F/width:640?csig=AAAAAAAAAAAAAAAAAAAAAGmIfAPjc0zZWY6rDwZCqyv626EymrsLqTR0sV1BR1pB&exp=1780003033&osig=AAAAAAAAAAAAAAAAAAAAAGVg-sxD5AvJcfr7uO4BF9qrWyCUh6NFozLuWyIyoaB-&signer=media-rpc&x-canva-quality=screen"
+    },
+    {
+      "contentType": "image/webp",
+      "id": "761f31afcb92e773",
+      "kind": "image",
+      "name": "width:1294",
+      "path": "/var/folders/gz/0wf5kyb51zdb_bb1_w4cvb6m0000gn/T/browser-use/assets/e6dd75bd-e56b-4188-b96a-543e83880701/761f31afcb92e773",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:1449/quality:100/uri:ifs%3A%2F%2FM%2F32630ac6-b092-43a4-b629-0dd1a126ab3a/watermark:F/width:1294?csig=AAAAAAAAAAAAAAAAAAAAAHZ_pwp0K8RnkZwdm81v4i5q9otwo8k_i5k8buZSB6mA&exp=1780003070&osig=AAAAAAAAAAAAAAAAAAAAAA9GOm10tZkJvxE8HssUD-DXIKHfAZJiqRjzaSVY6pzW&signer=media-rpc&x-canva-quality=screen_3x"
+    }
+  ],
+  "directoryPath": "/var/folders/gz/0wf5kyb51zdb_bb1_w4cvb6m0000gn/T/browser-use/assets/e6dd75bd-e56b-4188-b96a-543e83880701",
+  "failures": [
+    {
+      "contentType": null,
+      "id": "d99db28fe6adf9b8",
+      "name": "width:50",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (media.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:33/quality:100/uri:ifs%3A%2F%2FM%2Fcd134c7e-1e9e-4865-b33f-4199a72a8118/watermark:F/width:50?csig=AAAAAAAAAAAAAAAAAAAAAKIq4VOLDWJ75oAf71IM5SFdutrARyOP6o9a9BEEKyNj&exp=1780003183&osig=AAAAAAAAAAAAAAAAAAAAAFc17vRUJUd5xaF0bQLZAoACdXUOSQ8msXgFQTEP3Pvv&signer=media-rpc&x-canva-quality=pico_thumbnail"
+    },
+    {
+      "contentType": null,
+      "id": "9355c2588399fd92",
+      "name": "width:50",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (media.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:33/quality:100/uri:ifs%3A%2F%2FM%2F05e6e835-fced-4201-9884-2483ed0f3260/watermark:F/width:50?csig=AAAAAAAAAAAAAAAAAAAAAG3hlE7caiE2NHTEdnclHcm6U28YENpxEWFSoXA0W2mC&exp=1780004800&osig=AAAAAAAAAAAAAAAAAAAAAJfkAdefEdQmjzcTZ9NlXfBt4rpc1ML_B8oUg8gRm497&signer=media-rpc&x-canva-quality=pico_thumbnail"
+    },
+    {
+      "contentType": null,
+      "id": "45d93a16be49cacb",
+      "name": "t.png",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (media-public.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://media-public.canva.com/2ogao/MAGTih2ogao/1/t.png"
+    },
+    {
+      "contentType": null,
+      "id": "aa431e93faf6930e",
+      "name": "width:50",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (media.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:22/quality:100/uri:ifs%3A%2F%2FM%2Fe3f59674-3cfb-4920-a4d5-0138bfc7740b/watermark:F/width:50?csig=AAAAAAAAAAAAAAAAAAAAANhdUhvLaK-qafAFDm7RPWI92XPn6O0froYxCv_7sHUk&exp=1780004544&osig=AAAAAAAAAAAAAAAAAAAAAEmJwS-wPX3LASgKIz0H51LoI5LSk1-wh6zv7kUNbrsV&signer=media-rpc&x-canva-quality=pico_thumbnail"
+    },
+    {
+      "contentType": null,
+      "id": "e3237bb1cadc168a",
+      "name": "t.png",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (media-public.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://media-public.canva.com/MVTzY/MAG_MGMVTzY/1/t.png"
+    },
+    {
+      "contentType": null,
+      "id": "c2596c5be49f3b45",
+      "name": "width:23",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (media.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:49/quality:100/uri:ifs%3A%2F%2FM%2F5d4adc3c-b712-47c6-a6bf-336044718422/watermark:F/width:23?csig=AAAAAAAAAAAAAAAAAAAAACWDz7GTygxf2Q5W-gbEFoJXOghWJmd-12M69TLHQeE0&exp=1780003897&osig=AAAAAAAAAAAAAAAAAAAAAPrM_0uEtd42AE7SJJykGAJkYh9w-bKlgIqxi7nSCRzR&signer=media-rpc&x-canva-quality=pico_thumbnail"
+    },
+    {
+      "contentType": null,
+      "id": "1e75b00fbb301529",
+      "name": "t.png",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (media-public.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://media-public.canva.com/8-H-0/MAHDFd8-H-0/1/t.png"
+    },
+    {
+      "contentType": null,
+      "id": "1d5f5ad8ce4e6ec0",
+      "name": "t.png",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (media-public.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://media-public.canva.com/aGDJU/MAF7bxaGDJU/1/t.png"
+    },
+    {
+      "contentType": null,
+      "id": "1ff9ad0f2b528ef5",
+      "name": "t.png",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (media-public.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://media-public.canva.com/jbWCw/MAG9QHjbWCw/1/t.png"
+    },
+    {
+      "contentType": null,
+      "id": "cea68f573832aec9",
+      "name": "width:28",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (media.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:50/quality:100/uri:ifs%3A%2F%2FM%2Fa5dc7c87-c28f-4dac-8cec-56bcf6be8a53/watermark:F/width:28?csig=AAAAAAAAAAAAAAAAAAAAANsluLCCFSGH6_pdXqvZujWN1H208ARwBeEGv_YD91Xp&exp=1780005031&osig=AAAAAAAAAAAAAAAAAAAAAKj9A-l6mOpmtKjsfAF8zffW8RUySua4Cb00tWk9bssP&signer=media-rpc&x-canva-quality=pico_thumbnail"
+    },
+    {
+      "contentType": null,
+      "id": "297d2f1027747427",
+      "name": "width:44",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (media.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:50/quality:100/uri:ifs%3A%2F%2FM%2F32630ac6-b092-43a4-b629-0dd1a126ab3a/watermark:F/width:44?csig=AAAAAAAAAAAAAAAAAAAAAIHHDWkHyMW8mywn_SPw8X5-sfQsIAXU8Hzaz6QFhs88&exp=1780003070&osig=AAAAAAAAAAAAAAAAAAAAAMgnxZVXyxznhOMgdFy7oxPTZX0BR7ARoZjrmC_6P2Ol&signer=media-rpc&x-canva-quality=pico_thumbnail"
+    },
+    {
+      "contentType": null,
+      "id": "7d87b89134bd3d71",
+      "name": "width:40",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (media.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:50/quality:100/uri:ifs%3A%2F%2FM%2Fb69423bf-658b-436e-95e6-719245663e90/watermark:F/width:40?csig=AAAAAAAAAAAAAAAAAAAAAFtXysChEwzOXq967q8LT-kXGXbjK2i8CyTMos8teDbV&exp=1780003033&osig=AAAAAAAAAAAAAAAAAAAAAANB18gL3jzepaYM2U-7oFGX_l22bbSWZ7nf_oC9fmT6&signer=media-rpc&x-canva-quality=pico_thumbnail"
+    },
+    {
+      "contentType": null,
+      "id": "0ae1f31ea51c1d10",
+      "name": "width:50",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (media.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:49/quality:100/uri:ifs%3A%2F%2FM%2Fa679a5ab-427c-4f82-b668-5bc328dd9795/watermark:F/width:50?csig=AAAAAAAAAAAAAAAAAAAAAELbylyeLHGCzW3hy8MW87oJyIjo3eH5CIf5K55wE7HQ&exp=1780004599&osig=AAAAAAAAAAAAAAAAAAAAAFGyPTow5mHef9qvUhVestTKqaS0b1KpM7uQmQ2I-kdA&signer=media-rpc&x-canva-quality=pico_thumbnail"
+    },
+    {
+      "contentType": null,
+      "id": "3a5206591e63cc64",
+      "name": "width:42",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (media.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:50/quality:100/uri:ifs%3A%2F%2FM%2F3cc28c57-0a82-432a-b1ae-4c4cbd4596bc/watermark:F/width:42?csig=AAAAAAAAAAAAAAAAAAAAAOrUfCqBmhApJGvDeQjcDsMEgR9vDXnKRbZTqENIgQBx&exp=1780002899&osig=AAAAAAAAAAAAAAAAAAAAACc4nhrAax2wvcSthH3iO5vI3lZRtrwTOYVbWZ6ujU4M&signer=media-rpc&x-canva-quality=pico_thumbnail"
+    },
+    {
+      "contentType": null,
+      "id": "38a77c935a8600d5",
+      "name": "width:43",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (media.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:50/quality:100/uri:ifs%3A%2F%2FM%2Fb2557964-2775-4291-86fe-c922a4b6b393/watermark:F/width:43?csig=AAAAAAAAAAAAAAAAAAAAAA2A6qg7Mt9vgc4YoffZX9WKWdnL4kUayKN4wGJVThtx&exp=1780004182&osig=AAAAAAAAAAAAAAAAAAAAAANpf1yOAwbTnsJbeBCYLqUx8VZAV0MaNrlrvU5Wgwcc&signer=media-rpc&x-canva-quality=pico_thumbnail"
+    },
+    {
+      "contentType": null,
+      "id": "9850de23988fa742",
+      "name": "width:33",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (media.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:49/quality:100/uri:ifs%3A%2F%2FM%2F91618e31-5f3d-415f-bebe-2fd29e62ad8b/watermark:F/width:33?csig=AAAAAAAAAAAAAAAAAAAAAGqcPeCk-myjqti0UqgIA3U-UA3q4eccwA5eG5IIg4WT&exp=1780003009&osig=AAAAAAAAAAAAAAAAAAAAAPsGL4shzPZQuJF0gcEczt8dQgQjPfEG9AaMSbQNcMha&signer=media-rpc&x-canva-quality=pico_thumbnail"
+    },
+    {
+      "contentType": null,
+      "id": "0655bb7bd83fc64c",
+      "name": "width:37",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (media.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:50/quality:100/uri:ifs%3A%2F%2FM%2Fe18a2a29-d897-44a4-90b2-d8204afaa748/watermark:F/width:37?csig=AAAAAAAAAAAAAAAAAAAAADtORcqiCRX0H12QqFMrnzKznS4jTh0qf-DbwVqi76H1&exp=1780003298&osig=AAAAAAAAAAAAAAAAAAAAAK-TIaYsg04lIckOOFg2MVnEg9iyQ8N23jMTjOFLpMoD&signer=media-rpc&x-canva-quality=pico_thumbnail"
+    },
+    {
+      "contentType": null,
+      "id": "431ad871010837d7",
+      "name": "width:50",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (media.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:50/quality:100/uri:ifs%3A%2F%2FM%2F2c00456b-1fba-420e-a15e-966923626cc7/watermark:F/width:50?csig=AAAAAAAAAAAAAAAAAAAAAFa1v8QXL-UZEYxkpaOtYWuGclrZobowKPhOkLuJksXf&exp=1780004451&osig=AAAAAAAAAAAAAAAAAAAAAFOJDNRGLVboL-xnDZN0QxIKJ7TLmfKM4DSBcKF1voZ1&signer=media-rpc&x-canva-quality=pico_thumbnail"
+    },
+    {
+      "contentType": null,
+      "id": "a9994af55261ce1a",
+      "name": "width:50",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (media.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:50/quality:100/uri:ifs%3A%2F%2FM%2F35a7ef63-7733-4b1c-b3ae-06c35b0ba9c5/watermark:F/width:50?csig=AAAAAAAAAAAAAAAAAAAAAC6G5vT2bPtFbLNFstBsO5ut3a_amHwNkdtQNWD7-z8Y&exp=1780004862&osig=AAAAAAAAAAAAAAAAAAAAAGb3f7e_XnEWfzay_w1BGBN5eJS7L3Xttvpu6O--gnih&signer=media-rpc&x-canva-quality=pico_thumbnail"
+    },
+    {
+      "contentType": null,
+      "id": "1f807d507a41c413",
+      "name": "width:50",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (media.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:50/quality:100/uri:ifs%3A%2F%2FM%2F72308b1a-775f-4732-99d3-c67bc47b6acd/watermark:F/width:50?csig=AAAAAAAAAAAAAAAAAAAAAK9ZFAq4NN2EEXq4j-0lACNCIZgTzTn4hU_3qv35OSlZ&exp=1780006057&osig=AAAAAAAAAAAAAAAAAAAAAPC5gs094PVP1wok2waaFclcGAjYewDZqd-HdTPoPBbS&signer=media-rpc&x-canva-quality=pico_thumbnail"
+    },
+    {
+      "contentType": null,
+      "id": "f3b1a7dc57812c53",
+      "name": "width:50",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (media.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:50/quality:100/uri:ifs%3A%2F%2FM%2Fda9b6b1a-96ed-4623-a031-9967b183e45e/watermark:F/width:50?csig=AAAAAAAAAAAAAAAAAAAAAK_pSIGW5LMhK5vcQ1UrBYx6Naw1E-NFiU6jVahkW3l5&exp=1780003124&osig=AAAAAAAAAAAAAAAAAAAAAJBxPzYHwhTry0HGkIaXW8mJqRlkXjEXXEMMYl6cTHur&signer=media-rpc&x-canva-quality=pico_thumbnail"
+    },
+    {
+      "contentType": null,
+      "id": "89952cbd718c04eb",
+      "name": "width:50",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (media.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:50/quality:100/uri:ifs%3A%2F%2FM%2F6fb46eb2-32eb-4946-97e2-1c51236fe1fc/watermark:F/width:50?csig=AAAAAAAAAAAAAAAAAAAAALtVce9Y8NPbHhz_VKCali5rSwjnwFPITWZ_3ee9ciTv&exp=1780002802&osig=AAAAAAAAAAAAAAAAAAAAAH1O-JxnsgoN6ViRwmU5d-hjZtn_yEguMh16mMWlWFxV&signer=media-rpc&x-canva-quality=pico_thumbnail"
+    },
+    {
+      "contentType": null,
+      "id": "086aaaae46201b02",
+      "name": "width:50",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (media.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:42/quality:100/uri:ifs%3A%2F%2FM%2F138ecf2e-04b0-4c2e-9924-7107eed0379c/watermark:F/width:50?csig=AAAAAAAAAAAAAAAAAAAAABzeu3ju1o3oo88MtGA_A3Qb3b02z1JZBI_OVJd2hF5O&exp=1780002769&osig=AAAAAAAAAAAAAAAAAAAAADnqZu0jvAA30jiAd1SlbmTpdI2wV1a0I2t4hRmr9kbl&signer=media-rpc&x-canva-quality=pico_thumbnail"
+    },
+    {
+      "contentType": null,
+      "id": "64fda0217134108d",
+      "name": "width:45",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (media.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:50/quality:100/uri:ifs%3A%2F%2FM%2F3a8d62fa-d04e-47f7-a775-ebecf4aaf7ce/watermark:F/width:45?csig=AAAAAAAAAAAAAAAAAAAAAFfuwXihBtOc85DR8Qi4_D_yrovJRVeNNSU7AOgVUv6R&exp=1780005371&osig=AAAAAAAAAAAAAAAAAAAAADZu4s6cLNRE6KWpyBY_rGLK6lt1Swf6axuES2CqAGGe&signer=media-rpc&x-canva-quality=pico_thumbnail"
+    },
+    {
+      "contentType": null,
+      "id": "305eeaabb8c4d643",
+      "name": "width:40",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (media.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:50/quality:100/uri:ifs%3A%2F%2FM%2Ffdc7862b-dad6-4fde-a6e6-a34cf6662514/watermark:F/width:40?csig=AAAAAAAAAAAAAAAAAAAAAGIa8GTSGSSwZMn1QlhR-pMoJffxj9EN6y9A_NCZBQhH&exp=1780003807&osig=AAAAAAAAAAAAAAAAAAAAAKTnY5xX8AS2i1Xc4j9YBTyswenP_8oWYulXjT5ynk-9&signer=media-rpc&x-canva-quality=pico_thumbnail"
+    },
+    {
+      "contentType": null,
+      "id": "3cd1f778fefbd2c8",
+      "name": "width:49",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (media.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:50/quality:100/uri:ifs%3A%2F%2FM%2F3875f908-1aaa-4bf5-85d0-4d51583fe1fe/watermark:F/width:49?csig=AAAAAAAAAAAAAAAAAAAAACCcJvMBOhpxfavjZ9sGJ2nCGprD9nKg-xmErhipL5WU&exp=1780002722&osig=AAAAAAAAAAAAAAAAAAAAAM5JgjznzXP91Dlw2p2k_NpEgOj8-6L-lT1vDHgLqu72&signer=media-rpc&x-canva-quality=pico_thumbnail"
+    },
+    {
+      "contentType": null,
+      "id": "8e7d0d823209ce8f",
+      "name": "width:39",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (media.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:50/quality:100/uri:ifs%3A%2F%2FM%2F615699f2-be04-48ad-9b8f-0551cc218925/watermark:F/width:39?csig=AAAAAAAAAAAAAAAAAAAAABV8b8NfmM0iFvQkNj-xP1FktG4mv5CheJF9MWTzriQD&exp=1780005149&osig=AAAAAAAAAAAAAAAAAAAAAFfaf_XhSOGKfL56LTDh7SuNlES-1Iz2GZG4zfDGf59c&signer=media-rpc&x-canva-quality=pico_thumbnail"
+    },
+    {
+      "contentType": null,
+      "id": "11949237071c0da3",
+      "name": "width:42",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (media.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:50/quality:100/uri:ifs%3A%2F%2FM%2F5b79c1e2-9e82-48da-80fd-6bbf9685a1fc/watermark:F/width:42?csig=AAAAAAAAAAAAAAAAAAAAAJNggGEAa7I0VeKesG_abVLqJfT9oIYbKH5kjLsazQw5&exp=1780005598&osig=AAAAAAAAAAAAAAAAAAAAAIga8rs99kOb1D3SlwVxk-4Lk_v8chSpts1TDkzLkjfN&signer=media-rpc&x-canva-quality=pico_thumbnail"
+    },
+    {
+      "contentType": null,
+      "id": "26d9093eddeb4ab4",
+      "name": "width:41",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (media.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:50/quality:100/uri:ifs%3A%2F%2FM%2Fc00780db-0c8e-470a-9473-81698a049449/watermark:F/width:41?csig=AAAAAAAAAAAAAAAAAAAAAPMkV8ZN2AEQ5FcSTngfU9CkjiHH2imT9BWkP2ssjSqI&exp=1780005030&osig=AAAAAAAAAAAAAAAAAAAAAGPqZ4uxuEIAYmWHDpv0W6t2NwK-b-igZDmLITIN7_TQ&signer=media-rpc&x-canva-quality=pico_thumbnail"
+    },
+    {
+      "contentType": null,
+      "id": "389c46e18887d11e",
+      "name": "width:40",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (media.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:50/quality:100/uri:ifs%3A%2F%2FM%2F73b00316-accf-40d9-96e6-faa1945ea5d8/watermark:F/width:40?csig=AAAAAAAAAAAAAAAAAAAAAEfVrHSs8ZCTxDhdhKudCWjMXVzt4RRA2uZoTvhiuT6n&exp=1780004846&osig=AAAAAAAAAAAAAAAAAAAAAOnli-ci02IcKdh-fYvLSdjhOkipqesDKqOpMgeS1lM-&signer=media-rpc&x-canva-quality=pico_thumbnail"
+    },
+    {
+      "contentType": null,
+      "id": "9bf957c733d1dec7",
+      "name": "width:38",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (media.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:50/quality:100/uri:ifs%3A%2F%2FM%2Ff0e22635-e80b-4308-9d25-d56f1608adc6/watermark:F/width:38?csig=AAAAAAAAAAAAAAAAAAAAAD8XOFdMfMtVrzaQtxrsN-iO0WJRXJ6VH5pHSHdnuUUu&exp=1780005065&osig=AAAAAAAAAAAAAAAAAAAAALdVIASLAYqhpB4dHT0dehWotJ2h-BAxvMIxJFFlln8X&signer=media-rpc&x-canva-quality=pico_thumbnail"
+    },
+    {
+      "contentType": null,
+      "id": "b3070300143193e3",
+      "name": "width:49",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (media.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:50/quality:100/uri:ifs%3A%2F%2FM%2F8e2c9187-f857-4177-8018-9be421326ab4/watermark:F/width:49?csig=AAAAAAAAAAAAAAAAAAAAAIgaSowjAU034TL-y8lKD-8cengVliSeyBaCPDGSP5dY&exp=1780004094&osig=AAAAAAAAAAAAAAAAAAAAAB4h94NudmfsmJqt3UFdAFODv5CMUt7iqSHkcxOflRvW&signer=media-rpc&x-canva-quality=pico_thumbnail"
+    },
+    {
+      "contentType": null,
+      "id": "d9242fa76aa513cc",
+      "name": "width:37",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (media.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:50/quality:100/uri:ifs%3A%2F%2FM%2F2ae43d9d-ce40-4083-88f8-7b8c77701d48/watermark:F/width:37?csig=AAAAAAAAAAAAAAAAAAAAAO51XzqeNvh-4QazCuo1y1jCY-XjniGYhn5sLxleaZFy&exp=1780004531&osig=AAAAAAAAAAAAAAAAAAAAACFYcyJR_C0tiTdeqbiL9cVKDzYfC8ss462oqNvOe-e3&signer=media-rpc&x-canva-quality=pico_thumbnail"
+    },
+    {
+      "contentType": null,
+      "id": "fe72865ab3dc46e5",
+      "name": "width:38",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (media.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:50/quality:100/uri:ifs%3A%2F%2FM%2F8e3c8ebf-4085-4fc5-ad57-96bc9e90c99e/watermark:F/width:38?csig=AAAAAAAAAAAAAAAAAAAAALwIs-EpaUBN0oLyLorpkSyYcX16_YCn5l-gihmwa2Dx&exp=1780003990&osig=AAAAAAAAAAAAAAAAAAAAAEIMaBLa_R79hfbhF-11XNtVP6ROOyaPbnAqL2iXSLQ9&signer=media-rpc&x-canva-quality=pico_thumbnail"
+    },
+    {
+      "contentType": null,
+      "id": "46d5b000b227fa37",
+      "name": "width:37",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (media.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://media.canva.com/v2/image-resize/format:JPG/height:50/quality:92/uri:ifs%3A%2F%2FM%2F75406b2a-580c-40b4-9a71-14ef0990bcc4/watermark:F/width:37?csig=AAAAAAAAAAAAAAAAAAAAAJOLxCHAnaYMjsScCEBqWJ6zJDGLTPSkc1p8AQlMMwZD&exp=1780003186&osig=AAAAAAAAAAAAAAAAAAAAAFw5k9vfWHaSFNUps8URpXQEPdx74wTJGfojP9QFBo8S&signer=media-rpc&x-canva-quality=pico_thumbnail"
+    },
+    {
+      "contentType": null,
+      "id": "bba1a966df04f6eb",
+      "name": "b46630e470f4040eba7033cf2435edce.woff",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (static.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://static.canva.com/web/images/b46630e470f4040eba7033cf2435edce.woff"
+    },
+    {
+      "contentType": null,
+      "id": "ca5af67f7495db2c",
+      "name": "f4113bb9d3def37ca7f5c7cd2341ec33.woff2",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (static.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://static.canva.com/web/images/f4113bb9d3def37ca7f5c7cd2341ec33.woff2"
+    },
+    {
+      "contentType": null,
+      "id": "e4703df17062df70",
+      "name": "NotoSerif-Regular.2517d235e562f2f211bae9.7b9742c6ddd55874da4cf620a84f03f8.woff2",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (font-public.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://font-public.canva.com/YACkoGNq-XY/0/NotoSerif-Regular.2517d235e562f2f211bae9.7b9742c6ddd55874da4cf620a84f03f8.woff2"
+    },
+    {
+      "contentType": null,
+      "id": "3b25d8408602dd95",
+      "name": "NotoSerif-Bold.1626b4b91af1b95b253ab10ba.b93a76e0b23c10f35cff4e709a43dbd1.woff2",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (font-public.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://font-public.canva.com/YACkoGNq-XY/0/NotoSerif-Bold.1626b4b91af1b95b253ab10ba.b93a76e0b23c10f35cff4e709a43dbd1.woff2"
+    },
+    {
+      "contentType": null,
+      "id": "3fe0cf553e813e92",
+      "name": "NotoSans-Bold.8113fce6051684d09574552ce4.afc698e62df9ae6d03b691653c7e44e8.woff2",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (font-public.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://font-public.canva.com/YACkoCjjZNk/0/NotoSans-Bold.8113fce6051684d09574552ce4.afc698e62df9ae6d03b691653c7e44e8.woff2"
+    },
+    {
+      "contentType": null,
+      "id": "3047bec4b376bebd",
+      "name": "Faustina-Regular.48e8a05ca016fa9040692cd.f4d0971b513b1f7bfc1cab38d9b81305.woff2",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (font-public.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://font-public.canva.com/YAFdJnqy8Oc/0/Faustina-Regular.48e8a05ca016fa9040692cd.f4d0971b513b1f7bfc1cab38d9b81305.woff2"
+    },
+    {
+      "contentType": null,
+      "id": "5447e1447bed95e4",
+      "name": "NotoSans-Regular.f23b331ea5447fe659de42a.48c04693633d09a292f7615021475af2.woff2",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (font-public.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://font-public.canva.com/YACkoCjjZNk/0/NotoSans-Regular.f23b331ea5447fe659de42a.48c04693633d09a292f7615021475af2.woff2"
+    },
+    {
+      "contentType": null,
+      "id": "e8ceb0dfb8e528ca",
+      "name": "Faustina-Bold.50cf942307412885f78a788500.e9d8bc3470632fbbf9cef80ab48b6208.woff2",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (font-public.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://font-public.canva.com/YAFdJnqy8Oc/0/Faustina-Bold.50cf942307412885f78a788500.e9d8bc3470632fbbf9cef80ab48b6208.woff2"
+    },
+    {
+      "contentType": null,
+      "id": "90722f0a3bed08ed",
+      "name": "ss_wm_s.png",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (media-public.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://media-public.canva.com/MVTzY/MAG_MGMVTzY/1/ss_wm_s.png"
+    },
+    {
+      "contentType": null,
+      "id": "1c1ce3bff544a24d",
+      "name": "ss_wm_s.png",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (media-public.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://media-public.canva.com/8-H-0/MAHDFd8-H-0/1/ss_wm_s.png"
+    },
+    {
+      "contentType": null,
+      "id": "c76c2f023e65dc92",
+      "name": "width:75",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (media.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:19/quality:100/uri:ifs%3A%2F%2FM%2Fcd7ebb8e-d9af-4656-9782-735b9eb09782/watermark:F/width:75?csig=AAAAAAAAAAAAAAAAAAAAAPAKNXLcZETcsQTa8b0HPMxT7RqQw__e_qVQgcoe-Ykr&exp=1780003041&osig=AAAAAAAAAAAAAAAAAAAAAJ2rM-v1F9hvE7LrmUo7vjP1lmzdO3-vAld_bNebD8r9&signer=media-rpc&x-canva-quality=nano_thumbnail"
+    },
+    {
+      "contentType": null,
+      "id": "1e143e98fdb26471",
+      "name": "width:75",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (media.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://media.canva.com/v2/image-resize/format:JPG/height:20/quality:92/uri:ifs%3A%2F%2FM%2Fd3ff1ab8-d117-4347-a11e-da9a3c616784/watermark:F/width:75?csig=AAAAAAAAAAAAAAAAAAAAANsaJamavlqqZlgFdJyQsfTZW8IZu23D0xlWjqabLdZb&exp=1780005102&osig=AAAAAAAAAAAAAAAAAAAAANtVIei7R6kF7arUshak2XDgR8dP4HD3mdfcf94YeLE8&signer=media-rpc&x-canva-quality=nano_thumbnail"
+    },
+    {
+      "contentType": null,
+      "id": "416a3260991974e7",
+      "name": "width:200",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (media.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:68/quality:100/uri:ifs%3A%2F%2FM%2Ff076b227-6649-4448-a7b6-c76346a3f9fc/watermark:F/width:200?csig=AAAAAAAAAAAAAAAAAAAAAAXoN4tAz1Qs7j6AQsXNZNkQJ-xlTgvU4jnxoLOOOtkl&exp=1780002852&osig=AAAAAAAAAAAAAAAAAAAAAIa8aDiKVJouiOFkR8kIqXM8jKjx1k93qj8Ep7ic9q1P&signer=media-rpc&x-canva-quality=thumbnail"
+    },
+    {
+      "contentType": null,
+      "id": "c03ab86b5407ffc1",
+      "name": "width:400",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (media.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:143/quality:100/uri:ifs%3A%2F%2FM%2F4ad36bc5-191b-42bd-8615-10ff567fe50d/watermark:F/width:400?csig=AAAAAAAAAAAAAAAAAAAAADP7NSwaSDye1NC8_Z0uJ2e0BbF-hUXGGxVXReoebbRI&exp=1780005929&osig=AAAAAAAAAAAAAAAAAAAAAHSOAtnrD6hHeELHDpcDGrbbx9jn45f-2kZYPV6GlRzI&signer=media-rpc&x-canva-quality=screen_3x"
+    },
+    {
+      "contentType": null,
+      "id": "151a4cca1d227910",
+      "name": "width:75",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (media.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:35/quality:100/uri:ifs%3A%2F%2FM%2Fd9e3f84f-9873-4dfd-867a-c8cb29fc5f00/watermark:F/width:75?csig=AAAAAAAAAAAAAAAAAAAAAG9pPFp--3Tn_C8VeBz3HqfnwHN0C25cWaOAuFDjBVHV&exp=1780004286&osig=AAAAAAAAAAAAAAAAAAAAAHEmZsujz6_WybGXuMHWkiWP6Ejhs1RmRpvgjLMyuhh8&signer=media-rpc&x-canva-quality=nano_thumbnail"
+    },
+    {
+      "contentType": null,
+      "id": "44f4fd2e7a76cae2",
+      "name": "width:75",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (media.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:26/quality:100/uri:ifs%3A%2F%2FM%2F4ad36bc5-191b-42bd-8615-10ff567fe50d/watermark:F/width:75?csig=AAAAAAAAAAAAAAAAAAAAAJemQtNoLvMMHnYaHMhNXzBMchsIWIEFLdFgj3C63nmk&exp=1780005929&osig=AAAAAAAAAAAAAAAAAAAAABZYxhLNu4QBcUnK5xu_JER6NBZqy5Ed5d-ugA_mjLRP&signer=media-rpc&x-canva-quality=nano_thumbnail"
+    },
+    {
+      "contentType": null,
+      "id": "0ad43ca5461606f3",
+      "name": "width:236",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (media.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:279/quality:100/uri:ifs%3A%2F%2FM%2F3cc28c57-0a82-432a-b1ae-4c4cbd4596bc/watermark:F/width:236?csig=AAAAAAAAAAAAAAAAAAAAAF9RrBJlFErlx2Iim3nSkYWqzdqgyV3HIZRGIF730fKt&exp=1780002899&osig=AAAAAAAAAAAAAAAAAAAAAIDNCDbPTeeJIfUcyIMbXYv7o6zTM2fZxW-41vsfpjV6&signer=media-rpc&x-canva-quality=screen_3x"
+    },
+    {
+      "contentType": null,
+      "id": "5e35ac4b95cb2018",
+      "name": "width:200",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (media.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:199/quality:100/uri:ifs%3A%2F%2FM%2Fa679a5ab-427c-4f82-b668-5bc328dd9795/watermark:F/width:200?csig=AAAAAAAAAAAAAAAAAAAAAF8E4ZF6Ct5J1V1P5d9O6srVCcxaIMXsKJyOGsuy3Urv&exp=1780004599&osig=AAAAAAAAAAAAAAAAAAAAAGD2y2KqfuD9PFpMQ8SDvfwHx-gyoCRmkSL5BrFwgvc-&signer=media-rpc&x-canva-quality=thumbnail"
+    },
+    {
+      "contentType": null,
+      "id": "1f5e824d4eaae91b",
+      "name": "width:600",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (media.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:600/quality:100/uri:ifs%3A%2F%2FM%2F35a7ef63-7733-4b1c-b3ae-06c35b0ba9c5/watermark:F/width:600?csig=AAAAAAAAAAAAAAAAAAAAAOyWvWeJ_-lKW4eUprooTmGcplDxZzpIhfVVCi5zGWWw&exp=1780004862&osig=AAAAAAAAAAAAAAAAAAAAAH1yIcXhzk1eNfGLGxTZrgZpGqr044PPzV40wFs25fBF&signer=media-rpc&x-canva-quality=screen_3x"
+    },
+    {
+      "contentType": null,
+      "id": "9d976471575906c9",
+      "name": "ss_wm_s.png",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (media-public.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://media-public.canva.com/jbWCw/MAG9QHjbWCw/1/ss_wm_s.png"
+    },
+    {
+      "contentType": null,
+      "id": "eab32f976da266e3",
+      "name": "width:596",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (media.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:800/quality:100/uri:ifs%3A%2F%2FM%2Fe18a2a29-d897-44a4-90b2-d8204afaa748/watermark:F/width:596?csig=AAAAAAAAAAAAAAAAAAAAAClK_c8D3q-jF-u2Wiw221HAwQlaKU6xVGxESCfjfv2I&exp=1780003298&osig=AAAAAAAAAAAAAAAAAAAAAAKdQz81Inpr10H5ClZZPubUxW9vVLdhcStajd-aFKuO&signer=media-rpc&x-canva-quality=screen"
+    },
+    {
+      "contentType": null,
+      "id": "f670bb54ddadbd27",
+      "name": "width:172",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (media.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:200/quality:100/uri:ifs%3A%2F%2FM%2Fb2557964-2775-4291-86fe-c922a4b6b393/watermark:F/width:172?csig=AAAAAAAAAAAAAAAAAAAAAKTRRKbK2eiPwa0SmOJJ_ZImnFc9ay6GyPb_7g7gdZyd&exp=1780004182&osig=AAAAAAAAAAAAAAAAAAAAAK1maLOiBNHlVz6UMipkUEQ9DYolUPK44GemF3lbK-qM&signer=media-rpc&x-canva-quality=thumbnail"
+    },
+    {
+      "contentType": null,
+      "id": "3c128935ade6f144",
+      "name": "width:400",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (media.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:400/quality:100/uri:ifs%3A%2F%2FM%2F72308b1a-775f-4732-99d3-c67bc47b6acd/watermark:F/width:400?csig=AAAAAAAAAAAAAAAAAAAAALY6CtXio2kzO7eznA0-O8P_Imlf_1MEylkWPaR0LPm8&exp=1780006057&osig=AAAAAAAAAAAAAAAAAAAAAIQjxUdmWWI47PRvGGHicZOpyqz6Ka2XTIJI7kybVvJK&signer=media-rpc&x-canva-quality=screen_3x"
+    },
+    {
+      "contentType": null,
+      "id": "bd73c66d880c329d",
+      "name": "width:800",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (media.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:800/quality:100/uri:ifs%3A%2F%2FM%2Fda9b6b1a-96ed-4623-a031-9967b183e45e/watermark:F/width:800?csig=AAAAAAAAAAAAAAAAAAAAAHeFhx9xR1cKCkD8SpMC1AeBfftJHs1m2LaJ5MSfB49a&exp=1780003124&osig=AAAAAAAAAAAAAAAAAAAAAFJucFtly5lP37eJVdolSQ3IwsywPTComBr2p-TSDWlo&signer=media-rpc&x-canva-quality=screen"
+    },
+    {
+      "contentType": null,
+      "id": "6d4ca7bc81101089",
+      "name": "width:190",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (media.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:190/quality:100/uri:ifs%3A%2F%2FM%2F6fb46eb2-32eb-4946-97e2-1c51236fe1fc/watermark:F/width:190?csig=AAAAAAAAAAAAAAAAAAAAAP-0r0kDRuwI6exoiZIjILYO3esl9XiBDUE-WotMNwT5&exp=1780002802&osig=AAAAAAAAAAAAAAAAAAAAAOvvBRIvS8-zrgN_oPwt1rb4opnu3Oca596UMONSEkes&signer=media-rpc&x-canva-quality=screen_3x"
+    },
+    {
+      "contentType": null,
+      "id": "7d23ffd252326e2a",
+      "name": "width:800",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (media.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:680/quality:100/uri:ifs%3A%2F%2FM%2F138ecf2e-04b0-4c2e-9924-7107eed0379c/watermark:F/width:800?csig=AAAAAAAAAAAAAAAAAAAAAE45ig9cYi3cJ9elKaVmibsF27IfXae6Hxo0y9yBsvJI&exp=1780002769&osig=AAAAAAAAAAAAAAAAAAAAADLn7McoCgQSvN-ER8DS4OmMf3D_EVJXzmFxyYU7TddX&signer=media-rpc&x-canva-quality=screen"
+    },
+    {
+      "contentType": null,
+      "id": "3c97bd81bb4b39f3",
+      "name": "width:197",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (media.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:200/quality:100/uri:ifs%3A%2F%2FM%2F3875f908-1aaa-4bf5-85d0-4d51583fe1fe/watermark:F/width:197?csig=AAAAAAAAAAAAAAAAAAAAAO3XqD4jptbSeoYucjb06rGGlTXo6Ej-MbK8Isykt_Js&exp=1780002722&osig=AAAAAAAAAAAAAAAAAAAAALTTuJYPVKWv9b_evQhtChLMd9owxi4ccsMRx29xxdHa&signer=media-rpc&x-canva-quality=thumbnail"
+    },
+    {
+      "contentType": null,
+      "id": "7a8f450a0b416b99",
+      "name": "width:322",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (media.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:397/quality:100/uri:ifs%3A%2F%2FM%2Ffdc7862b-dad6-4fde-a6e6-a34cf6662514/watermark:F/width:322?csig=AAAAAAAAAAAAAAAAAAAAAFRZCRpRzJMlNouAmH8X-n8280_RKvZUfV1gpuLJjIqq&exp=1780003807&osig=AAAAAAAAAAAAAAAAAAAAAFIX6sVaBXYHYenIpvso0cby24IF7f9R-ZjeagilIXi2&signer=media-rpc&x-canva-quality=screen_3x"
+    },
+    {
+      "contentType": null,
+      "id": "246dd588c4cafd40",
+      "name": "width:181",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (media.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:200/quality:100/uri:ifs%3A%2F%2FM%2F3a8d62fa-d04e-47f7-a775-ebecf4aaf7ce/watermark:F/width:181?csig=AAAAAAAAAAAAAAAAAAAAAEw-s7LjaHKic8EnKdu0A57mXwprRGvJOGzEpfcg6xrB&exp=1780005371&osig=AAAAAAAAAAAAAAAAAAAAANvFDkahqy9wXBhTgMSvYQdpAVf1TUIEm1lAz_nFvFaj&signer=media-rpc&x-canva-quality=thumbnail"
+    },
+    {
+      "contentType": null,
+      "id": "1f79503bc1f5f1e4",
+      "name": "width:349",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (media.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:441/quality:100/uri:ifs%3A%2F%2FM%2F615699f2-be04-48ad-9b8f-0551cc218925/watermark:F/width:349?csig=AAAAAAAAAAAAAAAAAAAAAHa7TkUT6KChsxeQKr7ozpLlmrJEdl5omgJvyePN0awZ&exp=1780005149&osig=AAAAAAAAAAAAAAAAAAAAAAPLrkwr7NtpmIoweKMdRzGUVmmg4o2iRw1r8Q1AhhTw&signer=media-rpc&x-canva-quality=screen_3x"
+    },
+    {
+      "contentType": null,
+      "id": "46a12599a097b701",
+      "name": "width:364",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (media.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:439/quality:100/uri:ifs%3A%2F%2FM%2Fc00780db-0c8e-470a-9473-81698a049449/watermark:F/width:364?csig=AAAAAAAAAAAAAAAAAAAAAHJVdlpH-BeilKa4LJnUatMPr956soMEAvwU9SfJ_snB&exp=1780005030&osig=AAAAAAAAAAAAAAAAAAAAAABg0c8BZVZdVvOdSv8Wupeq-rzKfVOJf8y_rDQ_k68n&signer=media-rpc&x-canva-quality=screen_3x"
+    },
+    {
+      "contentType": null,
+      "id": "7102bd8daf841885",
+      "name": "width:529",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (media.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:629/quality:100/uri:ifs%3A%2F%2FM%2F5b79c1e2-9e82-48da-80fd-6bbf9685a1fc/watermark:F/width:529?csig=AAAAAAAAAAAAAAAAAAAAAHPA1a2FaQKzoojqG5A1FB4Y1o2fnGyzmX8LvavyEwSo&exp=1780005598&osig=AAAAAAAAAAAAAAAAAAAAAHrLaAXEt4C5nqV9Xilf2GKe5M1NrsVZ_-XrDiTM1Azm&signer=media-rpc&x-canva-quality=screen_3x"
+    },
+    {
+      "contentType": null,
+      "id": "8c9471aa49729fbb",
+      "name": "width:362",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (media.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:465/quality:100/uri:ifs%3A%2F%2FM%2Ff0e22635-e80b-4308-9d25-d56f1608adc6/watermark:F/width:362?csig=AAAAAAAAAAAAAAAAAAAAAE_hEthKW76Hd1Svi4fyVN40GFcVCVRwXV4nhj4lcolD&exp=1780005065&osig=AAAAAAAAAAAAAAAAAAAAAFsZAG7tkIa6BYA4bxM66PBi_Rzfj0UrI10lCQl9VFPG&signer=media-rpc&x-canva-quality=screen_3x"
+    },
+    {
+      "contentType": null,
+      "id": "0785747824e253d9",
+      "name": "width:285",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (media.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:356/quality:100/uri:ifs%3A%2F%2FM%2F73b00316-accf-40d9-96e6-faa1945ea5d8/watermark:F/width:285?csig=AAAAAAAAAAAAAAAAAAAAAH7dDgTNDUn42Mqt4NKM2JLpelVANV8H0uehr2fxVfTp&exp=1780004846&osig=AAAAAAAAAAAAAAAAAAAAAPmUrT7dCDijar2miHfexYJjpt4JOtgL6ljizUnnUcql&signer=media-rpc&x-canva-quality=screen_3x"
+    },
+    {
+      "contentType": null,
+      "id": "ca6811e1484ab299",
+      "name": "width:198",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (media.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:200/quality:100/uri:ifs%3A%2F%2FM%2F8e2c9187-f857-4177-8018-9be421326ab4/watermark:F/width:198?csig=AAAAAAAAAAAAAAAAAAAAAPB4sBYV3-VKhaaCUQeCYpLWE4WEFKkva57jVFn5WWk7&exp=1780004094&osig=AAAAAAAAAAAAAAAAAAAAAJYTaz7AasPPPRjLHUJ6ql4B9fqjOlzZhzwhQJRkUfVW&signer=media-rpc&x-canva-quality=thumbnail"
+    },
+    {
+      "contentType": null,
+      "id": "4cf286714785c755",
+      "name": "width:146",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (media.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:191/quality:100/uri:ifs%3A%2F%2FM%2F8e3c8ebf-4085-4fc5-ad57-96bc9e90c99e/watermark:F/width:146?csig=AAAAAAAAAAAAAAAAAAAAANylX8L6m4CZ6l-cQrf1e1cOXreNY57E1_IBoN7xC4c0&exp=1780003990&osig=AAAAAAAAAAAAAAAAAAAAAKUSNf4tKaN7Bh5VrrULWQ1u09Ol9hTybrSdabwqcKvP&signer=media-rpc&x-canva-quality=screen_3x"
+    },
+    {
+      "contentType": null,
+      "id": "f78e36814d7797e3",
+      "name": "width:414",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (media.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:550/quality:100/uri:ifs%3A%2F%2FM%2F2ae43d9d-ce40-4083-88f8-7b8c77701d48/watermark:F/width:414?csig=AAAAAAAAAAAAAAAAAAAAAD2NzcluLY6vIg2AtApuWDLYaD-xiRS8LI2MqbZnX0hP&exp=1780004531&osig=AAAAAAAAAAAAAAAAAAAAADdUGBHzXHr1G9nZn6Hycg3Ta6ieOb3cTaGbi0jVUU36&signer=media-rpc&x-canva-quality=screen_3x"
+    },
+    {
+      "contentType": null,
+      "id": "759c8c27033f64f4",
+      "name": "width:599",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (media.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://media.canva.com/v2/image-resize/format:JPG/height:800/quality:92/uri:ifs%3A%2F%2FM%2F75406b2a-580c-40b4-9a71-14ef0990bcc4/watermark:F/width:599?csig=AAAAAAAAAAAAAAAAAAAAAIJcJjgHmTw3DZNJhb_tgHveVkvPyhlIbLh_aDPzxnW2&exp=1780003186&osig=AAAAAAAAAAAAAAAAAAAAAGTj18qBxinWfdgH73PVe4kUudMV1tLcmucVWFGP4PtW&signer=media-rpc&x-canva-quality=screen"
+    },
+    {
+      "contentType": null,
+      "id": "0c657fbbf62faa92",
+      "name": "width:437",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (media.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:418/quality:100/uri:ifs%3A%2F%2FM%2F1cce23f5-2675-4f36-9662-53e2a3b94b9b/watermark:F/width:437?csig=AAAAAAAAAAAAAAAAAAAAANl_Cr6ULUcUs5ZZPIe7QYtWxcGPg6a3EBw_nuttBu-R&exp=1780004078&osig=AAAAAAAAAAAAAAAAAAAAAOTVGhNpvDhwDp1hqkyJyIlDPbMhRrPWgvP_LcoMp3nF&signer=media-rpc&x-canva-quality=screen_3x"
+    },
+    {
+      "contentType": null,
+      "id": "7f8022da53f4b065",
+      "name": "width:50",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (media.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:47/quality:100/uri:ifs%3A%2F%2FM%2F1cce23f5-2675-4f36-9662-53e2a3b94b9b/watermark:F/width:50?csig=AAAAAAAAAAAAAAAAAAAAAJ4W1eiS1yMsnzQjhOMppaX7OtwGvftzlbTHMU9bPCGY&exp=1780004078&osig=AAAAAAAAAAAAAAAAAAAAADnzrmGjZg9n2Alv4tpqCeKK91_Pu1Cib87_OOO97ppm&signer=media-rpc&x-canva-quality=pico_thumbnail"
+    },
+    {
+      "contentType": null,
+      "id": "56e683ee82f97c4e",
+      "name": "width:262",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (media.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:378/quality:100/uri:ifs%3A%2F%2FM%2F879ee797-b5f3-4099-8662-8b8cbc30bf8d/watermark:F/width:262?csig=AAAAAAAAAAAAAAAAAAAAAGX_pIS9lSKquLWTfXDF-RBsDEbqdUJFDDeqz_QGZaTl&exp=1780003573&osig=AAAAAAAAAAAAAAAAAAAAAFwscFA3v4qqXSMPOT1B7EAsRjOggcvXtyU_n6yjGNLB&signer=media-rpc&x-canva-quality=screen_3x"
+    },
+    {
+      "contentType": null,
+      "id": "89416c0b97bf1a42",
+      "name": "width:36",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (media.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:50/quality:100/uri:ifs%3A%2F%2FM%2F9b5772ff-5d40-44be-b622-c398adb6fcdf/watermark:F/width:36?csig=AAAAAAAAAAAAAAAAAAAAAISagdfFM_yJ2wSIyGC8U9Hr_oTa3dq9fiNEg4Gx4cPb&exp=1780005561&osig=AAAAAAAAAAAAAAAAAAAAACACnYvIosVLic2vZ5Yda0t6ngCYtoF4SdPJ_54yseI2&signer=media-rpc&x-canva-quality=pico_thumbnail"
+    },
+    {
+      "contentType": null,
+      "id": "375cad2c5b65ec27",
+      "name": "width:358",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (media.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:495/quality:100/uri:ifs%3A%2F%2FM%2F9b5772ff-5d40-44be-b622-c398adb6fcdf/watermark:F/width:358?csig=AAAAAAAAAAAAAAAAAAAAABOukudzz6O8fwZnqFCqeaRcZI-VPWMSYCidtIaYjKx4&exp=1780005561&osig=AAAAAAAAAAAAAAAAAAAAABxZWOe7aVuxOqG51UQMM_mPEM7jG_1DT92aWIwdrt2d&signer=media-rpc&x-canva-quality=screen_3x"
+    },
+    {
+      "contentType": null,
+      "id": "a653648e251d1e5e",
+      "name": "width:34",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (media.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:50/quality:100/uri:ifs%3A%2F%2FM%2F879ee797-b5f3-4099-8662-8b8cbc30bf8d/watermark:F/width:34?csig=AAAAAAAAAAAAAAAAAAAAAG3B_zdLQgdI2q8hCLS_7aeBpldKvm59yoCIUBGCg59N&exp=1780003573&osig=AAAAAAAAAAAAAAAAAAAAAA-DWlEXvRkGmVhndWwRk4Ps1LXCNvkiYBkof_yZD0TO&signer=media-rpc&x-canva-quality=pico_thumbnail"
+    },
+    {
+      "contentType": null,
+      "id": "37b987bcf4f5d7cf",
+      "name": "width:182",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (media.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:200/quality:100/uri:ifs%3A%2F%2FM%2F63ede6e1-6e9e-4f72-bc1b-e96e621e1e09/watermark:F/width:182?csig=AAAAAAAAAAAAAAAAAAAAAKlKkwIRotDCFH1gdSRuuJryWFU6KDVw1ykcHnPdyTIV&exp=1780006098&osig=AAAAAAAAAAAAAAAAAAAAAJzZXyYD8CrDExrn_H5dus_P5O0WUyIGycjOYFabSI1M&signer=media-rpc&x-canva-quality=thumbnail"
+    },
+    {
+      "contentType": null,
+      "id": "4814011c666674c4",
+      "name": "width:45",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (media.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:50/quality:100/uri:ifs%3A%2F%2FM%2F63ede6e1-6e9e-4f72-bc1b-e96e621e1e09/watermark:F/width:45?csig=AAAAAAAAAAAAAAAAAAAAAP8uhXVRpiJTSyxZdhkQ8B4lHpKi5cqfb6NqEjr1vxen&exp=1780006098&osig=AAAAAAAAAAAAAAAAAAAAAIc2DxvEVYMEkl1dfec1Kl-hdysdX8rZraPlIA9DnwCs&signer=media-rpc&x-canva-quality=pico_thumbnail"
+    },
+    {
+      "contentType": null,
+      "id": "004ba15763e68b7d",
+      "name": "width:292",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (media.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:420/quality:100/uri:ifs%3A%2F%2FM%2F1bec3862-616a-4737-ba38-b4e7ae08323e/watermark:F/width:292?csig=AAAAAAAAAAAAAAAAAAAAAKD3_wYz-m_1A_WztsjsTGeXcazsw5nGdeKnaVeL4oLf&exp=1780002676&osig=AAAAAAAAAAAAAAAAAAAAAARsfGjDlMJBmI2oZfGdYrA3G-I6LjjoMP82PcQy2r7v&signer=media-rpc&x-canva-quality=screen_3x"
+    },
+    {
+      "contentType": null,
+      "id": "0303633578aa3279",
+      "name": "width:34",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (media.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:50/quality:100/uri:ifs%3A%2F%2FM%2F1bec3862-616a-4737-ba38-b4e7ae08323e/watermark:F/width:34?csig=AAAAAAAAAAAAAAAAAAAAAH7fsBziGSsRSLAfAMs_Rx0Lhf1TWscMfWuuxRBK2IFd&exp=1780002676&osig=AAAAAAAAAAAAAAAAAAAAAF8GZDVDCqei--iXp61gwqBq_t4PIUbtQQuBeoNzYNXx&signer=media-rpc&x-canva-quality=pico_thumbnail"
+    },
+    {
+      "contentType": null,
+      "id": "10cd8c5ed91eaa92",
+      "name": "width:736",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (media.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:920/quality:100/uri:ifs%3A%2F%2FM%2Fb69423bf-658b-436e-95e6-719245663e90/watermark:F/width:736?csig=AAAAAAAAAAAAAAAAAAAAALaqDF58ccr1vcFgrR1zN63Q1qcd0pt70JGjQadA2m1e&exp=1780003033&osig=AAAAAAAAAAAAAAAAAAAAAFtPOBmOkQTzccU7ljJLqU_HH-7WEsnLtoP4RK2OOmqJ&signer=media-rpc&x-canva-quality=screen_3x"
+    },
+    {
+      "contentType": null,
+      "id": "03c4895fb94c6b2b",
+      "name": "width:200",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (media.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:200/quality:100/uri:ifs%3A%2F%2FM%2F35a7ef63-7733-4b1c-b3ae-06c35b0ba9c5/watermark:F/width:200?csig=AAAAAAAAAAAAAAAAAAAAAOwc-hDQ6Ll2pjWki8FhBZ-KSbfsGCxT2U_stmBBEU9c&exp=1780004862&osig=AAAAAAAAAAAAAAAAAAAAAFa82ZsmxjHN0JAQCY1mFrTUhgTpXp11d2gANW0PZ5wR&signer=media-rpc&x-canva-quality=thumbnail"
+    },
+    {
+      "contentType": null,
+      "id": "0e7f10b30c93446c",
+      "name": "width:200",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (media.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:200/quality:100/uri:ifs%3A%2F%2FM%2F72308b1a-775f-4732-99d3-c67bc47b6acd/watermark:F/width:200?csig=AAAAAAAAAAAAAAAAAAAAAP_bixSr8ZLK27vf_gkst15ob9lguOmufsGrlSj6DAip&exp=1780006057&osig=AAAAAAAAAAAAAAAAAAAAAJkTIcjPRB22xs0wb62NLyFhwphKy53wZseEpTxn-Ggb&signer=media-rpc&x-canva-quality=thumbnail"
+    },
+    {
+      "contentType": null,
+      "id": "167d327d16013073",
+      "name": "width:200",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (media.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:191/quality:100/uri:ifs%3A%2F%2FM%2F1cce23f5-2675-4f36-9662-53e2a3b94b9b/watermark:F/width:200?csig=AAAAAAAAAAAAAAAAAAAAAEnyXZUWWe51WxbExN4qVm79dRg8MeerT5_R54ARQf3f&exp=1780004078&osig=AAAAAAAAAAAAAAAAAAAAANvimGrfJEV3JVnlIVJRA8YBIa6M_cEnzfFJg6uXGm1k&signer=media-rpc&x-canva-quality=thumbnail"
+    },
+    {
+      "contentType": null,
+      "id": "416af6e04236f857",
+      "name": "width:144",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (media.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:200/quality:100/uri:ifs%3A%2F%2FM%2F9b5772ff-5d40-44be-b622-c398adb6fcdf/watermark:F/width:144?csig=AAAAAAAAAAAAAAAAAAAAAMth5gmsU6OLjzYeIBtbl88_dmzzWbmsFYxHMFO8JXJq&exp=1780005561&osig=AAAAAAAAAAAAAAAAAAAAAECljT0YQA7d5WcP4Y4r5Axu8Pu1q_jv2UOgvNnKiPiL&signer=media-rpc&x-canva-quality=thumbnail"
+    },
+    {
+      "contentType": null,
+      "id": "c8a4db9cd21631c7",
+      "name": "NotoSans-Italic.8df3974285538825226e22d0.2ba44389363f084813db1656acbffa88.woff2",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (font-public.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://font-public.canva.com/YACkoCjjZNk/0/NotoSans-Italic.8df3974285538825226e22d0.2ba44389363f084813db1656acbffa88.woff2"
+    },
+    {
+      "contentType": null,
+      "id": "0cabcd2a607b0a79",
+      "name": "NotoSans-BoldItalic.9d4e5e67c84ffb163f77.12fe746fd218eecddbf459e6b61a4675.woff2",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (font-public.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://font-public.canva.com/YACkoCjjZNk/0/NotoSans-BoldItalic.9d4e5e67c84ffb163f77.12fe746fd218eecddbf459e6b61a4675.woff2"
+    },
+    {
+      "contentType": null,
+      "id": "4c1037c9f320dd99",
+      "name": "Cabin-Regular.78a394599cad4aeaf9b0874345.bc95f5d095912a2448035d433135e69c.woff2",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (font-public.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://font-public.canva.com/YAFdJnEgsb0/0/Cabin-Regular.78a394599cad4aeaf9b0874345.bc95f5d095912a2448035d433135e69c.woff2"
+    },
+    {
+      "contentType": null,
+      "id": "dcf8ff42606649d6",
+      "name": "Cabin-Medium.0f714f970bf6ef1a480a7c097f1.d0a410f9d5ccfcdc3c9d69539fdc9de9.woff2",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (font-public.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://font-public.canva.com/YAFdJnEgsb0/0/Cabin-Medium.0f714f970bf6ef1a480a7c097f1.d0a410f9d5ccfcdc3c9d69539fdc9de9.woff2"
+    },
+    {
+      "contentType": null,
+      "id": "28f27cb3693f07cb",
+      "name": "Cabin-Italic.71df8fae2048b56bd0b5ec69d29.bcbe102899ad905593d5a5bb65ac2abd.woff2",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (font-public.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://font-public.canva.com/YAFdJnEgsb0/0/Cabin-Italic.71df8fae2048b56bd0b5ec69d29.bcbe102899ad905593d5a5bb65ac2abd.woff2"
+    },
+    {
+      "contentType": null,
+      "id": "b74a04b59e5878c7",
+      "name": "Cabin-MediumItalic.3086e9a920dd67b4c2a4b.99e4d8808e44ed7a4c2fcf956a17d41f.woff2",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (font-public.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://font-public.canva.com/YAFdJnEgsb0/0/Cabin-MediumItalic.3086e9a920dd67b4c2a4b.99e4d8808e44ed7a4c2fcf956a17d41f.woff2"
+    },
+    {
+      "contentType": null,
+      "id": "1623e8ca18c40ae2",
+      "name": "Cabin-SemiBold.eb698b4ca484aebc37487ee21.916c0e2a18d8b4d6065a90086e622d5d.woff2",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (font-public.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://font-public.canva.com/YAFdJnEgsb0/0/Cabin-SemiBold.eb698b4ca484aebc37487ee21.916c0e2a18d8b4d6065a90086e622d5d.woff2"
+    },
+    {
+      "contentType": null,
+      "id": "d48c415a7c4bcec4",
+      "name": "Cabin-SemiBoldItalic.a5a6bde931382a70bff.5820470a3f74aae7bb0f8c205590bb25.woff2",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (font-public.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://font-public.canva.com/YAFdJnEgsb0/0/Cabin-SemiBoldItalic.a5a6bde931382a70bff.5820470a3f74aae7bb0f8c205590bb25.woff2"
+    },
+    {
+      "contentType": null,
+      "id": "02b3cc29f1947b6b",
+      "name": "Cabin-BoldItalic.3acfc265a57c66637e261b9.27ed42859b07f789671ab2ec35084831.woff2",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (font-public.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://font-public.canva.com/YAFdJnEgsb0/0/Cabin-BoldItalic.3acfc265a57c66637e261b9.27ed42859b07f789671ab2ec35084831.woff2"
+    },
+    {
+      "contentType": null,
+      "id": "7fc1cd0a462e96d2",
+      "name": "Cabin-Bold.d0a8e71710b05dcad5eae37d05a3e.f839f9eaba605429b5e6343e70727d70.woff2",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (font-public.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://font-public.canva.com/YAFdJnEgsb0/0/Cabin-Bold.d0a8e71710b05dcad5eae37d05a3e.f839f9eaba605429b5e6343e70727d70.woff2"
+    },
+    {
+      "contentType": null,
+      "id": "39d2324d8ece43e7",
+      "name": "DancingScript-Regular.eef5809470954f4306.ec2b1e45c1544dd5b98b5a593bdc81e.woff2",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (font-public.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://font-public.canva.com/YALBs2pfuW0/0/subsets/DancingScript-Regular.eef5809470954f4306.ec2b1e45c1544dd5b98b5a593bdc81e.woff2"
+    },
+    {
+      "contentType": null,
+      "id": "1a61de5aa0817b46",
+      "name": "DancingScript-Bold.b1f31992da85c1496859b.d36c37bf0b4ead39bba5a27412d2685.woff2",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (font-public.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://font-public.canva.com/YALBs2pfuW0/0/subsets/DancingScript-Bold.b1f31992da85c1496859b.d36c37bf0b4ead39bba5a27412d2685.woff2"
+    },
+    {
+      "contentType": null,
+      "id": "a5328f8463465ade",
+      "name": "Wellston-Regular12859297596940765699.a99.d3fa0e90d3753a879f4b0f883356afed.woff2",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (font-public.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://font-public.canva.com/YADb0YyTxdU/0/Wellston-Regular12859297596940765699.a99.d3fa0e90d3753a879f4b0f883356afed.woff2"
+    },
+    {
+      "contentType": null,
+      "id": "d25d0a20410c2f20",
+      "name": "Wellston-RegularItalic109664206282734762.1fc9ad14bdb3c99e845cbb032f69a536.woff2",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (font-public.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://font-public.canva.com/YADb0YyTxdU/0/Wellston-RegularItalic109664206282734762.1fc9ad14bdb3c99e845cbb032f69a536.woff2"
+    },
+    {
+      "contentType": null,
+      "id": "2ed34d716ddd8e26",
+      "name": "Wellston-Light14528961128542354527.015ed.003b476da369b24658cca2a2bdb1e010.woff2",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (font-public.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://font-public.canva.com/YADb0YyTxdU/0/Wellston-Light14528961128542354527.015ed.003b476da369b24658cca2a2bdb1e010.woff2"
+    },
+    {
+      "contentType": null,
+      "id": "af695d8c1eba5496",
+      "name": "Wellston-LightItalic8172614947304681893..52c464b2e140aa56836f320de6666915.woff2",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (font-public.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://font-public.canva.com/YADb0YyTxdU/0/Wellston-LightItalic8172614947304681893..52c464b2e140aa56836f320de6666915.woff2"
+    },
+    {
+      "contentType": null,
+      "id": "069d5b7c4fa6148b",
+      "name": "Faustina-Italic.233f8feb1b977018a2c02ada.20f7bae2e86b5dc4868ff478528779b1.woff2",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (font-public.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://font-public.canva.com/YAFdJnqy8Oc/0/Faustina-Italic.233f8feb1b977018a2c02ada.20f7bae2e86b5dc4868ff478528779b1.woff2"
+    },
+    {
+      "contentType": null,
+      "id": "7a239bf154ed41c9",
+      "name": "Faustina-Medium.0c516b85dea243d2419ba6ef.329a0754fe966e5e2995e22216cf568f.woff2",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (font-public.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://font-public.canva.com/YAFdJnqy8Oc/0/Faustina-Medium.0c516b85dea243d2419ba6ef.329a0754fe966e5e2995e22216cf568f.woff2"
+    },
+    {
+      "contentType": null,
+      "id": "0b28939955648f32",
+      "name": "Faustina-MediumItalic.b6d47a9efa68839282.60ad788136d5d5f6fb8b66bc5b41acf9.woff2",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (font-public.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://font-public.canva.com/YAFdJnqy8Oc/0/Faustina-MediumItalic.b6d47a9efa68839282.60ad788136d5d5f6fb8b66bc5b41acf9.woff2"
+    },
+    {
+      "contentType": null,
+      "id": "5940168fc8651ff4",
+      "name": "Faustina-SemiBold.e3d5566d9e421cfff789a4.826df53ac53318bb2417e6cd5ccc3057.woff2",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (font-public.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://font-public.canva.com/YAFdJnqy8Oc/0/Faustina-SemiBold.e3d5566d9e421cfff789a4.826df53ac53318bb2417e6cd5ccc3057.woff2"
+    },
+    {
+      "contentType": null,
+      "id": "e13067c8b8ab721f",
+      "name": "Faustina-SemiBoldItalic.e68f51ec091a085a.0bb0cff694f2d7afddeeb539b216a1f2.woff2",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (font-public.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://font-public.canva.com/YAFdJnqy8Oc/0/Faustina-SemiBoldItalic.e68f51ec091a085a.0bb0cff694f2d7afddeeb539b216a1f2.woff2"
+    },
+    {
+      "contentType": null,
+      "id": "4d69eccb726727ee",
+      "name": "Faustina-BoldItalic.2a84f4a06fbc0e4ab86e.cb09d05dbb849c47a4f762376df43525.woff2",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (font-public.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://font-public.canva.com/YAFdJnqy8Oc/0/Faustina-BoldItalic.2a84f4a06fbc0e4ab86e.cb09d05dbb849c47a4f762376df43525.woff2"
+    },
+    {
+      "contentType": null,
+      "id": "d6e3c057540ae547",
+      "name": "NotoSerif-Italic.b2204a41427a70f185bd14e.fe897c688ebaab2df7d44b6cf03c17c4.woff2",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (font-public.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://font-public.canva.com/YACkoGNq-XY/0/NotoSerif-Italic.b2204a41427a70f185bd14e.fe897c688ebaab2df7d44b6cf03c17c4.woff2"
+    },
+    {
+      "contentType": null,
+      "id": "77abf3dca080a1e4",
+      "name": "NotoSerif-BoldItalic.4e36dabd91fe1d27868.5995e12d7474a77e5f0e46ee6e155c5c.woff2",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (font-public.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://font-public.canva.com/YACkoGNq-XY/0/NotoSerif-BoldItalic.4e36dabd91fe1d27868.5995e12d7474a77e5f0e46ee6e155c5c.woff2"
+    },
+    {
+      "contentType": null,
+      "id": "9eea047bd2af6040",
+      "name": "5989cf357de7427311e30576891372df.woff2",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (static.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://static.canva.com/web/images/5989cf357de7427311e30576891372df.woff2"
+    },
+    {
+      "contentType": null,
+      "id": "5030f38b38076d1c",
+      "name": "width:138",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (media.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:200/quality:100/uri:ifs%3A%2F%2FM%2F879ee797-b5f3-4099-8662-8b8cbc30bf8d/watermark:F/width:138?csig=AAAAAAAAAAAAAAAAAAAAABN-IrAfxUY-AZJcuhYq5RmBvI5jqUPj-11rypN1phZR&exp=1780003573&osig=AAAAAAAAAAAAAAAAAAAAAABqonRtYfsuXeNWmHyiPdSPfl3kJbc8qfwiwXqspkqS&signer=media-rpc&x-canva-quality=thumbnail"
+    },
+    {
+      "contentType": null,
+      "id": "644a49ba0683b056",
+      "name": "width:136",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (media.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:150/quality:100/uri:ifs%3A%2F%2FM%2F63ede6e1-6e9e-4f72-bc1b-e96e621e1e09/watermark:F/width:136?csig=AAAAAAAAAAAAAAAAAAAAAO_LG2UWJBJWrWS-UFlMtEBFffVO9xxfWkRwin0Wsz6R&exp=1780006098&osig=AAAAAAAAAAAAAAAAAAAAANItmqFQLLZdzjSEEWRblMlhYl72QFK2wbFPIRBd9tVK&signer=media-rpc&x-canva-quality=micro_thumbnail"
+    },
+    {
+      "contentType": null,
+      "id": "1895e4a90905afea",
+      "name": "width:139",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (media.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://media.canva.com/v2/image-resize/format:PNG/height:200/quality:100/uri:ifs%3A%2F%2FM%2F1bec3862-616a-4737-ba38-b4e7ae08323e/watermark:F/width:139?csig=AAAAAAAAAAAAAAAAAAAAACx4D_xvsU2cmbQ9zBgIvGPcBeW5KWAu5kfX1NR_MAje&exp=1780002676&osig=AAAAAAAAAAAAAAAAAAAAACQNtJ6_dgAMdb28bkBDCVGLz2iDT6gVjanQDdZ6BuRc&signer=media-rpc&x-canva-quality=thumbnail"
+    },
+    {
+      "contentType": null,
+      "id": "caa44e15862db911",
+      "name": "5d050a324d95a6a18dae93e08c01bd6b.woff2",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (static.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://static.canva.com/web/images/5d050a324d95a6a18dae93e08c01bd6b.woff2"
+    },
+    {
+      "contentType": null,
+      "id": "aa00dc897ea55483",
+      "name": "FrancoisOne-Regular.5d9fcf2450f0e23d7863.a50992b08e7d66bc1aa230d151f54fa0.woff2",
+      "reason": "Loaded resource fetch failed: Asset bundling failed; page fetch failed: Browser Use encountered an error interacting with this webpage: TypeError: Failed to fetch (font-public.canva.com)\n    at https://static.canva.com/web/de7b6a15ca4634aa.sentry_browser.js:1:24805\n    at x8 (<anonymous>:1:41)\n    at <anonymous>:1:354",
+      "url": "https://font-public.canva.com/YADK3zbC6RM/0/FrancoisOne-Regular.5d9fcf2450f0e23d7863.a50992b08e7d66bc1aa230d151f54fa0.woff2"
+    }
+  ],
+  "manifestPath": "/var/folders/gz/0wf5kyb51zdb_bb1_w4cvb6m0000gn/T/browser-use/assets/e6dd75bd-e56b-4188-b96a-543e83880701/manifest.json",
+  "summary": {
+    "downloadedCount": 62,
+    "elapsedMs": 733.4387089999946,
+    "failedCount": 118,
+    "requestedCount": 180
+  }
+}

@@ -1,0 +1,227 @@
+- banner:
+  - link "Canva ⁠ (opens in a new tab or window)":
+    - /url: https://www.canva.com
+    - generic: Canva
+    - text: ⁠
+    - generic: (opens in a new tab or window)
+  - button "Share":
+    - generic: Share
+  - button "Create with Canva":
+    - generic: Create with Canva
+- main:
+  - img "Blue gradient fade"
+  - img "Home"
+  - link "Home":
+    - /url: "#page-0"
+  - img "Downward Arrows Icon"
+  - img "3D Beige Paper Airplane"
+  - paragraph: July 16–17, 2026
+  - paragraph: Duration
+  - link:
+    - /url: https://www.canva.com/link?target=https%3A%2F%2Fetourism.dniit.edu.vn%2Fimtecad-2026&design=DAHEdp00dxE&utl=h6bdc87225d&accessRole=viewer&linkSource=document
+  - img "Washi Tape Strip"
+  - img "Pin Location Icon Illustration"
+  - paragraph: NICE, FRANCE
+  - img "Lettering Welcome icon"
+  - img "Bullet Point Icon Decoration"
+  - img "Bullet Point Icon Decoration"
+  - paragraph:
+    - text: DaNang International
+    - text: Institute of Technology,
+    - text: University of DaNang
+  - paragraph:
+    - text: Danang Tourism
+    - text: Association
+  - paragraph:
+    - text: Université Côte d'Azur,
+    - text: France
+  - paragraph:
+    - link "V":
+      - /url: https://www.canva.com/link?target=https%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3DVietnam%2BTourism%2BAssociation%26oq%3Dhi%25E1%25BB%2587p%2Bh%25E1%25BB%2599i%2Bdu%2Bl%25E1%25BB%258Bch%2Bvi%25E1%25BB%2587t%2Bnam%2Bti%25E1%25BA%25BFng%2Banh%2Bl%25C3%25A0%2Bg%25C3%25AC%26gs_lcrp%3DEgZjaHJvbWUyCggAEEUYFhgeGDkyBwgBEAAY7wUyCggCEAAYgAQYogQyCggDEAAYgAQYogQyBwgEEAAY7wUyCggFEAAYogQYiQXSAQg1MDU2ajBqN6gCALACAA%26sourceid%3Dchrome%26ie%3DUTF-8%26mstk%3DAUtExfCdSWULTMCL4bl6p3M0c6tzUvWCMI-RsU_mkvV6bl-lToi63X0g-5Va9QO0XttiykOKlWiyM_Ue9m5Ol_0-9BLhfRJlakWuhz975_1iFiKt447CQi9vL9QbNWgQtPnXoZGs8y4sFWWBnsoyTFRscT7BRRzAt2C1Zjlw-51JHZcTxbQ%26csui%3D3%26ved%3D2ahUKEwigmKbb_bWTAxVdh68BHbe_DsEQgK4QegQIARAB&design=DAHEdp00dxE&utl=h6bdc87225d&accessRole=viewer&linkSource=document
+    - link "ietnam Tourism":
+      - /url: https://www.canva.com/link?target=https%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3DVietnam%2BTourism%2BAssociation%26oq%3Dhi%25E1%25BB%2587p%2Bh%25E1%25BB%2599i%2Bdu%2Bl%25E1%25BB%258Bch%2Bvi%25E1%25BB%2587t%2Bnam%2Bti%25E1%25BA%25BFng%2Banh%2Bl%25C3%25A0%2Bg%25C3%25AC%26gs_lcrp%3DEgZjaHJvbWUyCggAEEUYFhgeGDkyBwgBEAAY7wUyCggCEAAYgAQYogQyCggDEAAYgAQYogQyBwgEEAAY7wUyCggFEAAYogQYiQXSAQg1MDU2ajBqN6gCALACAA%26sourceid%3Dchrome%26ie%3DUTF-8%26mstk%3DAUtExfCdSWULTMCL4bl6p3M0c6tzUvWCMI-RsU_mkvV6bl-lToi63X0g-5Va9QO0XttiykOKlWiyM_Ue9m5Ol_0-9BLhfRJlakWuhz975_1iFiKt447CQi9vL9QbNWgQtPnXoZGs8y4sFWWBnsoyTFRscT7BRRzAt2C1Zjlw-51JHZcTxbQ%26csui%3D3%26ved%3D2ahUKEwigmKbb_bWTAxVdh68BHbe_DsEQgK4QegQIARAB&design=DAHEdp00dxE&utl=h6bdc87225d&accessRole=viewer&linkSource=document
+    - link "Association":
+      - /url: https://www.canva.com/link?target=https%3A%2F%2Fwww.google.com%2Fsearch%3Fq%3DVietnam%2BTourism%2BAssociation%26oq%3Dhi%25E1%25BB%2587p%2Bh%25E1%25BB%2599i%2Bdu%2Bl%25E1%25BB%258Bch%2Bvi%25E1%25BB%2587t%2Bnam%2Bti%25E1%25BA%25BFng%2Banh%2Bl%25C3%25A0%2Bg%25C3%25AC%26gs_lcrp%3DEgZjaHJvbWUyCggAEEUYFhgeGDkyBwgBEAAY7wUyCggCEAAYgAQYogQyCggDEAAYgAQYogQyBwgEEAAY7wUyCggFEAAYogQYiQXSAQg1MDU2ajBqN6gCALACAA%26sourceid%3Dchrome%26ie%3DUTF-8%26mstk%3DAUtExfCdSWULTMCL4bl6p3M0c6tzUvWCMI-RsU_mkvV6bl-lToi63X0g-5Va9QO0XttiykOKlWiyM_Ue9m5Ol_0-9BLhfRJlakWuhz975_1iFiKt447CQi9vL9QbNWgQtPnXoZGs8y4sFWWBnsoyTFRscT7BRRzAt2C1Zjlw-51JHZcTxbQ%26csui%3D3%26ved%3D2ahUKEwigmKbb_bWTAxVdh68BHbe_DsEQgK4QegQIARAB&design=DAHEdp00dxE&utl=h6bdc87225d&accessRole=viewer&linkSource=document
+  - paragraph: EDHEC Business School
+  - paragraph:
+    - text: ELMI - Graduate School of
+    - text: Economics and Management
+  - paragraph: Danang Hotel Association
+  - paragraph: Danang Tourism Association
+  - paragraph:
+    - text: Furama
+    - text: Resort
+  - paragraph: Luxury Tourism
+  - paragraph: Perfumery
+  - paragraph: "& Fragrance"
+  - img "Aziga font, Golden hyphen symbol"
+  - paragraph: WELCOME TO IMTECAD 2026
+  - paragraph: The Inter-regional Meeting in Tourism between the Côte d’Azur and Danang (IMTECAD) 2026 is an international event dedicated to fostering cooperation in tourism development between the Côte d’Azur (France) and Da Nang (Vietnam). The conference aims to promote tourism, strengthen cultural exchange, and build sustainable partnerships between the two regions. IMTECAD 2026 serves as a dynamic platform for tourism stakeholders, researchers, policymakers, and industry professionals to exchange ideas, explore innovative practices, and establish long-term collaborations in the tourism sector.
+  - paragraph: "Date: June 16–17, 2026"
+  - paragraph: "Venue: Nice, France"
+  - paragraph: Partners
+  - paragraph: IMTECAD 2026 is co-organized by the Danang Tourism Association, the Danang Hotel Association, the ULYSSEUS European University Alliance, Université Côte d’Azur, and Furama Resort Danang.
+  - paragraph: The Danang Institute for International Tourism (DNIIT) plays a key bridging role, connecting stakeholders and coordinating the organization of the conference.
+  - paragraph: "The program of IMTECAD 2026 will focus on two main themes:"
+  - paragraph: "Luxury Tourism (one day):"
+  - paragraph: The morning session will feature 2–3 keynote presentations followed by a round-table discussion. In the afternoon, participants will visit a tourism establishment, with opportunities to initiate and sign cooperation agreements between professionals. This theme reflects the growing interest of the Danang Tourism Association in developing luxury tourism packages to the Côte d’Azur for high-end travelers from Southeast Asia.
+  - paragraph: "Perfumes and Aromas in Tourism (one day):"
+  - paragraph: The morning session will include 2–3 presentations and a round-table discussion. In the afternoon, participants will visit a perfume production facility, offering opportunities for professional networking and partnership agreements. This initiative aligns with Furama Resort Danang’s vision to develop a signature perfume line for its hospitality services.
+  - paragraph: IMTECAD 2026 is expected to mark a significant step forward in strengthening international cooperation in tourism, contributing to innovation, cultural exchange, and sustainable development between Europe and Southeast Asia.
+  - img "Bullet Point Icon Decoration"
+  - img "Bullet Point Icon Decoration"
+  - generic "snapsave-app_1376954700840535_hd.mp4"
+  - img "Facebook Logo"
+  - link "Facebook Logo":
+    - /url: https://www.canva.com/link?target=https%3A%2F%2Fwww.facebook.com%2Fdniit.dn%2F&design=DAHEdp00dxE&utl=h6bdc87225d&accessRole=viewer&linkSource=document
+  - img "Gradient Neon Email Icon Representing Messages and Digital Communication Suitable for Social Media Graphics, Marketing Campaigns, and Innovative UI UX Projects"
+  - link "Gradient Neon Email Icon Representing Messages and Digital Communication Suitable for Social Media Graphics, Marketing Campaigns, and Innovative UI UX Projects":
+    - /url: https://www.canva.com/link?target=mailto%3Acontact%40dniit.udn.vn&design=DAHEdp00dxE&utl=h6bdc87225d&accessRole=viewer&linkSource=document
+  - paragraph:
+    - link "Galleries":
+      - /url: "#page-c"
+    - link:
+      - /url: "#page-c"
+  - paragraph:
+    - link "Agenda":
+      - /url: "#page-2"
+  - paragraph:
+    - link "Venue":
+      - /url: "#page-4"
+  - paragraph:
+    - link "Nice Travel News":
+      - /url: "#page-8"
+  - paragraph:
+    - link "Da Nang Travel News":
+      - /url: "#page-a"
+  - paragraph:
+    - text: The 3rd
+    - text: International Conference
+    - text: on Tourism & Creative Design
+  - paragraph:
+    - text: The 3rd
+    - text: International Conference
+    - text: on Tourism & Creative Design
+  - paragraph: 16 - 17 June 2026
+  - paragraph: Université Côte d'Azur, Avenue de Valrose, 06103 Nice CEDEX 2, France.
+  - paragraph:
+    - link "Previous Conference":
+      - /url: "#page-1"
+  - paragraph: Global networking opportunities
+  - paragraph:
+    - link "IMTECAD’202":
+      - /url: https://www.canva.com/link?target=https%3A%2F%2Fetourism.dniit.edu.vn%2Fimtecad-2026&design=DAHEdp00dxE&utl=h6bdc87225d&accessRole=viewer&linkSource=document
+    - link "6":
+      - /url: https://www.canva.com/link?target=https%3A%2F%2Fetourism.dniit.edu.vn%2Fimtecad-2026&design=DAHEdp00dxE&utl=h6bdc87225d&accessRole=viewer&linkSource=document
+  - paragraph: INTRODUCTION
+  - paragraph: ORGANIZERS
+  - paragraph:
+    - text: The 3rd International Conference On
+    - text: Tourism Ecosystems
+  - paragraph:
+    - text: The 3rd International Conference On
+    - text: Tourism Ecosystems
+  - paragraph: IMTECAD 2026
+  - paragraph: Join international experts & participants
+  - paragraph: ORGANIZERS
+  - paragraph:
+    - text: Ulysseus European
+    - text: University
+  - paragraph: COMMITEES
+  - paragraph:
+    - link "MASTER ETOURISM ENROLLMENT":
+      - /url: https://www.canva.com/link?target=https%3A%2F%2Fetourism.dniit.edu.vn&design=DAHEdp00dxE&utl=h6bdc87225d&accessRole=viewer&linkSource=document
+  - paragraph: Dr. DOAN Thi Ngoc Canh
+  - paragraph:
+    - text: Responsible for the E-
+    - text: tourism program
+  - paragraph: Prof. Dr. STÉPHANE Ngo Mai
+  - paragraph: Vice-President for Ulysseus
+  - paragraph: Université Côte d'Azur, France
+  - paragraph: Dr. CAO Tri Dung
+  - paragraph:
+    - text: Chairman of the Danang Tourism
+    - text: Association
+  - paragraph: Prof. Dr. Sc. LE Thanh Nhan
+  - paragraph:
+    - text: Director of Danang International
+    - text: Institute of Technology (DNIIT)
+  - paragraph: Mr. NGUYEN Duc Quynh
+  - paragraph:
+    - text: General Manager of Furama
+    - text: Resort Danang
+  - paragraph: Assoc. Prof. Dr. GIANG Thi Kim Lien
+  - paragraph:
+    - text: Deputy Director – Vietnam–UK
+    - text: Institute for Research and Training
+  - paragraph: Prof. Franck Sosthé
+  - paragraph:
+    - text: Directeur du Département Tourisme -
+    - text: EUR ELMI-Université Côte d'Azur
+  - paragraph: Dr Jérémie Topin
+  - paragraph:
+    - text: Director of the MSc Management of the
+    - text: Flavor & Fragrance Industry Associate
+    - text: Professor / Maître de Conférences
+  - paragraph: Véronique Michelet
+  - paragraph: Prof. Institute of Chemistry
+  - paragraph: Pr. Victor Mejia
+  - paragraph:
+    - text: Co-directeur du MSc Marketing Track
+    - text: Prof. Université Grenoble Alpes
+  - paragraph: Associate Prof. Marie-Catherine Mars
+  - paragraph:
+    - text: Co-directrice du MSc – Marketing Track
+    - text: Associate Prof. EDHEC Business School
+  - paragraph: Danang Internation Institute of Technology - DNIIT
+  - paragraph: Phòng 602-604, Khu B, Đại học Đà Nẵng, 41 Lê Duẩn, TP. Đà Nẵng
+  - paragraph: SPEAKERS
+  - paragraph: Round table 2
+  - paragraph: Round table 2
+  - paragraph: Reseach reports
+  - paragraph: Session 3
+  - paragraph: Round table 1
+  - paragraph: Session 2
+  - paragraph: Round table 1
+  - paragraph: Field coordinator
+  - paragraph: Research reports
+  - paragraph: Field Rapporteurs
+  - paragraph: Field Rapporteaurs
+  - paragraph: Session 3
+  - paragraph:
+    - text: Mme. Sana BELHDI Secrétariat
+    - text: Département Tourisme Nice
+  - paragraph: Session 1
+  - paragraph: Follow-up Remarks
+  - paragraph: Follow-up Remarks
+  - group "Video controls":
+    - paragraph: 14.2s
+    - slider "Seek bar": "14.250667"
+    - button:
+    - button:
+- contentinfo "Page controls":
+  - slider "Design slider"
+  - region "Toolbar":
+    - group "Toolbar":
+      - navigation "Slide":
+        - button "Previous page" [disabled]:
+        - button "Go to page":
+          - paragraph: "1"
+          - paragraph: /
+          - paragraph: "14"
+        - button "Next page":
+    - group "Toolbar":
+      - button "Show view-only captions on media":
+      - button "Zoom in and out":
+      - button "More":
+      - button "Enter full screen":
+- text: AAAAAAAAAAAAAAAAAAAAAAA
+- generic: Page controls
+- generic: Toolbar
+- generic: Previous page
+- generic: Go to page
+- generic: Next page
+- generic: Show view-only captions on media
+- generic: Zoom in and out
+- generic: More
+- generic: Enter full screen

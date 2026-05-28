@@ -1,0 +1,491 @@
+- heading "trình chỉnh sửa Canva" [active] [level=1]
+- generic: Đã tải xong
+- generic: Các thay đổi sẽ tự động được lưu
+- paragraph:
+  - link "Bỏ qua điều hướng":
+    - /url: "#_r_0_2"
+    - generic: Bỏ qua điều hướng
+- paragraph:
+  - link "Chuyển đến nội dung chính":
+    - /url: "#_r_0_3"
+    - generic: Chuyển đến nội dung chính
+- banner:
+  - menubar "Chính":
+    - group "Tùy chọn kiểm soát tài liệu":
+      - menuitem "Trang chủ":
+      - menuitem "Tệp":
+        - generic: Tệp
+      - menuitem "Đổi cỡ":
+        - generic: Đổi cỡ
+      - menuitem "Sửa":
+        - generic: Sửa
+      - menuitem "Đã lưu tất cả thay đổi":
+    - group "Chia sẻ và đăng":
+      - textbox "Tiêu đề thiết kế": IMTECAD’2026
+      - generic: IMTECAD’2026
+      - menuitem "Nâng cấp gói đăng ký":
+        - generic: Nâng cấp gói đăng ký
+      - button "Design DNIIT"
+      - menuitem "Phân tích":
+      - menuitem "Xem tất cả bình luận":
+      - menuitem "Xem trước":
+        - generic: Xem trước
+      - menuitem "Đăng trang web":
+        - generic: Đăng trang web
+      - menuitem "Chia sẻ":
+        - generic: Chia sẻ
+- complementary "Bảng bên":
+  - heading "Bảng bên" [level=2]
+  - tablist "Bảng bên":
+    - tab "Mẫu":
+      - generic "Mẫu":
+        - generic: Mẫu
+    - tab "Thành phần":
+      - generic "Thành phần":
+        - generic: Thành phần
+    - tab "Văn bản":
+      - generic "Văn bản":
+        - generic: Văn bản
+    - tab "Thương hiệu":
+      - generic "Thương hiệu":
+        - generic: Thương hiệu
+    - tab "Tải lên":
+      - generic "Tải lên":
+        - generic "Tải lên":
+          - generic: Tải lên
+    - tab "Công cụ":
+      - generic "Công cụ":
+        - generic: Công cụ
+    - tab "Dự án":
+      - generic "Dự án":
+        - generic "Dự án":
+          - generic: Dự án
+    - tab "Ứng dụng":
+      - generic "Ứng dụng":
+        - generic: Ứng dụng
+    - separator
+    - tab "Nền":
+      - generic "Nền":
+        - generic: Nền
+    - tab "Tạo hàng loạt":
+      - generic "Tạo hàng loạt":
+        - generic: Tạo hàng loạt
+    - tab "Biểu đồ":
+      - generic "Biểu đồ":
+        - generic: Biểu đồ
+    - tab "Brochure":
+      - generic "Brochure":
+        - generic: ;
+        - generic: Brochure
+    - tab "QR code":
+      - generic "QR code":
+        - generic: QR code
+    - tab "Vectorizer":
+      - generic "Vectorizer":
+        - generic: Vectorizer
+    - tab "Hồ sơ":
+      - generic "Hồ sơ":
+        - generic: ;
+        - generic: Hồ sơ
+- button "Điểm bắt đầu khung vẽ"
+- main "Canvas":
+  - application
+  - group "Điều khiển trang":
+    - generic: Trang 12 -
+    - textbox "Tiêu đề trang": D
+    - generic: D
+    - button "Chuyển lên":
+    - button "Chuyển xuống":
+    - button "Ẩn 1 trang":
+    - button "Khóa trang":
+    - button "Tạo bản sao":
+    - button "Xóa trang":
+    - button "Thêm trang":
+  - paragraph: Agenda
+  - paragraph: Venue
+  - paragraph: Nice Travel News
+  - paragraph: Da Nang Travel News
+  - paragraph: Galleries
+  - paragraph: DaNang’s Travel News
+  - paragraph: Previous Conference
+  - paragraph: Galleries
+  - paragraph: Agenda
+  - paragraph: Venue
+  - paragraph: Nice Travel News
+  - paragraph: Da Nang Travel News
+  - paragraph: Previous Conference
+  - paragraph: IMTECAD’ 2022
+  - paragraph: IMTECAD’ 2023
+  - paragraph: Danang Internation Institute of Technology - DNIIT
+  - paragraph: Phòng 602-604, Khu B, Đại học Đà Nẵng, 41 Lê Duẩn, TP. Đà Nẵng
+  - heading [level=1]: DaNang Fantascity
+  - paragraph: VietNamese tourism news
+  - paragraph: NEWS
+  - heading [level=1]: DIFF 2026 Ticket Price – Da Nang International Fireworks Festival 2026 Schedule and Grandstand Details
+  - paragraph: 11/03/2026
+  - heading [level=1]: Explore the natural beauty of Da Nang
+  - heading [level=6]: 11/02/2025
+  - heading [level=1]: Experiencing Rich Culture and Heritage
+  - heading [level=6]: 02/08/2024
+  - application "Nội dung Canvas":
+    - group "Trang 12, mục 1":
+      - img "Thành phần"
+      - group "DaNang’s Travel News":
+        - paragraph:
+          - strong: DaNang’s Travel News
+      - img "Màu đen, Hình chữ nhật"
+      - img "Màu xanh lam rực rỡ, Hình chữ nhật"
+      - group "Agenda":
+        - paragraph:
+          - link "Agenda":
+            - /url: "#page-2"
+            - strong:
+              - generic: Agenda
+      - group "Venue":
+        - paragraph:
+          - link "Venue":
+            - /url: "#page-4"
+            - strong:
+              - generic: Venue
+      - group "Nice Travel News":
+        - paragraph:
+          - link "Nice Travel News":
+            - /url: "#page-8"
+            - strong:
+              - generic: Nice Travel News
+      - group "Da Nang Travel News":
+        - paragraph:
+          - link "Da Nang Travel News":
+            - /url: "#page-a"
+            - strong:
+              - generic: Da Nang Travel News
+      - group "Previous Conference":
+        - paragraph:
+          - link "Previous Conference":
+            - /url: "#page-b"
+            - strong:
+              - generic: Previous Conference
+      - group "Galleries":
+        - paragraph:
+          - link "Galleries":
+            - /url: "#page-c"
+            - strong:
+              - generic: Galleries
+      - group "Nice Travel News":
+        - paragraph:
+          - link "Nice Travel News":
+            - /url: "#page-8"
+            - strong:
+              - generic: Nice Travel News
+      - group "Previous Conference":
+        - paragraph:
+          - link "Previous Conference":
+            - /url: "#page-a"
+            - strong:
+              - generic: Previous Conference
+      - group "Galleries":
+        - paragraph:
+          - link "Galleries":
+            - /url: "#page-c"
+            - strong:
+              - generic: Galleries
+      - img "Home"
+      - group "Agenda":
+        - paragraph:
+          - link "Agenda":
+            - /url: "#page-2"
+            - strong:
+              - generic: Agenda
+      - group "Venue":
+        - paragraph:
+          - link "Venue":
+            - /url: "#page-4"
+            - strong:
+              - generic: Venue
+      - group "Da Nang Travel News":
+        - paragraph:
+          - link "Da Nang Travel News":
+            - /url: "#page-a"
+            - strong:
+              - generic: Da Nang Travel News
+      - img "Downward Arrows Icon"
+      - img "Downward Arrows Icon"
+      - img "Downward Arrows Icon"
+      - img "Downward Arrows Icon"
+      - img "Màu xanh lam rực rỡ, Hình chữ nhật"
+      - group "IMTECAD’ 2023":
+        - paragraph:
+          - link "IMTECAD’ 2023":
+            - /url: "#page-6"
+            - strong:
+              - generic: IMTECAD’ 2023
+      - img "Màu xanh lam rực rỡ, Hình chữ nhật"
+      - group "IMTECAD’ 2022":
+        - paragraph:
+          - link "IMTECAD’ 2022":
+            - /url: https://sites.google.com/view/imtecad2022/home?authuser=0
+            - strong:
+              - generic: IMTECAD’ 2022
+      - img "Thành phần"
+      - img "Thành phần"
+      - img "Thành phần"
+      - img "Thành phần"
+      - group "NEWS":
+        - paragraph:
+          - strong: NEWS
+      - img "Màu cam sáng, Hình chữ nhật"
+      - img "Thành phần"
+      - group "DaNang Fantascity VietNamese tourism news":
+        - heading "DaNang Fantascity" [level=1]:
+          - link "DaNang Fantascity":
+            - /url: https://danangfantasticity.com/en
+            - strong: DaNang Fantascity
+        - paragraph:
+          - strong: VietNamese tourism news
+      - img "Màu cam sáng, Hình chữ nhật"
+      - img "Thành phần"
+      - group "DIFF 2026 Ticket Price – Da Nang International Fireworks Festival 2026 Schedule and Grandstand De...":
+        - heading "DIFF 2026 Ticket Price – Da Nang International Fireworks Festival 2026 Schedule and Grandstand Details" [level=1]:
+          - link "DIFF 2026 Ticket Price – Da Nang International Fireworks Festival 2026 Schedule and Grandstand Details":
+            - /url: https://danangfantasticity.com/en/discovery/ticket-prices-for-the-da-nang-international-fireworks-festival-2026
+            - strong:
+              - generic: DIFF 2026 Ticket Price – Da Nang International Fireworks Festival 2026 Schedule and Grandstand Details
+        - paragraph
+        - paragraph
+        - paragraph
+      - group "11/03/2026":
+        - paragraph: 11/03/2026
+      - img "Màu cam sáng, Hình chữ nhật"
+      - img "Thành phần"
+      - group "Explore the natural beauty of Da Nang":
+        - heading "Explore the natural beauty of Da Nang" [level=1]:
+          - link "Explore the natural beauty of Da Nang":
+            - /url: https://danangfantasticity.com/en
+            - strong:
+              - generic: Explore the natural beauty of Da Nang
+        - paragraph
+      - group "11/02/2025":
+        - heading "11/02/2025" [level=6]
+      - img "Màu cam sáng, Hình chữ nhật"
+      - img "Thành phần"
+      - group "Experiencing Rich Culture and Heritage":
+        - heading "Experiencing Rich Culture and Heritage" [level=1]:
+          - link "Experiencing Rich Culture and Heritage":
+            - /url: https://danangfantasticity.com/en
+            - strong:
+              - generic: Experiencing Rich Culture and Heritage
+        - paragraph
+      - group "02/08/2024":
+        - heading "02/08/2024" [level=6]
+        - paragraph
+        - heading [level=6]
+      - group "Danang Internation Institute of Technology - DNIIT Phòng 602-604, Khu B, Đại học Đà Nẵng, 41 Lê D...":
+        - paragraph:
+          - strong: Danang Internation Institute of Technology - DNIIT
+        - paragraph:
+          - strong: Phòng 602-604, Khu B, Đại học Đà Nẵng, 41 Lê Duẩn, TP. Đà Nẵng
+      - img "Facebook Logo"
+      - img "Gradient Neon Email Icon Representing Messages and Digital Communication Suitable for Social Media Graphics, Marketing Campaigns, and Innovative UI UX Projects"
+  - group "Điều khiển trang":
+    - generic: Trang 13 -
+    - textbox "Tiêu đề trang": Galleries
+    - generic: Galleries
+    - button "Chuyển lên":
+    - button "Chuyển xuống":
+    - button "Ẩn 1 trang":
+    - button "Khóa trang":
+    - button "Tạo bản sao":
+    - button "Xóa trang":
+    - button "Thêm trang":
+  - paragraph: GALLERIES
+  - paragraph: Agenda
+  - paragraph: Venue
+  - paragraph: Nice Travel News
+  - paragraph: Da Nang Travel News
+  - paragraph: Galleries
+  - paragraph: Previous Conference
+  - paragraph: Galleries
+  - paragraph: Agenda
+  - paragraph: Venue
+  - paragraph: Nice Travel News
+  - paragraph: Da Nang Travel News
+  - paragraph: Previous Conference
+  - paragraph: Events
+  - paragraph: NICE
+  - paragraph: Da Nang
+  - paragraph: Danang Internation Institute of Technology - DNIIT
+  - paragraph: Phòng 602-604, Khu B, Đại học Đà Nẵng, 41 Lê Duẩn, TP. Đà Nẵng
+  - application "Nội dung Canvas":
+    - group "Trang 13, mục 1":
+      - img "Modern Art Gallery with Paintings and Chairs"
+      - group "GALLERIES":
+        - paragraph:
+          - strong: GALLERIES
+      - img "Màu đen, Hình chữ nhật"
+      - img "Màu xanh lam rực rỡ, Hình chữ nhật"
+      - group "Agenda":
+        - paragraph:
+          - link "Agenda":
+            - /url: "#page-2"
+            - strong:
+              - generic: Agenda
+      - group "Venue":
+        - paragraph:
+          - link "Venue":
+            - /url: "#page-4"
+            - strong:
+              - generic: Venue
+      - group "Nice Travel News":
+        - paragraph:
+          - link "Nice Travel News":
+            - /url: "#page-8"
+            - strong:
+              - generic: Nice Travel News
+      - group "Da Nang Travel News":
+        - paragraph:
+          - link "Da Nang Travel News":
+            - /url: "#page-a"
+            - strong:
+              - generic: Da Nang Travel News
+      - group "Previous Conference":
+        - paragraph:
+          - link "Previous Conference":
+            - /url: "#page-b"
+            - strong:
+              - generic: Previous Conference
+      - group "Galleries":
+        - paragraph:
+          - link "Galleries":
+            - /url: "#page-c"
+            - strong:
+              - generic: Galleries
+      - group "Galleries":
+        - paragraph:
+          - link "Galleries":
+            - /url: "#page-c"
+            - strong:
+              - generic: Galleries
+      - img "Home"
+      - group "Agenda":
+        - paragraph:
+          - link "Agenda":
+            - /url: "#page-2"
+            - strong:
+              - generic: Agenda
+      - group "Venue":
+        - paragraph:
+          - link "Venue":
+            - /url: "#page-4"
+            - strong:
+              - generic: Venue
+      - group "Nice Travel News":
+        - paragraph:
+          - link "Nice Travel News":
+            - /url: "#page-8"
+            - strong:
+              - generic: Nice Travel News
+      - group "Da Nang Travel News":
+        - paragraph:
+          - link "Da Nang Travel News":
+            - /url: "#page-a"
+            - strong:
+              - generic: Da Nang Travel News
+      - group "Previous Conference":
+        - paragraph:
+          - link "Previous Conference":
+            - /url: "#page-d"
+            - strong:
+              - generic: Previous Conference
+      - img "Downward Arrows Icon"
+      - img "Downward Arrows Icon"
+      - img "Downward Arrows Icon"
+      - img "Màu cam sáng, Hình chữ nhật"
+      - group "Events":
+        - paragraph:
+          - strong: Events
+      - img "Thành phần"
+      - img "Thành phần"
+      - img "Thành phần"
+      - img "Thành phần"
+      - img "Thành phần"
+      - img "Thành phần"
+      - img "Thành phần"
+      - img "Thành phần"
+      - img "Thành phần"
+      - img "Thành phần"
+      - img "Thành phần"
+      - img "Thành phần"
+      - img "Thành phần"
+      - img "Thành phần"
+      - img "Thành phần"
+      - img "Màu cam sáng, Hình chữ nhật"
+      - group "NICE":
+        - paragraph:
+          - strong: NICE
+      - img "Thành phần"
+      - img "Thành phần"
+      - img "Thành phần"
+      - img "Màu cam sáng, Hình chữ nhật"
+      - group "Da Nang":
+        - paragraph:
+          - strong: Da Nang
+      - img "Thành phần"
+      - img "Thành phần"
+      - img "Thành phần"
+      - group "Danang Internation Institute of Technology - DNIIT Phòng 602-604, Khu B, Đại học Đà Nẵng, 41 Lê D...":
+        - paragraph:
+          - strong: Danang Internation Institute of Technology - DNIIT
+        - paragraph:
+          - strong: Phòng 602-604, Khu B, Đại học Đà Nẵng, 41 Lê Duẩn, TP. Đà Nẵng
+      - img "Facebook Logo"
+      - img "Gradient Neon Email Icon Representing Messages and Digital Communication Suitable for Social Media Graphics, Marketing Campaigns, and Innovative UI UX Projects"
+  - button "Thêm trang":
+    - heading "Thêm trang" [level=5]
+  - button "Thêm loại trang":
+- contentinfo:
+  - button "Ghi chú":
+    - generic: Ghi chú
+  - button "Hiển thị bộ đếm ngược":
+    - generic: Đếm ngược
+  - slider "Thu phóng": "-0.305"
+  - combobox "Tùy chọn thu phóng":
+    - generic: 74%
+  - button "Trang":
+    - generic: Trang
+  - button "13 / 14":
+    - generic: 13 / 14
+  - button "Dạng xem lưới":
+  - button "Xem toàn màn hình":
+  - button "Trợ lý AI":
+- generic: Canvas
+- generic: Phần điều hướng chính chứa các nút cho các tùy chọn mức tài liệu. Để chuyển đổi giữa các nút, hãy sử dụng các phím trái và phải. Để kích hoạt, hãy nhấn Enter. Để chuyển sang khung vẽ, hãy nhấn “⌘F2”.
+- generic: Khung vẽ là không gian nơi bạn thiết kế. Để vào trang, hãy nhấn Enter. Để vào các nhóm hoặc thành phần trên trang, hãy nhấn Enter một lần nữa. Nhấn tab để chuyển đến trang, nhóm hoặc thành phần tiếp theo. Để sử dụng thanh công cụ, hãy dùng phím “⌘F1”. Sau khi chọn thành phần, hãy di chuyển thành phần bằng các phím mũi tên; xoay bằng phím “,” và phím “.”; và đổi cỡ bằng cách sử dụng các phím mũi tên cùng với phím “⌘”. Bạn có thể tăng cường cho tất cả các phím này bằng phím “⇧”.
+- generic: Tiêu đề thiết kế là tên của thiết kế. Để chỉnh sửa tiêu đề thiết kế, hãy nhấn Enter. Để dừng chỉnh sửa, nhấn Escape.
+- generic: Bảng bên là nơi bạn có thể áp dụng các mẫu hoặc thêm các thành phần. Để chuyển sang khung vẽ, hãy nhấn “⌘F2”.
+- generic: Ghi chú
+- generic: Hiển thị bộ đếm ngược
+- generic: Thu phóng
+- generic: Hiện hình thu nhỏ của trang
+- generic: Truy cập trang
+- generic: Dạng xem lưới
+- generic: Đã lưu tất cả thay đổi
+- generic: Trang chủ
+- generic: Trợ lý AI
+- generic: Xem toàn màn hình
+- generic: Phân tích
+- generic: Chia sẻ
+- generic: Nút này sẽ mở menu có tất cả các tùy chọn chia sẻ và in thiết kế.
+- generic: Chuyển lên
+- generic: Chuyển xuống
+- generic: Ẩn 1 trang
+- generic: Khóa trang
+- generic: Tạo bản sao
+- generic: Xóa trang
+- generic: Thêm trang
+- generic: Chuyển lên
+- generic: Chuyển xuống
+- generic: Ẩn 1 trang
+- generic: Khóa trang
+- generic: Tạo bản sao
+- generic: Xóa trang
+- generic: Thêm trang

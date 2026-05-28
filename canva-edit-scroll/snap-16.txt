@@ -1,0 +1,646 @@
+- heading "trình chỉnh sửa Canva" [active] [level=1]
+- generic: Đã tải xong
+- generic: Các thay đổi sẽ tự động được lưu
+- paragraph:
+  - link "Bỏ qua điều hướng":
+    - /url: "#_r_0_2"
+    - generic: Bỏ qua điều hướng
+- paragraph:
+  - link "Chuyển đến nội dung chính":
+    - /url: "#_r_0_3"
+    - generic: Chuyển đến nội dung chính
+- banner:
+  - menubar "Chính":
+    - group "Tùy chọn kiểm soát tài liệu":
+      - menuitem "Trang chủ":
+      - menuitem "Tệp":
+        - generic: Tệp
+      - menuitem "Đổi cỡ":
+        - generic: Đổi cỡ
+      - menuitem "Sửa":
+        - generic: Sửa
+      - menuitem "Đã lưu tất cả thay đổi":
+    - group "Chia sẻ và đăng":
+      - textbox "Tiêu đề thiết kế": IMTECAD’2026
+      - generic: IMTECAD’2026
+      - menuitem "Nâng cấp gói đăng ký":
+        - generic: Nâng cấp gói đăng ký
+      - button "Design DNIIT"
+      - menuitem "Phân tích":
+      - menuitem "Xem tất cả bình luận":
+      - menuitem "Xem trước":
+        - generic: Xem trước
+      - menuitem "Đăng trang web":
+        - generic: Đăng trang web
+      - menuitem "Chia sẻ":
+        - generic: Chia sẻ
+- complementary "Bảng bên":
+  - heading "Bảng bên" [level=2]
+  - tablist "Bảng bên":
+    - tab "Mẫu":
+      - generic "Mẫu":
+        - generic: Mẫu
+    - tab "Thành phần":
+      - generic "Thành phần":
+        - generic: Thành phần
+    - tab "Văn bản":
+      - generic "Văn bản":
+        - generic: Văn bản
+    - tab "Thương hiệu":
+      - generic "Thương hiệu":
+        - generic: Thương hiệu
+    - tab "Tải lên":
+      - generic "Tải lên":
+        - generic "Tải lên":
+          - generic: Tải lên
+    - tab "Công cụ":
+      - generic "Công cụ":
+        - generic: Công cụ
+    - tab "Dự án":
+      - generic "Dự án":
+        - generic "Dự án":
+          - generic: Dự án
+    - tab "Ứng dụng":
+      - generic "Ứng dụng":
+        - generic: Ứng dụng
+    - separator
+    - tab "Nền":
+      - generic "Nền":
+        - generic: Nền
+    - tab "Tạo hàng loạt":
+      - generic "Tạo hàng loạt":
+        - generic: Tạo hàng loạt
+    - tab "Biểu đồ":
+      - generic "Biểu đồ":
+        - generic: Biểu đồ
+    - tab "Brochure":
+      - generic "Brochure":
+        - generic: ;
+        - generic: Brochure
+    - tab "QR code":
+      - generic "QR code":
+        - generic: QR code
+    - tab "Vectorizer":
+      - generic "Vectorizer":
+        - generic: Vectorizer
+    - tab "Hồ sơ":
+      - generic "Hồ sơ":
+        - generic: ;
+        - generic: Hồ sơ
+- button "Điểm bắt đầu khung vẽ"
+- main "Canvas":
+  - application
+  - group "Điều khiển trang":
+    - generic: Trang 4 -
+    - textbox "Tiêu đề trang": AGENDA
+    - generic: AGENDA
+    - button "Chuyển lên":
+    - button "Chuyển xuống":
+    - button "Ẩn 1 trang":
+    - button "Khóa trang":
+    - button "Tạo bản sao":
+    - button "Xóa trang":
+    - button "Thêm trang":
+  - paragraph: AGENDA
+  - paragraph: 16 - 17 June 2026
+  - paragraph: "Location: Nice, France"
+  - paragraph: Galleries
+  - paragraph: Agenda
+  - paragraph: Venue
+  - paragraph: Nice Travel News
+  - paragraph: Da Nang Travel News
+  - paragraph: Previous Conference
+  - paragraph: IMTECAD’ 2022
+  - paragraph: IMTECAD’ 2023
+  - paragraph: Danang Internation Institute of Technology - DNIIT
+  - paragraph: Phòng 602-604, Khu B, Đại học Đà Nẵng, 41 Lê Duẩn, TP. Đà Nẵng
+  - paragraph: 16 June 2026
+  - paragraph: Specialist Workshop in Grasse
+  - paragraph: Morning
+  - paragraph: "09:00 – 10:30: Session 1: Sensory Science in Tourism."
+  - paragraph: "Presentation: Prof. Sylvain ANTONIOTTI – \"Application of Fragrance Extraction in High-end Tourism Experiences.\""
+  - paragraph: "Presentation: Ms. Nguyen Thi Thu Hien (Master 2 Student) – \"Local Aromas: A Multi-sensory Approach to Culinary Tourism\""
+  - paragraph: Lunch
+  - paragraph: Lunch hosted by UniCA
+  - paragraph: Afternoon
+  - paragraph: 17 June 2026
+  - paragraph: Specialist Workshop in Nice
+  - paragraph: "10:30 – 12:00: Session 2: Supply Chain and Sustainability."
+  - paragraph: "Presentation: Mr. Nguyen Duc Quynh – \"Strategy to Elevate Danang’s Culinary Tourism through Sensory Experiences.\""
+  - paragraph: "14:00 – 15:30: Round Table 1: Green Logistics and Infrastructure."
+  - paragraph: "Moderator: Mr. Nguyen Duc Quynh (Chairman, Danang Hotel & Culinary Association)."
+  - paragraph: "Panelists: Mr. Nguyen Pham Tuyen (Head of Dept, Petrolimex Danang) on energy logistics for tourism and Mr. Pham Ngoc Lợi (Master 2 Student)"
+  - paragraph: 15 June 2026
+  - paragraph: Academic Connectivity & Institutional Exchange (Nice)
+  - paragraph: Morning
+  - paragraph: "08:30 – 12:00: Field visit to Campus Valrose and Campus Carlone/Trotabas"
+  - paragraph: Afternoon
+  - paragraph: "14:00 – 17:00: Working session with the Direction of the Master of Tourism at UniCA"
+  - paragraph:
+    - text: "Keynote Presentation:"
+    - generic: "Assoc. Prof. Dr. Kieu Thi Kinh (University of Danang) – \"Tourism Training in the Digital Era: Integrating Educational Technology and Pedagogical Innovation.\""
+  - paragraph: "Follow-up Remarks: Mr. Phan Van Quang (Officer, DNIIT) on the technological collaboration framework between DNIIT and UniCA"
+  - paragraph: "Observers: Cao Nam Phong and Cao Van Miên"
+  - paragraph: Theme
+  - paragraph:
+    - generic: "Fragrance and Perfume in Culinary Tourism Co-Chaired by: Prof. Sylvain ANTONIOTTI (Vice Director of IDEX, UniCA) & Mr. Nguyen Duc Quynh (Chairman of Danang Hotel & Culinary Association; GM of Furama Resort)"
+  - paragraph: Morning
+  - paragraph: "08:30 – 10:30: Session 3: The Luxury Ecosystem & Digital Transformation."
+  - paragraph: "Keynote Presentation: Dr. Doan Thi Ngoc Canh – \"Digital Transformation and Smart Tourism.\""
+  - paragraph: "Presentation: Dr. Cao Tri Dung – \"Positioning Danang as a Preferred Destination for the Global Ultra-Luxury Segment\""
+  - paragraph: "Presentation: Ms. Giang Thi Kim Lien (Vice Dean, VNUK) – \"Luxury Consumer Behavior and Personalized Service Requirements\""
+  - paragraph: Lunch
+  - paragraph: Lunch hosted by UniCA
+  - paragraph: Afternoon
+  - paragraph: "10:30 – 12:00: Round Table 2: MICE and Aviation Connectivity."
+  - paragraph: "Moderator: Dr. Cao Tri Dung (Chairman, Danang Tourism Association)."
+  - paragraph:
+    - generic: "Panelists: Ms. Tran Thi Ngoc Bich (Officer, Danang Tourism Association), Ms. Le Thi Kim Hanh (Master 2 Student, Vietnam Airlines), and Mr. Huynh Le Đức Hợp (Master 2 Student)"
+  - paragraph: "14:00 – 16:00: Research Reports:"
+  - paragraph: "\"Personalization in Luxury Tourism via Digital Tech\" – Mr. Huynh Le Duc Hop."
+  - paragraph: "\"Potential for International Event Tourism in Central Vietnam\" – Ms. Chau Hai Quynh"
+  - paragraph: Theme
+  - paragraph:
+    - generic: "Specialized Tourism and Ultra-Luxury Tourism Co-Chaired by: Assoc. Prof. Frank SOSTHES (Master Tourisme, ELMI, UniCA) & Dr. Cao Tri Dung (Chairman of Danang Tourism Association; Vice Chairman of VITA)"
+  - paragraph: "16:00 – 17:30: Summary of the day and transfer of witness to the Vietnamese Delegation"
+  - paragraph: 18 June 2026
+  - paragraph: Applied Training & Technical Survey (IUT)
+  - paragraph: Morning
+  - paragraph: Technical visit to Campus Fabron and Campus Sophiatech.
+  - paragraph: Afternoon
+  - paragraph: Applied work session at Campus Cannes.
+  - paragraph: Technical Presentation
+  - paragraph: Ms. Le Thi Huệ (Officer, Vietnam Energy Inspection) – "Safety Standards and Energy Inspection in Modern Tourism Facilities"
+  - paragraph: Focus
+  - paragraph: Survey of IUT Campuses (Fabron, Sophiatech, Cannes)
+  - paragraph: Field Rapporteurs
+  - paragraph: Ms. Nguyen Thi Thuy Tien and Ms. Chau Hai Quynh
+  - paragraph: 19 June 2026
+  - paragraph: Field Operations & Signing Ceremony
+  - paragraph: Morning
+  - paragraph: "09:00 – 12:00: Field survey of luxury yacht marinas and five-star hotel operations (e.g., Le Negresco)."
+  - paragraph: "Field Coordinator: Ms. Nguyen Phan Linh (CEO, Vietchangtravel Danang) and Ms. Nguyen Thị Diệu Tâm (Master 2 Student)"
+  - paragraph: Afternoon
+  - paragraph: "15:00 – 17:00: MOU Signing Ceremony & Collaboration Agreements."
+  - paragraph: "UniCA Representative: Prof. Stéphane NGO MAÏ (Vice-President ULYSSEUS and International Partnerships)"
+  - paragraph: "Danang Representative: Dr. Cao Tri Dung (Chairman, Danang Tourism Association)"
+  - paragraph: ".Content: Agreements on high-quality human resource training and expert exchange."
+  - paragraph: Evening
+  - paragraph: "19:00 – 21:30: Farewell Dinner and Final Summary."
+  - paragraph: Focus
+  - paragraph: Infrastructure survey and formalizing agreements
+  - application "Nội dung Canvas":
+    - group "Trang 4, mục 1":
+      - img "Màu đen, Hình chữ nhật"
+      - group "16 - 17 June 2026":
+        - paragraph:
+          - strong: 16 - 17 June 2026
+      - group "AGENDA":
+        - paragraph:
+          - strong: AGENDA
+      - 'group "Location: Nice, France"':
+        - paragraph:
+          - strong: "Location: Nice, France"
+      - img "Thành phần"
+      - img "Màu xanh lam rực rỡ, Hình chữ nhật"
+      - group "Venue":
+        - paragraph:
+          - link "Venue":
+            - /url: "#page-4"
+            - strong:
+              - generic: Venue
+      - group "Da Nang Travel News":
+        - paragraph:
+          - link "Da Nang Travel News":
+            - /url: "#page-a"
+            - strong:
+              - generic: Da Nang Travel News
+      - group "Galleries":
+        - paragraph:
+          - link "Galleries":
+            - /url: "#page-c"
+            - strong:
+              - generic: Galleries
+      - img "Home"
+      - group "Agenda":
+        - paragraph:
+          - link "Agenda":
+            - /url: "#page-2"
+            - strong:
+              - generic: Agenda
+      - group "Nice Travel News":
+        - paragraph:
+          - link "Nice Travel News":
+            - /url: "#page-8"
+            - strong:
+              - generic: Nice Travel News
+      - group "Previous Conference":
+        - paragraph:
+          - link "Previous Conference":
+            - /url: "#page-2"
+            - strong:
+              - generic: Previous Conference
+      - img "Downward Arrows Icon"
+      - img "Downward Arrows Icon"
+      - img "Màu xanh lam rực rỡ, Hình chữ nhật"
+      - img "Downward Arrows Icon"
+      - group "IMTECAD’ 2023":
+        - paragraph:
+          - link "IMTECAD’ 2023":
+            - /url: "#page-6"
+            - strong:
+              - generic: IMTECAD’ 2023
+      - img "Màu xanh lam rực rỡ, Hình chữ nhật"
+      - group "IMTECAD’ 2022":
+        - paragraph:
+          - link "IMTECAD’ 2022":
+            - /url: https://sites.google.com/view/imtecad2022/home?authuser=0
+            - strong:
+              - generic: IMTECAD’ 2022
+      - group "15 June 2026":
+        - paragraph:
+          - strong: 15 June 2026
+      - img "Màu xanh lam rực rỡ, Hình chữ nhật"
+      - group "Academic Connectivity & Institutional Exchange (Nice)":
+        - paragraph:
+          - strong: Academic Connectivity & Institutional Exchange (Nice)
+      - group "Morning":
+        - paragraph:
+          - strong: Morning
+      - img "mỏng"
+      - 'group "08:30 – 12:00: Field visit to Campus Valrose and Campus Carlone/Trotabas"':
+        - paragraph:
+          - strong: "08:30 – 12:00:"
+          - text: Field visit to Campus Valrose and Campus Carlone/Trotabas
+        - paragraph
+      - group "Afternoon":
+        - paragraph:
+          - strong: Afternoon
+      - img "mỏng"
+      - 'group "14:00 – 17:00: Working session with the Direction of the Master of Tourism at UniCA"':
+        - paragraph:
+          - strong: "14:00 – 17:00:"
+          - text: Working session with the Direction of the Master of Tourism at UniCA
+      - 'group "Keynote Presentation: Assoc. Prof. Dr. Kieu Thi Kinh (University of Danang) – \"Tourism Training i..."':
+        - paragraph:
+          - strong: "Keynote Presentation:"
+          - text: "Assoc. Prof. Dr. Kieu Thi Kinh (University of Danang) – \"Tourism Training in the Digital Era: Integrating Educational Technology and Pedagogical Innovation.\""
+        - paragraph: "Follow-up Remarks: Mr. Phan Van Quang (Officer, DNIIT) on the technological collaboration framework between DNIIT and UniCA"
+        - paragraph
+        - paragraph:
+          - strong: "Observers:"
+          - text: Cao Nam Phong and Cao Van Miên
+        - paragraph
+      - group "16 June 2026":
+        - paragraph:
+          - strong: 16 June 2026
+      - img "Màu xanh lam rực rỡ, Hình chữ nhật"
+      - group "Specialist Workshop in Grasse":
+        - paragraph:
+          - strong: Specialist Workshop in Grasse
+        - paragraph
+      - group "Theme":
+        - paragraph:
+          - strong: Theme
+      - img "mỏng"
+      - 'group "Fragrance and Perfume in Culinary Tourism Co-Chaired by: Prof. Sylvain ANTONIOTTI (Vice Director..."':
+        - paragraph: "Fragrance and Perfume in Culinary Tourism Co-Chaired by: Prof. Sylvain ANTONIOTTI (Vice Director of IDEX, UniCA) & Mr. Nguyen Duc Quynh (Chairman of Danang Hotel & Culinary Association; GM of Furama Resort)"
+        - paragraph
+      - group "Morning":
+        - paragraph:
+          - strong: Morning
+      - img "mỏng"
+      - 'group "09:00 – 10:30: Session 1: Sensory Science in Tourism. Presentation: Prof. Sylvain ANTONIOTTI – \"A..."':
+        - paragraph:
+          - strong: "09:00 – 10:30:"
+          - text: "Session 1: Sensory Science in Tourism."
+        - paragraph: "Presentation: Prof. Sylvain ANTONIOTTI – \"Application of Fragrance Extraction in High-end Tourism Experiences.\""
+        - paragraph: "Presentation: Ms. Nguyen Thi Thu Hien (Master 2 Student) – \"Local Aromas: A Multi-sensory Approach to Culinary Tourism\""
+        - paragraph
+      - 'group "10:30 – 12:00: Session 2: Supply Chain and Sustainability. Presentation: Mr. Nguyen Duc Quynh – \"..."':
+        - paragraph:
+          - strong: 10:30 – 12:00
+          - text: ": Session 2: Supply Chain and Sustainability."
+        - paragraph: "Presentation: Mr. Nguyen Duc Quynh – \"Strategy to Elevate Danang’s Culinary Tourism through Sensory Experiences.\""
+        - paragraph
+      - group "Lunch":
+        - paragraph:
+          - strong: Lunch
+      - img "mỏng"
+      - group "Lunch hosted by UniCA":
+        - paragraph: Lunch hosted by UniCA
+      - group "Afternoon":
+        - paragraph:
+          - strong: Afternoon
+      - img "mỏng"
+      - 'group "14:00 – 15:30: Round Table 1: Green Logistics and Infrastructure. Moderator: Mr. Nguyen Duc Quynh..."':
+        - paragraph:
+          - strong: "14:00 – 15:30:"
+          - text: "Round Table 1: Green Logistics and Infrastructure."
+        - paragraph: "Moderator: Mr. Nguyen Duc Quynh (Chairman, Danang Hotel & Culinary Association)."
+        - paragraph: "Panelists: Mr. Nguyen Pham Tuyen (Head of Dept, Petrolimex Danang) on energy logistics for tourism and Mr. Pham Ngoc Lợi (Master 2 Student)"
+        - paragraph
+      - group "17 June 2026":
+        - paragraph:
+          - strong: 17 June 2026
+      - img "Màu xanh lam rực rỡ, Hình chữ nhật"
+      - group "Specialist Workshop in Nice":
+        - paragraph:
+          - strong: Specialist Workshop in Nice
+        - paragraph
+      - group "Theme":
+        - paragraph:
+          - strong: Theme
+      - img "mỏng"
+      - 'group "Specialized Tourism and Ultra-Luxury Tourism Co-Chaired by: Assoc. Prof. Frank SOSTHES (Master To..."':
+        - paragraph: "Specialized Tourism and Ultra-Luxury Tourism Co-Chaired by: Assoc. Prof. Frank SOSTHES (Master Tourisme, ELMI, UniCA) & Dr. Cao Tri Dung (Chairman of Danang Tourism Association; Vice Chairman of VITA)"
+        - paragraph
+      - group "Morning":
+        - paragraph:
+          - strong: Morning
+      - img "mỏng"
+      - 'group "08:30 – 10:30: Session 3: The Luxury Ecosystem & Digital Transformation. Keynote Presentation: Dr..."':
+        - paragraph:
+          - strong: "08:30 – 10:30:"
+          - text: "Session 3: The Luxury Ecosystem & Digital Transformation."
+        - paragraph: "Keynote Presentation: Dr. Doan Thi Ngoc Canh – \"Digital Transformation and Smart Tourism.\""
+        - paragraph: "Presentation: Dr. Cao Tri Dung – \"Positioning Danang as a Preferred Destination for the Global Ultra-Luxury Segment\""
+        - paragraph: "Presentation: Ms. Giang Thi Kim Lien (Vice Dean, VNUK) – \"Luxury Consumer Behavior and Personalized Service Requirements\""
+        - paragraph
+        - paragraph
+      - 'group "10:30 – 12:00: Round Table 2: MICE and Aviation Connectivity. Moderator: Dr. Cao Tri Dung (Chairm..."':
+        - paragraph:
+          - strong: "10:30 – 12:00:"
+          - text: "Round Table 2: MICE and Aviation Connectivity."
+        - paragraph: "Moderator: Dr. Cao Tri Dung (Chairman, Danang Tourism Association)."
+        - paragraph: "Panelists: Ms. Tran Thi Ngoc Bich (Officer, Danang Tourism Association), Ms. Le Thi Kim Hanh (Master 2 Student, Vietnam Airlines), and Mr. Huynh Le Đức Hợp (Master 2 Student)"
+        - paragraph
+      - group "Lunch":
+        - paragraph:
+          - strong: Lunch
+      - img "mỏng"
+      - group "Lunch hosted by UniCA":
+        - paragraph: Lunch hosted by UniCA
+      - group "Afternoon":
+        - paragraph:
+          - strong: Afternoon
+      - img "mỏng"
+      - 'group "14:00 – 16:00: Research Reports: \"Personalization in Luxury Tourism via Digital Tech\" – Mr. Huynh..."':
+        - paragraph:
+          - strong: "14:00 – 16:00:"
+          - text: "Research Reports:"
+        - paragraph: "\"Personalization in Luxury Tourism via Digital Tech\" – Mr. Huynh Le Duc Hop."
+        - paragraph: "\"Potential for International Event Tourism in Central Vietnam\" – Ms. Chau Hai Quynh"
+        - paragraph
+      - 'group "16:00 – 17:30: Summary of the day and transfer of witness to the Vietnamese Delegation"':
+        - paragraph:
+          - strong: "16:00 – 17:30:"
+          - text: Summary of the day and transfer of witness to the Vietnamese Delegation
+        - paragraph
+      - group "18 June 2026":
+        - paragraph:
+          - strong: 18 June 2026
+      - img "Màu xanh lam rực rỡ, Hình chữ nhật"
+      - group "Applied Training & Technical Survey (IUT)":
+        - paragraph:
+          - strong: Applied Training & Technical Survey (IUT)
+        - paragraph
+      - group "Focus":
+        - paragraph:
+          - strong: Focus
+      - img "mỏng"
+      - group "Survey of IUT Campuses (Fabron, Sophiatech, Cannes)":
+        - paragraph: Survey of IUT Campuses (Fabron, Sophiatech, Cannes)
+      - group "Morning":
+        - paragraph:
+          - strong: Morning
+      - img "mỏng"
+      - group "Technical visit to Campus Fabron and Campus Sophiatech.":
+        - paragraph: Technical visit to Campus Fabron and Campus Sophiatech.
+        - paragraph
+      - group "Afternoon":
+        - paragraph:
+          - strong: Afternoon
+      - img "mỏng"
+      - group "Applied work session at Campus Cannes.":
+        - paragraph: Applied work session at Campus Cannes.
+        - paragraph
+      - group "Technical Presentation":
+        - paragraph:
+          - strong: Technical Presentation
+      - img "mỏng"
+      - group "Ms. Le Thi Huệ (Officer, Vietnam Energy Inspection) – \"Safety Standards and Energy Inspection in...":
+        - paragraph: Ms. Le Thi Huệ (Officer, Vietnam Energy Inspection) – "Safety Standards and Energy Inspection in Modern Tourism Facilities"
+        - paragraph
+      - group "Field Rapporteurs":
+        - paragraph:
+          - strong: Field Rapporteurs
+      - img "mỏng"
+      - group "Ms. Nguyen Thi Thuy Tien and Ms. Chau Hai Quynh":
+        - paragraph: Ms. Nguyen Thi Thuy Tien and Ms. Chau Hai Quynh
+      - group "19 June 2026":
+        - paragraph:
+          - strong: 19 June 2026
+      - img "Màu xanh lam rực rỡ, Hình chữ nhật"
+      - group "Field Operations & Signing Ceremony":
+        - paragraph:
+          - strong: Field Operations & Signing Ceremony
+        - paragraph
+      - group "Focus":
+        - paragraph:
+          - strong: Focus
+      - img "mỏng"
+      - group "Infrastructure survey and formalizing agreements":
+        - paragraph: Infrastructure survey and formalizing agreements
+        - paragraph
+      - group "Morning":
+        - paragraph:
+          - strong: Morning
+      - img "mỏng"
+      - 'group "09:00 – 12:00: Field survey of luxury yacht marinas and five-star hotel operations (e.g., Le Negr..."':
+        - paragraph:
+          - text: "0"
+          - strong: "9:00 – 12:00:"
+          - text: Field survey of luxury yacht marinas and five-star hotel operations (e.g., Le Negresco).
+        - paragraph: "Field Coordinator: Ms. Nguyen Phan Linh (CEO, Vietchangtravel Danang) and Ms. Nguyen Thị Diệu Tâm (Master 2 Student)"
+        - paragraph
+      - group "Afternoon":
+        - paragraph:
+          - strong: Afternoon
+      - img "mỏng"
+      - 'group "15:00 – 17:00: MOU Signing Ceremony & Collaboration Agreements. UniCA Representative: Prof. Stéph..."':
+        - paragraph:
+          - strong: "15:00 – 17:00:"
+          - text: MOU Signing Ceremony & Collaboration Agreements.
+        - paragraph: "UniCA Representative: Prof. Stéphane NGO MAÏ (Vice-President ULYSSEUS and International Partnerships)"
+        - paragraph: "Danang Representative: Dr. Cao Tri Dung (Chairman, Danang Tourism Association)"
+        - paragraph: ".Content: Agreements on high-quality human resource training and expert exchange."
+        - paragraph
+        - paragraph
+      - group "Evening":
+        - paragraph:
+          - strong: Evening
+      - img "mỏng"
+      - 'group "19:00 – 21:30: Farewell Dinner and Final Summary."':
+        - paragraph:
+          - strong: "19:00 – 21:30:"
+          - text: Farewell Dinner and Final Summary.
+        - paragraph
+      - group "Danang Internation Institute of Technology - DNIIT Phòng 602-604, Khu B, Đại học Đà Nẵng, 41 Lê D...":
+        - paragraph:
+          - strong: Danang Internation Institute of Technology - DNIIT
+        - paragraph:
+          - strong: Phòng 602-604, Khu B, Đại học Đà Nẵng, 41 Lê Duẩn, TP. Đà Nẵng
+      - img "Facebook Logo"
+      - img "Gradient Neon Email Icon Representing Messages and Digital Communication Suitable for Social Media Graphics, Marketing Campaigns, and Innovative UI UX Projects"
+  - group "Điều khiển trang":
+    - generic: Trang 5 -
+    - textbox "Tiêu đề trang": VENUE
+    - generic: VENUE
+    - button "Chuyển lên":
+    - button "Chuyển xuống":
+    - button "Ẩn 1 trang":
+    - button "Khóa trang":
+    - button "Tạo bản sao":
+    - button "Xóa trang":
+    - button "Thêm trang":
+  - paragraph: VENUE
+  - paragraph: 16 - 17 June 2026
+  - paragraph: "Location: Nice, France"
+  - paragraph: Location
+  - paragraph: Time
+  - paragraph: Université Côte d'Azur, Avenue de Valrose, 06103 Nice CEDEX 2
+  - paragraph: 16 - 17 June 2026
+  - paragraph: Danang Internation Institute of Technology - DNIIT
+  - paragraph: Phòng 602-604, Khu B, Đại học Đà Nẵng, 41 Lê Duẩn, TP. Đà Nẵng
+  - paragraph: Galleries
+  - paragraph: Agenda
+  - paragraph: Venue
+  - paragraph: Nice Travel News
+  - paragraph: Da Nang Travel News
+  - paragraph: Previous Conference
+  - application "Nội dung Canvas":
+    - group "Trang 5, mục 1":
+      - img "Thành phần"
+      - group "16 - 17 June 2026":
+        - paragraph:
+          - strong: 16 - 17 June 2026
+      - group "VENUE":
+        - paragraph:
+          - strong: VENUE
+      - 'group "Location: Nice, France"':
+        - paragraph:
+          - strong: "Location: Nice, France"
+      - img "Màu đen, Hình chữ nhật"
+      - img "Màu xanh lam rực rỡ, Hình chữ nhật"
+      - group "Previous Conference":
+        - paragraph:
+          - link "Previous Conference":
+            - /url: "#page-5"
+            - strong:
+              - generic: Previous Conference
+      - group "Galleries":
+        - paragraph:
+          - link "Galleries":
+            - /url: "#page-c"
+            - strong:
+              - generic: Galleries
+      - img "Home"
+      - group "Agenda":
+        - paragraph:
+          - link "Agenda":
+            - /url: "#page-2"
+            - strong:
+              - generic: Agenda
+      - group "Venue":
+        - paragraph:
+          - link "Venue":
+            - /url: "#page-4"
+            - strong:
+              - generic: Venue
+      - group "Nice Travel News":
+        - paragraph:
+          - link "Nice Travel News":
+            - /url: "#page-8"
+            - strong:
+              - generic: Nice Travel News
+      - group "Da Nang Travel News":
+        - paragraph:
+          - link "Da Nang Travel News":
+            - /url: "#page-a"
+            - strong:
+              - generic: Da Nang Travel News
+      - img "Downward Arrows Icon"
+      - img "Downward Arrows Icon"
+      - group "Location":
+        - paragraph:
+          - strong: Location
+      - img "Màu xanh lam rực rỡ, Hình chữ nhật"
+      - group "Université Côte d'Azur, Avenue de Valrose, 06103 Nice CEDEX 2":
+        - paragraph:
+          - strong: Université Côte d'Azur, Avenue de Valrose, 06103 Nice CEDEX 2
+      - img "Thành phần"
+      - group "Time":
+        - paragraph:
+          - strong: Time
+      - img "Màu xanh lam rực rỡ, Hình chữ nhật"
+      - group "16 - 17 June 2026":
+        - paragraph:
+          - strong: 16 - 17 June 2026
+      - group "Danang Internation Institute of Technology - DNIIT Phòng 602-604, Khu B, Đại học Đà Nẵng, 41 Lê D...":
+        - paragraph:
+          - strong: Danang Internation Institute of Technology - DNIIT
+        - paragraph:
+          - strong: Phòng 602-604, Khu B, Đại học Đà Nẵng, 41 Lê Duẩn, TP. Đà Nẵng
+      - img "Facebook Logo"
+      - img "Gradient Neon Email Icon Representing Messages and Digital Communication Suitable for Social Media Graphics, Marketing Campaigns, and Innovative UI UX Projects"
+  - button "Thêm trang":
+    - heading "Thêm trang" [level=5]
+  - button "Thêm loại trang":
+- contentinfo:
+  - button "Ghi chú":
+    - generic: Ghi chú
+  - button "Hiển thị bộ đếm ngược":
+    - generic: Đếm ngược
+  - slider "Thu phóng": "-0.305"
+  - combobox "Tùy chọn thu phóng":
+    - generic: 74%
+  - button "Trang":
+    - generic: Trang
+  - button "4 / 14":
+    - generic: 4 / 14
+  - button "Dạng xem lưới":
+  - button "Xem toàn màn hình":
+  - button "Trợ lý AI":
+- generic: Canvas
+- generic: Phần điều hướng chính chứa các nút cho các tùy chọn mức tài liệu. Để chuyển đổi giữa các nút, hãy sử dụng các phím trái và phải. Để kích hoạt, hãy nhấn Enter. Để chuyển sang khung vẽ, hãy nhấn “⌘F2”.
+- generic: Khung vẽ là không gian nơi bạn thiết kế. Để vào trang, hãy nhấn Enter. Để vào các nhóm hoặc thành phần trên trang, hãy nhấn Enter một lần nữa. Nhấn tab để chuyển đến trang, nhóm hoặc thành phần tiếp theo. Để sử dụng thanh công cụ, hãy dùng phím “⌘F1”. Sau khi chọn thành phần, hãy di chuyển thành phần bằng các phím mũi tên; xoay bằng phím “,” và phím “.”; và đổi cỡ bằng cách sử dụng các phím mũi tên cùng với phím “⌘”. Bạn có thể tăng cường cho tất cả các phím này bằng phím “⇧”.
+- generic: Tiêu đề thiết kế là tên của thiết kế. Để chỉnh sửa tiêu đề thiết kế, hãy nhấn Enter. Để dừng chỉnh sửa, nhấn Escape.
+- generic: Bảng bên là nơi bạn có thể áp dụng các mẫu hoặc thêm các thành phần. Để chuyển sang khung vẽ, hãy nhấn “⌘F2”.
+- generic: Ghi chú
+- generic: Hiển thị bộ đếm ngược
+- generic: Thu phóng
+- generic: Hiện hình thu nhỏ của trang
+- generic: Truy cập trang
+- generic: Dạng xem lưới
+- generic: Đã lưu tất cả thay đổi
+- generic: Trang chủ
+- generic: Trợ lý AI
+- generic: Xem toàn màn hình
+- generic: Phân tích
+- generic: Chia sẻ
+- generic: Nút này sẽ mở menu có tất cả các tùy chọn chia sẻ và in thiết kế.
+- generic: Chuyển lên
+- generic: Chuyển xuống
+- generic: Ẩn 1 trang
+- generic: Khóa trang
+- generic: Tạo bản sao
+- generic: Xóa trang
+- generic: Thêm trang
+- generic: Chuyển lên
+- generic: Chuyển xuống
+- generic: Ẩn 1 trang
+- generic: Khóa trang
+- generic: Tạo bản sao
+- generic: Xóa trang
+- generic: Thêm trang

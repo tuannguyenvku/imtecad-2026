@@ -1,0 +1,591 @@
+- heading "trình chỉnh sửa Canva" [active] [level=1]
+- generic: Đã tải xong
+- generic: Các thay đổi sẽ tự động được lưu
+- paragraph:
+  - link "Bỏ qua điều hướng":
+    - /url: "#_r_0_2"
+    - generic: Bỏ qua điều hướng
+- paragraph:
+  - link "Chuyển đến nội dung chính":
+    - /url: "#_r_0_3"
+    - generic: Chuyển đến nội dung chính
+- banner:
+  - menubar "Chính":
+    - group "Tùy chọn kiểm soát tài liệu":
+      - menuitem "Trang chủ":
+      - menuitem "Tệp":
+        - generic: Tệp
+      - menuitem "Đổi cỡ":
+        - generic: Đổi cỡ
+      - menuitem "Sửa":
+        - generic: Sửa
+      - menuitem "Đã lưu tất cả thay đổi":
+    - group "Chia sẻ và đăng":
+      - textbox "Tiêu đề thiết kế": IMTECAD’2026
+      - generic: IMTECAD’2026
+      - menuitem "Nâng cấp gói đăng ký":
+        - generic: Nâng cấp gói đăng ký
+      - button "Design DNIIT"
+      - menuitem "Phân tích":
+      - menuitem "Xem tất cả bình luận":
+      - menuitem "Xem trước":
+        - generic: Xem trước
+      - menuitem "Đăng trang web":
+        - generic: Đăng trang web
+      - menuitem "Chia sẻ":
+        - generic: Chia sẻ
+- complementary "Bảng bên":
+  - heading "Bảng bên" [level=2]
+  - tablist "Bảng bên":
+    - tab "Mẫu":
+      - generic "Mẫu":
+        - generic: Mẫu
+    - tab "Thành phần":
+      - generic "Thành phần":
+        - generic: Thành phần
+    - tab "Văn bản":
+      - generic "Văn bản":
+        - generic: Văn bản
+    - tab "Thương hiệu":
+      - generic "Thương hiệu":
+        - generic: Thương hiệu
+    - tab "Tải lên":
+      - generic "Tải lên":
+        - generic "Tải lên":
+          - generic: Tải lên
+    - tab "Công cụ":
+      - generic "Công cụ":
+        - generic: Công cụ
+    - tab "Dự án":
+      - generic "Dự án":
+        - generic "Dự án":
+          - generic: Dự án
+    - tab "Ứng dụng":
+      - generic "Ứng dụng":
+        - generic: Ứng dụng
+    - separator
+    - tab "Nền":
+      - generic "Nền":
+        - generic: Nền
+    - tab "Tạo hàng loạt":
+      - generic "Tạo hàng loạt":
+        - generic: Tạo hàng loạt
+    - tab "Biểu đồ":
+      - generic "Biểu đồ":
+        - generic: Biểu đồ
+    - tab "Brochure":
+      - generic "Brochure":
+        - generic: ;
+        - generic: Brochure
+    - tab "QR code":
+      - generic "QR code":
+        - generic: QR code
+    - tab "Vectorizer":
+      - generic "Vectorizer":
+        - generic: Vectorizer
+    - tab "Hồ sơ":
+      - generic "Hồ sơ":
+        - generic: ;
+        - generic: Hồ sơ
+- button "Điểm bắt đầu khung vẽ"
+- main "Canvas":
+  - application
+  - group "Điều khiển trang":
+    - generic: Trang 5 -
+    - textbox "Tiêu đề trang": VENUE
+    - generic: VENUE
+    - button "Chuyển lên":
+    - button "Chuyển xuống":
+    - button "Ẩn 1 trang":
+    - button "Khóa trang":
+    - button "Tạo bản sao":
+    - button "Xóa trang":
+    - button "Thêm trang":
+  - paragraph: VENUE
+  - paragraph: 16 - 17 June 2026
+  - paragraph: "Location: Nice, France"
+  - paragraph: Location
+  - paragraph: Time
+  - paragraph: Université Côte d'Azur, Avenue de Valrose, 06103 Nice CEDEX 2
+  - paragraph: 16 - 17 June 2026
+  - paragraph: Danang Internation Institute of Technology - DNIIT
+  - paragraph: Phòng 602-604, Khu B, Đại học Đà Nẵng, 41 Lê Duẩn, TP. Đà Nẵng
+  - paragraph: Galleries
+  - paragraph: Agenda
+  - paragraph: Venue
+  - paragraph: Nice Travel News
+  - paragraph: Da Nang Travel News
+  - paragraph: Previous Conference
+  - application "Nội dung Canvas":
+    - group "Trang 5, mục 1":
+      - img "Thành phần"
+      - group "16 - 17 June 2026":
+        - paragraph:
+          - strong: 16 - 17 June 2026
+      - group "VENUE":
+        - paragraph:
+          - strong: VENUE
+      - 'group "Location: Nice, France"':
+        - paragraph:
+          - strong: "Location: Nice, France"
+      - img "Màu đen, Hình chữ nhật"
+      - img "Màu xanh lam rực rỡ, Hình chữ nhật"
+      - group "Previous Conference":
+        - paragraph:
+          - link "Previous Conference":
+            - /url: "#page-5"
+            - strong:
+              - generic: Previous Conference
+      - group "Galleries":
+        - paragraph:
+          - link "Galleries":
+            - /url: "#page-c"
+            - strong:
+              - generic: Galleries
+      - img "Home"
+      - group "Agenda":
+        - paragraph:
+          - link "Agenda":
+            - /url: "#page-2"
+            - strong:
+              - generic: Agenda
+      - group "Venue":
+        - paragraph:
+          - link "Venue":
+            - /url: "#page-4"
+            - strong:
+              - generic: Venue
+      - group "Nice Travel News":
+        - paragraph:
+          - link "Nice Travel News":
+            - /url: "#page-8"
+            - strong:
+              - generic: Nice Travel News
+      - group "Da Nang Travel News":
+        - paragraph:
+          - link "Da Nang Travel News":
+            - /url: "#page-a"
+            - strong:
+              - generic: Da Nang Travel News
+      - img "Downward Arrows Icon"
+      - img "Downward Arrows Icon"
+      - group "Location":
+        - paragraph:
+          - strong: Location
+      - img "Màu xanh lam rực rỡ, Hình chữ nhật"
+      - group "Université Côte d'Azur, Avenue de Valrose, 06103 Nice CEDEX 2":
+        - paragraph:
+          - strong: Université Côte d'Azur, Avenue de Valrose, 06103 Nice CEDEX 2
+      - img "Thành phần"
+      - group "Time":
+        - paragraph:
+          - strong: Time
+      - img "Màu xanh lam rực rỡ, Hình chữ nhật"
+      - group "16 - 17 June 2026":
+        - paragraph:
+          - strong: 16 - 17 June 2026
+      - group "Danang Internation Institute of Technology - DNIIT Phòng 602-604, Khu B, Đại học Đà Nẵng, 41 Lê D...":
+        - paragraph:
+          - strong: Danang Internation Institute of Technology - DNIIT
+        - paragraph:
+          - strong: Phòng 602-604, Khu B, Đại học Đà Nẵng, 41 Lê Duẩn, TP. Đà Nẵng
+      - img "Facebook Logo"
+      - img "Gradient Neon Email Icon Representing Messages and Digital Communication Suitable for Social Media Graphics, Marketing Campaigns, and Innovative UI UX Projects"
+  - group "Điều khiển trang":
+    - generic: Trang 6 -
+    - textbox "Tiêu đề trang": VENUE
+    - generic: VENUE
+    - button "Chuyển lên":
+    - button "Chuyển xuống":
+    - button "Ẩn 1 trang":
+    - button "Khóa trang":
+    - button "Tạo bản sao":
+    - button "Xóa trang":
+    - button "Thêm trang":
+  - paragraph: 16 - 17 June 2026
+  - paragraph: VENUE
+  - paragraph: 16 - 17 June 2026
+  - paragraph: "Location: Nice, France"
+  - paragraph: Location
+  - paragraph: Time
+  - paragraph: Université Côte d'Azur, Avenue de Valrose, 06103 Nice CEDEX 2
+  - paragraph: 16 - 17 June 2026
+  - paragraph: Danang Internation Institute of Technology - DNIIT
+  - paragraph: Phòng 602-604, Khu B, Đại học Đà Nẵng, 41 Lê Duẩn, TP. Đà Nẵng
+  - paragraph: Galleries
+  - paragraph: Agenda
+  - paragraph: Venue
+  - paragraph: Nice Travel News
+  - paragraph: Da Nang Travel News
+  - paragraph: Previous Conference
+  - paragraph: IMTECAD’ 2022
+  - paragraph: IMTECAD’ 2023
+  - application "Nội dung Canvas":
+    - group "Trang 6, mục 1":
+      - img "Thành phần"
+      - group "16 - 17 June 2026":
+        - paragraph:
+          - strong: 16 - 17 June 2026
+      - group "16 - 17 June 2026":
+        - paragraph:
+          - strong: 16 - 17 June 2026
+      - group "VENUE":
+        - paragraph:
+          - strong: VENUE
+      - 'group "Location: Nice, France"':
+        - paragraph:
+          - strong: "Location: Nice, France"
+      - img "Downward Arrows Icon"
+      - img "Màu đen, Hình chữ nhật"
+      - img "Màu xanh lam rực rỡ, Hình chữ nhật"
+      - group "Agenda":
+        - paragraph:
+          - link "Agenda":
+            - /url: "#page-2"
+            - strong:
+              - generic: Agenda
+      - group "Nice Travel News":
+        - paragraph:
+          - link "Nice Travel News":
+            - /url: "#page-8"
+            - strong:
+              - generic: Nice Travel News
+      - group "Galleries":
+        - paragraph:
+          - link "Galleries":
+            - /url: "#page-c"
+            - strong:
+              - generic: Galleries
+      - img "Home"
+      - group "Venue":
+        - paragraph:
+          - link "Venue":
+            - /url: "#page-4"
+            - strong:
+              - generic: Venue
+      - group "Da Nang Travel News":
+        - paragraph:
+          - link "Da Nang Travel News":
+            - /url: "#page-a"
+            - strong:
+              - generic: Da Nang Travel News
+      - group "Previous Conference":
+        - paragraph:
+          - link "Previous Conference":
+            - /url: "#page-4"
+            - strong:
+              - generic: Previous Conference
+      - img "Downward Arrows Icon"
+      - img "Downward Arrows Icon"
+      - img "Màu xanh lam rực rỡ, Hình chữ nhật"
+      - group "IMTECAD’ 2023":
+        - paragraph:
+          - link "IMTECAD’ 2023":
+            - /url: "#page-6"
+            - strong:
+              - generic: IMTECAD’ 2023
+      - group "Location":
+        - paragraph:
+          - strong: Location
+      - img "Màu xanh lam rực rỡ, Hình chữ nhật"
+      - group "IMTECAD’ 2022":
+        - paragraph:
+          - link "IMTECAD’ 2022":
+            - /url: https://sites.google.com/view/imtecad2022/home?authuser=0
+            - strong:
+              - generic: IMTECAD’ 2022
+      - img "Màu xanh lam rực rỡ, Hình chữ nhật"
+      - group "Université Côte d'Azur, Avenue de Valrose, 06103 Nice CEDEX 2":
+        - paragraph:
+          - strong: Université Côte d'Azur, Avenue de Valrose, 06103 Nice CEDEX 2
+      - img "Thành phần"
+      - group "Time":
+        - paragraph:
+          - strong: Time
+      - img "Màu xanh lam rực rỡ, Hình chữ nhật"
+      - group "16 - 17 June 2026":
+        - paragraph:
+          - strong: 16 - 17 June 2026
+      - group "Danang Internation Institute of Technology - DNIIT Phòng 602-604, Khu B, Đại học Đà Nẵng, 41 Lê D...":
+        - paragraph:
+          - strong: Danang Internation Institute of Technology - DNIIT
+        - paragraph:
+          - strong: Phòng 602-604, Khu B, Đại học Đà Nẵng, 41 Lê Duẩn, TP. Đà Nẵng
+      - img "Facebook Logo"
+      - img "Gradient Neon Email Icon Representing Messages and Digital Communication Suitable for Social Media Graphics, Marketing Campaigns, and Innovative UI UX Projects"
+  - group "Điều khiển trang":
+    - generic: Trang 7 -
+    - textbox "Tiêu đề trang": IMTECAD2023
+    - generic: IMTECAD2023
+    - button "Chuyển lên":
+    - button "Chuyển xuống":
+    - button "Ẩn 1 trang":
+    - button "Khóa trang":
+    - button "Tạo bản sao":
+    - button "Xóa trang":
+    - button "Thêm trang":
+  - paragraph: IMTECAD 2023
+  - paragraph: Danang Internation Institute of Technology - DNIIT
+  - paragraph: Phòng 602-604, Khu B, Đại học Đà Nẵng, 41 Lê Duẩn, TP. Đà Nẵng
+  - paragraph:
+    - text: Da
+    - generic: Nang collaborates with the Côte d’Azur region of France to develop tourism.
+  - paragraph: Sunday, 29/10/2023 14:59
+  - paragraph: A meeting to exchange ideas and promote tourism development between the Côte d’Azur region of France and Da Nang.
+  - paragraph: 28/10/2023
+  - paragraph: Galleries
+  - paragraph: Agenda
+  - paragraph: Venue
+  - paragraph: Nice Travel News
+  - paragraph: Da Nang Travel News
+  - paragraph: Previous Conference
+  - application "Nội dung Canvas":
+    - group "Trang 7, mục 1":
+      - img "Màu đen, Hình chữ nhật"
+      - group "IMTECAD 2023":
+        - paragraph:
+          - strong: IMTECAD 2023
+      - img "Thành phần"
+      - img "Màu xanh lam rực rỡ, Hình chữ nhật"
+      - group "Galleries":
+        - paragraph:
+          - link "Galleries":
+            - /url: "#page-c"
+            - strong:
+              - generic: Galleries
+      - img "Home"
+      - group "Agenda":
+        - paragraph:
+          - link "Agenda":
+            - /url: "#page-2"
+            - strong:
+              - generic: Agenda
+      - group "Venue":
+        - paragraph:
+          - link "Venue":
+            - /url: "#page-4"
+            - strong:
+              - generic: Venue
+      - group "Nice Travel News":
+        - paragraph:
+          - link "Nice Travel News":
+            - /url: "#page-8"
+            - strong:
+              - generic: Nice Travel News
+      - group "Da Nang Travel News":
+        - paragraph:
+          - link "Da Nang Travel News":
+            - /url: "#page-a"
+            - strong:
+              - generic: Da Nang Travel News
+      - group "Previous Conference":
+        - paragraph:
+          - link "Previous Conference":
+            - /url: "#page-7"
+            - strong:
+              - generic: Previous Conference
+      - img "Downward Arrows Icon"
+      - img "Downward Arrows Icon"
+      - img "Màu cam sáng, Hình chữ nhật"
+      - img "Thành phần"
+      - group "Da Nang collaborates with the Côte d’Azur region of France to develop tourism.":
+        - paragraph:
+          - link "Da Nang collaborates with the Côte d’Azur region of France to develop tourism.":
+            - /url: https://cadn.com.vn/phong-su/da-nang-hop-tac-phat-trien-du-lich-voi-vung-cote-dazur-phap-post285657.html?gidzl=ebvC0Gb4QXskGqe02bvf7AX0JW0LM6yIu1SS3nTSR1Mr5nW7Gbe-7B16IWCGNsrCjazB0cMJAH4g0qva7W
+            - strong:
+              - generic: Da Nang collaborates with the Côte d’Azur region of France to develop tourism.
+      - group "Sunday, 29/10/2023 14:59":
+        - paragraph: Sunday, 29/10/2023 14:59
+      - img "Màu cam sáng, Hình chữ nhật"
+      - img "Thành phần"
+      - group "A meeting to exchange ideas and promote tourism development between the Côte d’Azur region of Fra...":
+        - paragraph:
+          - strong: A meeting to exchange ideas and promote tourism development between the Côte d’Azur region of France and Da Nang.
+      - group "28/10/2023":
+        - paragraph: 28/10/2023
+      - img "Thành phần"
+      - group "Danang Internation Institute of Technology - DNIIT Phòng 602-604, Khu B, Đại học Đà Nẵng, 41 Lê D...":
+        - paragraph:
+          - strong: Danang Internation Institute of Technology - DNIIT
+        - paragraph:
+          - strong: Phòng 602-604, Khu B, Đại học Đà Nẵng, 41 Lê Duẩn, TP. Đà Nẵng
+      - img "Facebook Logo"
+      - img "Gradient Neon Email Icon Representing Messages and Digital Communication Suitable for Social Media Graphics, Marketing Campaigns, and Innovative UI UX Projects"
+  - group "Điều khiển trang":
+    - generic: Trang 8 -
+    - textbox "Tiêu đề trang": Thêm tiêu đề trang
+    - generic: Thêm tiêu đề trang
+    - button "Chuyển lên":
+    - button "Chuyển xuống":
+    - button "Ẩn 1 trang":
+    - button "Khóa trang":
+    - button "Tạo bản sao":
+    - button "Xóa trang":
+    - button "Thêm trang":
+  - paragraph: IMTECAD 2023
+  - paragraph: Danang Internation Institute of Technology - DNIIT
+  - paragraph: Phòng 602-604, Khu B, Đại học Đà Nẵng, 41 Lê Duẩn, TP. Đà Nẵng
+  - paragraph:
+    - text: Da
+    - generic: Nang collaborates with the Côte d’Azur region of France to develop tourism.
+  - paragraph: Sunday, 29/10/2023 14:59
+  - paragraph: A meeting to exchange ideas and promote tourism development between the Côte d’Azur region of France and Da Nang.
+  - paragraph: 28/10/2023
+  - paragraph: Galleries
+  - paragraph: Agenda
+  - paragraph: Venue
+  - paragraph: Nice Travel News
+  - paragraph: Da Nang Travel News
+  - paragraph: Previous Conference
+  - paragraph: IMTECAD’ 2022
+  - paragraph: IMTECAD’ 2023
+  - application "Nội dung Canvas":
+    - group "Trang 8, mục 1":
+      - img "Thành phần"
+      - group "IMTECAD 2023":
+        - paragraph:
+          - strong: IMTECAD 2023
+      - img "Màu đen, Hình chữ nhật"
+      - img "Màu xanh lam rực rỡ, Hình chữ nhật"
+      - group "Galleries":
+        - paragraph:
+          - link "Galleries":
+            - /url: "#page-c"
+            - strong:
+              - generic: Galleries
+      - img "Home"
+      - group "Agenda":
+        - paragraph:
+          - link "Agenda":
+            - /url: "#page-2"
+            - strong:
+              - generic: Agenda
+      - group "Venue":
+        - paragraph:
+          - link "Venue":
+            - /url: "#page-4"
+            - strong:
+              - generic: Venue
+      - group "Nice Travel News":
+        - paragraph:
+          - link "Nice Travel News":
+            - /url: "#page-8"
+            - strong:
+              - generic: Nice Travel News
+      - group "Da Nang Travel News":
+        - paragraph:
+          - link "Da Nang Travel News":
+            - /url: "#page-a"
+            - strong:
+              - generic: Da Nang Travel News
+      - group "Previous Conference":
+        - paragraph:
+          - link "Previous Conference":
+            - /url: "#page-6"
+            - strong:
+              - generic: Previous Conference
+      - img "Downward Arrows Icon"
+      - img "Downward Arrows Icon"
+      - img "Màu xanh lam rực rỡ, Hình chữ nhật"
+      - group "IMTECAD’ 2023":
+        - paragraph:
+          - link "IMTECAD’ 2023":
+            - /url: "#page-6"
+            - strong:
+              - generic: IMTECAD’ 2023
+      - img "Màu xanh lam rực rỡ, Hình chữ nhật"
+      - group "IMTECAD’ 2022":
+        - paragraph:
+          - link "IMTECAD’ 2022":
+            - /url: https://sites.google.com/view/imtecad2022/home?authuser=0
+            - strong:
+              - generic: IMTECAD’ 2022
+      - img "Màu cam sáng, Hình chữ nhật"
+      - img "Thành phần"
+      - group "Da Nang collaborates with the Côte d’Azur region of France to develop tourism.":
+        - paragraph:
+          - link "Da Nang collaborates with the Côte d’Azur region of France to develop tourism.":
+            - /url: https://cadn.com.vn/phong-su/da-nang-hop-tac-phat-trien-du-lich-voi-vung-cote-dazur-phap-post285657.html?gidzl=ebvC0Gb4QXskGqe02bvf7AX0JW0LM6yIu1SS3nTSR1Mr5nW7Gbe-7B16IWCGNsrCjazB0cMJAH4g0qva7W
+            - strong:
+              - generic: Da Nang collaborates with the Côte d’Azur region of France to develop tourism.
+      - group "Sunday, 29/10/2023 14:59":
+        - paragraph: Sunday, 29/10/2023 14:59
+      - img "Màu cam sáng, Hình chữ nhật"
+      - img "Thành phần"
+      - group "A meeting to exchange ideas and promote tourism development between the Côte d’Azur region of Fra...":
+        - paragraph:
+          - strong: A meeting to exchange ideas and promote tourism development between the Côte d’Azur region of France and Da Nang.
+      - group "28/10/2023":
+        - paragraph: 28/10/2023
+      - img "Thành phần"
+      - group "Danang Internation Institute of Technology - DNIIT Phòng 602-604, Khu B, Đại học Đà Nẵng, 41 Lê D...":
+        - paragraph:
+          - strong: Danang Internation Institute of Technology - DNIIT
+        - paragraph:
+          - strong: Phòng 602-604, Khu B, Đại học Đà Nẵng, 41 Lê Duẩn, TP. Đà Nẵng
+      - img "Facebook Logo"
+      - img "Gradient Neon Email Icon Representing Messages and Digital Communication Suitable for Social Media Graphics, Marketing Campaigns, and Innovative UI UX Projects"
+  - button "Thêm trang":
+    - heading "Thêm trang" [level=5]
+  - button "Thêm loại trang":
+- contentinfo:
+  - button "Ghi chú":
+    - generic: Ghi chú
+  - button "Hiển thị bộ đếm ngược":
+    - generic: Đếm ngược
+  - slider "Thu phóng": "-0.305"
+  - combobox "Tùy chọn thu phóng":
+    - generic: 74%
+  - button "Trang":
+    - generic: Trang
+  - button "6 / 14":
+    - generic: 6 / 14
+  - button "Dạng xem lưới":
+  - button "Xem toàn màn hình":
+  - button "Trợ lý AI":
+- generic: Canvas
+- generic: Phần điều hướng chính chứa các nút cho các tùy chọn mức tài liệu. Để chuyển đổi giữa các nút, hãy sử dụng các phím trái và phải. Để kích hoạt, hãy nhấn Enter. Để chuyển sang khung vẽ, hãy nhấn “⌘F2”.
+- generic: Khung vẽ là không gian nơi bạn thiết kế. Để vào trang, hãy nhấn Enter. Để vào các nhóm hoặc thành phần trên trang, hãy nhấn Enter một lần nữa. Nhấn tab để chuyển đến trang, nhóm hoặc thành phần tiếp theo. Để sử dụng thanh công cụ, hãy dùng phím “⌘F1”. Sau khi chọn thành phần, hãy di chuyển thành phần bằng các phím mũi tên; xoay bằng phím “,” và phím “.”; và đổi cỡ bằng cách sử dụng các phím mũi tên cùng với phím “⌘”. Bạn có thể tăng cường cho tất cả các phím này bằng phím “⇧”.
+- generic: Tiêu đề thiết kế là tên của thiết kế. Để chỉnh sửa tiêu đề thiết kế, hãy nhấn Enter. Để dừng chỉnh sửa, nhấn Escape.
+- generic: Bảng bên là nơi bạn có thể áp dụng các mẫu hoặc thêm các thành phần. Để chuyển sang khung vẽ, hãy nhấn “⌘F2”.
+- generic: Ghi chú
+- generic: Hiển thị bộ đếm ngược
+- generic: Thu phóng
+- generic: Hiện hình thu nhỏ của trang
+- generic: Truy cập trang
+- generic: Dạng xem lưới
+- generic: Đã lưu tất cả thay đổi
+- generic: Trang chủ
+- generic: Trợ lý AI
+- generic: Xem toàn màn hình
+- generic: Phân tích
+- generic: Chia sẻ
+- generic: Nút này sẽ mở menu có tất cả các tùy chọn chia sẻ và in thiết kế.
+- generic: Chuyển lên
+- generic: Chuyển xuống
+- generic: Ẩn 1 trang
+- generic: Khóa trang
+- generic: Tạo bản sao
+- generic: Xóa trang
+- generic: Thêm trang
+- generic: Chuyển lên
+- generic: Chuyển xuống
+- generic: Ẩn 1 trang
+- generic: Khóa trang
+- generic: Tạo bản sao
+- generic: Xóa trang
+- generic: Thêm trang
+- generic: Chuyển lên
+- generic: Chuyển xuống
+- generic: Ẩn 1 trang
+- generic: Khóa trang
+- generic: Tạo bản sao
+- generic: Xóa trang
+- generic: Thêm trang
+- generic: Chuyển lên
+- generic: Chuyển xuống
+- generic: Ẩn 1 trang
+- generic: Khóa trang
+- generic: Tạo bản sao
+- generic: Xóa trang
+- generic: Thêm trang

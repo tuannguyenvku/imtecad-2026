@@ -1,0 +1,1020 @@
+- heading "trình chỉnh sửa Canva" [active] [level=1]
+- generic: Đã tải xong
+- generic: Các thay đổi sẽ tự động được lưu
+- paragraph:
+  - link "Bỏ qua điều hướng":
+    - /url: "#_r_0_2"
+    - generic: Bỏ qua điều hướng
+- paragraph:
+  - link "Chuyển đến nội dung chính":
+    - /url: "#_r_0_3"
+    - generic: Chuyển đến nội dung chính
+- banner:
+  - menubar "Chính":
+    - group "Tùy chọn kiểm soát tài liệu":
+      - menuitem "Trang chủ":
+      - menuitem "Tệp":
+        - generic: Tệp
+      - menuitem "Đổi cỡ":
+        - generic: Đổi cỡ
+      - menuitem "Sửa":
+        - generic: Sửa
+      - menuitem "Đã lưu tất cả thay đổi":
+    - group "Chia sẻ và đăng":
+      - textbox "Tiêu đề thiết kế": IMTECAD’2026
+      - generic: IMTECAD’2026
+      - menuitem "Nâng cấp gói đăng ký":
+        - generic: Nâng cấp gói đăng ký
+      - button "Design DNIIT"
+      - menuitem "Phân tích":
+      - menuitem "Xem tất cả bình luận":
+      - menuitem "Xem trước":
+        - generic: Xem trước
+      - menuitem "Đăng trang web":
+        - generic: Đăng trang web
+      - menuitem "Chia sẻ":
+        - generic: Chia sẻ
+- complementary "Bảng bên":
+  - heading "Bảng bên" [level=2]
+  - tablist "Bảng bên":
+    - tab "Mẫu":
+      - generic "Mẫu":
+        - generic: Mẫu
+    - tab "Thành phần":
+      - generic "Thành phần":
+        - generic: Thành phần
+    - tab "Văn bản":
+      - generic "Văn bản":
+        - generic: Văn bản
+    - tab "Thương hiệu":
+      - generic "Thương hiệu":
+        - generic: Thương hiệu
+    - tab "Tải lên":
+      - generic "Tải lên":
+        - generic "Tải lên":
+          - generic: Tải lên
+    - tab "Công cụ":
+      - generic "Công cụ":
+        - generic: Công cụ
+    - tab "Dự án":
+      - generic "Dự án":
+        - generic "Dự án":
+          - generic: Dự án
+    - tab "Ứng dụng":
+      - generic "Ứng dụng":
+        - generic: Ứng dụng
+    - separator
+    - tab "Nền":
+      - generic "Nền":
+        - generic: Nền
+    - tab "Tạo hàng loạt":
+      - generic "Tạo hàng loạt":
+        - generic: Tạo hàng loạt
+    - tab "Biểu đồ":
+      - generic "Biểu đồ":
+        - generic: Biểu đồ
+    - tab "Brochure":
+      - generic "Brochure":
+        - generic: ;
+        - generic: Brochure
+    - tab "QR code":
+      - generic "QR code":
+        - generic: QR code
+    - tab "Vectorizer":
+      - generic "Vectorizer":
+        - generic: Vectorizer
+    - tab "Hồ sơ":
+      - generic "Hồ sơ":
+        - generic: ;
+        - generic: Hồ sơ
+- button "Điểm bắt đầu khung vẽ"
+- main "Canvas":
+  - application
+  - group "Điều khiển trang":
+    - generic: Trang 2 -
+    - textbox "Tiêu đề trang": HOME
+    - generic: HOME
+    - button "Chuyển lên":
+    - button "Chuyển xuống":
+    - button "Ẩn 1 trang":
+    - button "Khóa trang":
+    - button "Tạo bản sao":
+    - button "Xóa trang":
+    - button "Thêm trang":
+  - paragraph: July 16–17, 2026
+  - paragraph: Duration
+  - paragraph: NICE, FRANCE
+  - paragraph: Global networking opportunities
+  - paragraph:
+    - generic: DaNang International Institute of Technology, University of DaNang
+  - paragraph:
+    - generic: Danang Tourism Association
+  - paragraph:
+    - generic: Université Côte d'Azur, France
+  - paragraph: Vietnam Tourism Association
+  - paragraph: EDHEC Business School
+  - paragraph:
+    - generic: ELMI - Graduate School of Economics and Management
+  - paragraph: Danang Hotel Association
+  - paragraph: Danang Tourism Association
+  - paragraph:
+    - generic: Furama Resort
+  - paragraph: Luxury Tourism
+  - paragraph: Perfumery
+  - paragraph: "& Fragrance"
+  - paragraph: IMTECAD’2026
+  - paragraph: INTRODUCTION
+  - paragraph: ORGANIZERS
+  - paragraph: The 3rd International Conference On Tourism Ecosystems
+  - paragraph: The 3rd International Conference On Tourism Ecosystems
+  - paragraph: IMTECAD 2026
+  - paragraph: Join international experts & participants
+  - paragraph: ORGANIZERS
+  - paragraph:
+    - generic: Ulysseus European University
+  - paragraph: WELCOME TO IMTECAD 2026
+  - paragraph: The Inter-regional Meeting in Tourism between the Côte d’Azur and Danang (IMTECAD) 2026 is an international event dedicated to fostering cooperation in tourism development between the Côte d’Azur (France) and Da Nang (Vietnam). The conference aims to promote tourism, strengthen cultural exchange, and build sustainable partnerships between the two regions. IMTECAD 2026 serves as a dynamic platform for tourism stakeholders, researchers, policymakers, and industry professionals to exchange ideas, explore innovative practices, and establish long-term collaborations in the tourism sector.
+  - paragraph: "Date: June 16–17, 2026"
+  - paragraph: "Venue: Furama Resort Danang, Da Nang, Vietnam"
+  - paragraph: Partners
+  - paragraph: IMTECAD 2026 is co-organized by the Danang Tourism Association, the Danang Hotel Association, the ULYSSEUS European University Alliance, Université Côte d’Azur, and Furama Resort Danang.
+  - paragraph: The Danang Institute for International Tourism (DNIIT) plays a key bridging role, connecting stakeholders and coordinating the organization of the conference.
+  - paragraph: "The program of IMTECAD 2026 will focus on two main themes:"
+  - paragraph: "Luxury Tourism (one day):"
+  - paragraph: The morning session will feature 2–3 keynote presentations followed by a round-table discussion. In the afternoon, participants will visit a tourism establishment, with opportunities to initiate and sign cooperation agreements between professionals. This theme reflects the growing interest of the Danang Tourism Association in developing luxury tourism packages to the Côte d’Azur for high-end travelers from Southeast Asia.
+  - paragraph: "Perfumes and Aromas in Tourism (one day):"
+  - paragraph: The morning session will include 2–3 presentations and a round-table discussion. In the afternoon, participants will visit a perfume production facility, offering opportunities for professional networking and partnership agreements. This initiative aligns with Furama Resort Danang’s vision to develop a signature perfume line for its hospitality services.
+  - paragraph: IMTECAD 2026 is expected to mark a significant step forward in strengthening international cooperation in tourism, contributing to innovation, cultural exchange, and sustainable development between Europe and Southeast Asia.
+  - paragraph: Galleries
+  - paragraph: Agenda
+  - paragraph: Venue
+  - paragraph: Nice Travel News
+  - paragraph: Da Nang Travel News
+  - paragraph:
+    - text: The 3rd
+    - generic: International Conference on Tourism & Creative Design
+  - paragraph:
+    - text: The 3rd
+    - generic: International Conference on Tourism & Creative Design
+  - paragraph: 16 - 17 June 2026
+  - paragraph: Université Côte d'Azur, Avenue de Valrose, 06103 Nice CEDEX 2, France.
+  - paragraph: Previous Conference
+  - paragraph: IMTECAD’ 2022
+  - paragraph: IMTECAD’ 2023
+  - paragraph: COMMITEES
+  - paragraph: MASTER ETOURISM ENROLLMENT
+  - paragraph: Danang Internation Institute of Technology - DNIIT
+  - paragraph: Phòng 602-604, Khu B, Đại học Đà Nẵng, 41 Lê Duẩn, TP. Đà Nẵng
+  - paragraph: SPEAKERS
+  - paragraph: Topic 12
+  - paragraph: Topic 13
+  - paragraph: Topic 14
+  - paragraph: Topic 1
+  - paragraph: Topic 3
+  - paragraph: Topic 3
+  - paragraph: Topic 2
+  - paragraph: Topic 2
+  - paragraph: Topic 2
+  - paragraph: Topic 5
+  - paragraph: Topic 3
+  - paragraph: Topic 4
+  - paragraph: Dr. DOAN Thi Ngoc Canh
+  - paragraph:
+    - generic: Responsible for the E- tourism program
+  - paragraph: Prof. Dr. STÉPHANE Ngo Mai
+  - paragraph: Vice-President for Ulysseus
+  - paragraph: Université Côte d'Azur, France
+  - paragraph: Dr. CAO Tri Dung
+  - paragraph:
+    - generic: Chairman of the Danang Tourism Association
+  - paragraph: Prof. Dr. Sc. LE Thanh Nhan
+  - paragraph:
+    - generic: Director of Danang International Institute of Technology (DNIIT)
+  - paragraph: Mr. NGUYEN Duc Quynh
+  - paragraph:
+    - generic: General Manager of Furama Resort Danang
+  - paragraph: Assoc. Prof. Dr. GIANG Thi Kim Lien
+  - paragraph:
+    - generic: Deputy Director – Vietnam–UK Institute for Research and Training
+  - paragraph: Prof. Franck Sosthé
+  - paragraph:
+    - generic: Directeur du Département Tourisme - EUR ELMI-Université Côte d'Azur
+  - paragraph: Dr Jérémie Topin
+  - paragraph:
+    - generic: Director of the MSc Management of the Flavor & Fragrance Industry Associate Professor / Maître de Conférences
+  - paragraph: Véronique Michelet
+  - paragraph: Prof. Institute of Chemistry
+  - paragraph: Pr. Victor Mejia
+  - paragraph:
+    - generic: Co-directeur du MSc Marketing Track Prof. Université Grenoble Alpes
+  - paragraph: Associate Prof. Marie-Catherine Mars
+  - paragraph:
+    - generic: Co-directrice du MSc – Marketing Track Associate Prof. EDHEC Business School
+  - paragraph:
+    - generic: Mme. Sana BELHDI Secrétariat Département Tourisme Nice
+  - application "Nội dung Canvas":
+    - group "Trang 2, mục 1":
+      - img "Blue gradient fade"
+      - img "Thành phần"
+      - group "The 3rd International Conference on Tourism & Creative Design":
+        - paragraph:
+          - strong: The 3
+          - superscript:
+            - strong: rd
+          - strong
+          - strong: International Conference on Tourism & Creative Design
+      - img "Màu cam, Hình chữ nhật"
+      - group "16 - 17 June 2026":
+        - paragraph:
+          - strong: 16 - 17 June 2026
+      - img "Màu cam, Hình chữ nhật"
+      - group "Université Côte d'Azur, Avenue de Valrose, 06103 Nice CEDEX 2, France.":
+        - paragraph:
+          - strong: Université Côte d'Azur, Avenue de Valrose, 06103 Nice CEDEX 2, France.
+      - img "Màu xanh lam rực rỡ, Hình chữ nhật"
+      - group "Galleries":
+        - paragraph:
+          - link "Galleries":
+            - /url: "#page-c"
+            - strong:
+              - generic: Galleries
+      - img "Home"
+      - group "Agenda":
+        - paragraph:
+          - link "Agenda":
+            - /url: "#page-2"
+            - strong:
+              - generic: Agenda
+      - group "Venue":
+        - paragraph:
+          - link "Venue":
+            - /url: "#page-4"
+            - strong:
+              - generic: Venue
+      - group "Nice Travel News":
+        - paragraph:
+          - link "Nice Travel News":
+            - /url: "#page-8"
+            - strong:
+              - generic: Nice Travel News
+      - group "Da Nang Travel News":
+        - paragraph:
+          - link "Da Nang Travel News":
+            - /url: "#page-a"
+            - strong:
+              - generic: Da Nang Travel News
+      - group "Previous Conference":
+        - paragraph:
+          - link "Previous Conference":
+            - /url: "#page-1"
+            - strong:
+              - generic: Previous Conference
+      - img "Downward Arrows Icon"
+      - img "Downward Arrows Icon"
+      - img "Màu xanh lam rực rỡ, Hình chữ nhật"
+      - group "IMTECAD’ 2023":
+        - paragraph:
+          - link "IMTECAD’ 2023":
+            - /url: "#page-6"
+            - strong:
+              - generic: IMTECAD’ 2023
+      - group "INTRODUCTION":
+        - paragraph:
+          - strong: INTRODUCTION
+      - img "Màu xanh lam rực rỡ, Hình chữ nhật"
+      - group "IMTECAD’ 2022":
+        - paragraph:
+          - link "IMTECAD’ 2022":
+            - /url: https://sites.google.com/view/imtecad2022/home?authuser=0
+            - strong:
+              - generic: IMTECAD’ 2022
+      - group "WELCOME TO IMTECAD 2026 The Inter-regional Meeting in Tourism between the Côte d’Azur and Danang...":
+        - paragraph:
+          - strong: WELCOME TO IMTECAD 2026
+        - paragraph
+        - paragraph:
+          - text: The Inter-regional Meeting in Tourism between the Côte d’Azur and Danang (IMTECAD) 2026 is an international event dedicated to fostering cooperation in tourism development between the Côte d’Azur (France) and Da Nang (Vietnam). The conference aims to promote tourism, strengthen cultural exchange, and build sustainable partnerships between the two regions.
+          - strong: IMTECAD 2026
+          - text: serves as a dynamic platform for tourism stakeholders, researchers, policymakers, and industry professionals to exchange ideas, explore innovative practices, and establish long-term collaborations in the tourism sector.
+        - paragraph
+        - paragraph:
+          - strong: "Date:"
+          - text: June 16–17, 2026
+        - paragraph:
+          - strong: "Venue:"
+          - text: Furama Resort Danang, Da Nang, Vietnam
+        - paragraph
+        - paragraph:
+          - strong: Partners
+        - paragraph
+        - paragraph: IMTECAD 2026 is co-organized by the Danang Tourism Association, the Danang Hotel Association, the ULYSSEUS European University Alliance, Université Côte d’Azur, and Furama Resort Danang.
+        - paragraph: The Danang Institute for International Tourism (DNIIT) plays a key bridging role, connecting stakeholders and coordinating the organization of the conference.
+        - paragraph
+        - paragraph: "The program of IMTECAD 2026 will focus on two main themes:"
+        - paragraph
+        - paragraph:
+          - strong: "Luxury Tourism (one day):"
+        - paragraph
+        - paragraph: The morning session will feature 2–3 keynote presentations followed by a round-table discussion. In the afternoon, participants will visit a tourism establishment, with opportunities to initiate and sign cooperation agreements between professionals. This theme reflects the growing interest of the Danang Tourism Association in developing luxury tourism packages to the Côte d’Azur for high-end travelers from Southeast Asia.
+        - paragraph
+        - paragraph:
+          - strong: "Perfumes and Aromas in Tourism (one day):"
+        - paragraph
+        - paragraph: The morning session will include 2–3 presentations and a round-table discussion. In the afternoon, participants will visit a perfume production facility, offering opportunities for professional networking and partnership agreements. This initiative aligns with Furama Resort Danang’s vision to develop a signature perfume line for its hospitality services.
+        - paragraph
+        - paragraph: IMTECAD 2026 is expected to mark a significant step forward in strengthening international cooperation in tourism, contributing to innovation, cultural exchange, and sustainable development between Europe and Southeast Asia.
+      - img "Aziga font, Golden hyphen symbol"
+      - img "Bullet Point Icon Decoration"
+      - img "Bullet Point Icon Decoration"
+      - img "Màu gradient, Hình chữ nhật"
+      - img "Thành phần"
+      - img "Thành phần"
+      - img "Thành phần"
+      - img "Thành phần"
+      - img "Thành phần"
+      - img "Thành phần"
+      - img "Thành phần"
+      - img "Thành phần"
+      - img "Thành phần"
+      - img "Thành phần"
+      - group "ORGANIZERS":
+        - paragraph: ORGANIZERS
+      - img "Thành phần"
+      - img "Thành phần"
+      - img "Thành phần"
+      - group "IMTECAD 2026":
+        - paragraph:
+          - strong: IMTECAD 2026
+      - group "The 3rd International Conference On Tourism Ecosystems":
+        - paragraph:
+          - strong: The 3
+          - superscript:
+            - strong: rd
+          - strong: International Conference On Tourism Ecosystems
+      - group "Nhóm":
+        - generic: 7 thành phần, Để bắt đầu khám phá nội dung trong nhóm, hãy nhấn Enter
+        - img "Màu trắng, Hình chữ nhật"
+        - img "Thành phần"
+        - img "Màu trắng, Hình chữ nhật"
+        - img "Thành phần"
+        - group "Luxury Tourism":
+          - paragraph:
+            - strong: Luxury Tourism
+        - img "Xám đậm, Hình chữ nhật"
+        - group "Perfumery & Fragrance":
+          - paragraph:
+            - strong: Perfumery
+          - paragraph:
+            - strong: "& Fragrance"
+      - group "Nhóm":
+        - generic: mờ dần, 3 thành phần, Để bắt đầu khám phá nội dung trong nhóm, hãy nhấn Enter
+        - img "Xám đậm, Hình chữ nhật"
+        - paragraph
+        - paragraph
+      - figure "Thành phần": 3D thành phần chưa hoàn toàn tương thích với trình đọc màn hình nên một số thông tin có thể bị thiếu.
+      - figure "Thành phần": 3D thành phần chưa hoàn toàn tương thích với trình đọc màn hình nên một số thông tin có thể bị thiếu.
+      - img "Bullet Point Icon Decoration"
+      - group "Global networking opportunities":
+        - paragraph:
+          - strong: Global networking opportunities
+      - group "Join international experts & participants":
+        - paragraph:
+          - strong: Join international experts & participants
+      - img "Bullet Point Icon Decoration"
+      - group "Nhóm":
+        - generic: 3 thành phần, Để bắt đầu khám phá nội dung trong nhóm, hãy nhấn Enter
+        - img "3D Beige Paper Airplane"
+        - group "Duration":
+          - paragraph: Duration
+        - group "July 16–17, 2026":
+          - paragraph: July 16–17, 2026
+      - img "Lettering Welcome icon"
+      - group "Nhóm":
+        - generic: 3 thành phần, Để bắt đầu khám phá nội dung trong nhóm, hãy nhấn Enter
+        - img "Pin Location Icon Illustration"
+        - img "Washi Tape Strip"
+        - group "NICE, FRANCE":
+          - paragraph: NICE, FRANCE
+      - img "Màu xanh lá pha xám, Hình chữ nhật"
+      - group "IMTECAD’2026":
+        - paragraph:
+          - link "IMTECAD’2026":
+            - /url: https://etourism.dniit.edu.vn/imtecad-2026
+            - generic: IMTECAD’2026
+      - img "Màu trắng, Hình chữ nhật"
+      - group "ORGANIZERS":
+        - paragraph:
+          - strong: ORGANIZERS
+      - img "Màu trắng, Hình chữ nhật"
+      - group "Nhóm":
+        - generic: 2 thành phần, Để bắt đầu khám phá nội dung trong nhóm, hãy nhấn Enter
+        - img "Thành phần"
+        - group "ELMI - Graduate School of Economics and Management":
+          - paragraph: ELMI - Graduate School of Economics and Management
+      - img "Thành phần"
+      - group "Nhóm":
+        - generic: 2 thành phần, Để bắt đầu khám phá nội dung trong nhóm, hãy nhấn Enter
+        - img "Thành phần"
+        - group "EDHEC Business School":
+          - paragraph: EDHEC Business School
+      - group "Nhóm":
+        - generic: 2 thành phần, Để bắt đầu khám phá nội dung trong nhóm, hãy nhấn Enter
+        - img "Thành phần"
+        - group "Université Côte d'Azur, France":
+          - paragraph: Université Côte d'Azur, France
+      - group "Ulysseus European University":
+        - paragraph: Ulysseus European University
+      - group "Nhóm":
+        - generic: 2 thành phần, Để bắt đầu khám phá nội dung trong nhóm, hãy nhấn Enter
+        - img "Thành phần"
+        - group "DaNang International Institute of Technology, University of DaNang":
+          - paragraph: DaNang International Institute of Technology, University of DaNang
+      - group "Nhóm":
+        - generic: 2 thành phần, Để bắt đầu khám phá nội dung trong nhóm, hãy nhấn Enter
+        - img "Thành phần"
+        - group "Danang Hotel Association":
+          - paragraph: Danang Hotel Association
+      - img "Thành phần"
+      - img "Thành phần"
+      - group "Nhóm":
+        - generic: 2 thành phần, Để bắt đầu khám phá nội dung trong nhóm, hãy nhấn Enter
+        - img "Thành phần"
+        - group "Vietnam Tourism Association":
+          - paragraph:
+            - link "Vietnam Tourism Association":
+              - /url: https://www.google.com/search?q=Vietnam+Tourism+Association&oq=hi%E1%BB%87p+h%E1%BB%99i+du+l%E1%BB%8Bch+vi%E1%BB%87t+nam+ti%E1%BA%BFng+anh+l%C3%A0+g%C3%AC&gs_lcrp=EgZjaHJvbWUyCggAEEUYFhgeGDkyBwgBEAAY7wUyCggCEAAYgAQYogQyCggDEAAYgAQYogQyBwgEEAAY7wUyCggFEAAYogQYiQXSAQg1MDU2ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8&mstk=AUtExfCdSWULTMCL4bl6p3M0c6tzUvWCMI-RsU_mkvV6bl-lToi63X0g-5Va9QO0XttiykOKlWiyM_Ue9m5Ol_0-9BLhfRJlakWuhz975_1iFiKt447CQi9vL9QbNWgQtPnXoZGs8y4sFWWBnsoyTFRscT7BRRzAt2C1Zjlw-51JHZcTxbQ&csui=3&ved=2ahUKEwigmKbb_bWTAxVdh68BHbe_DsEQgK4QegQIARAB
+      - group "Nhóm":
+        - generic: 2 thành phần, Để bắt đầu khám phá nội dung trong nhóm, hãy nhấn Enter
+        - img "Thành phần"
+        - group "Danang Tourism Association":
+          - paragraph: Danang Tourism Association
+      - group "Nhóm":
+        - generic: 2 thành phần, Để bắt đầu khám phá nội dung trong nhóm, hãy nhấn Enter
+        - img "Thành phần"
+        - group "Danang Tourism Association":
+          - paragraph: Danang Tourism Association
+      - group "Nhóm":
+        - generic: 2 thành phần, Để bắt đầu khám phá nội dung trong nhóm, hãy nhấn Enter
+        - img "Thành phần"
+        - group "Furama Resort":
+          - paragraph: Furama Resort
+      - group "COMMITEES":
+        - paragraph:
+          - strong: COMMITEES
+      - img "Màu xanh lam rực rỡ, Hình chữ nhật"
+      - img "Thành phần"
+      - img "Thành phần"
+      - img "Thành phần"
+      - img "Thành phần"
+      - group "Prof. Dr. STÉPHANE Ngo Mai Vice-President for Ulysseus Université Côte d'Azur, France":
+        - paragraph: Prof. Dr. STÉPHANE Ngo Mai
+        - paragraph:
+          - generic: Vice-President for Ulysseus
+        - paragraph: Université Côte d'Azur, France
+      - group "Prof. Franck Sosthé Directeur du Département Tourisme - EUR ELMI-Université Côte d'Azur":
+        - paragraph: Prof. Franck Sosthé
+        - paragraph: Directeur du Département Tourisme - EUR ELMI-Université Côte d'Azur
+      - group "Associate Prof. Marie-Catherine Mars Co-directrice du MSc – Marketing Track Associate Prof. EDHEC...":
+        - paragraph: Associate Prof. Marie-Catherine Mars
+        - paragraph:
+          - generic: Co-directrice du MSc – Marketing Track Associate Prof. EDHEC Business School
+      - img "Thành phần"
+      - img "Thành phần"
+      - img "Thành phần"
+      - img "Thành phần"
+      - group "Pr. Victor Mejia Co-directeur du MSc Marketing Track Prof. Université Grenoble Alpes":
+        - paragraph: Pr. Victor Mejia
+        - paragraph:
+          - generic: Co-directeur du MSc Marketing Track Prof. Université Grenoble Alpes
+      - group "Véronique Michelet Prof. Institute of Chemistry":
+        - paragraph:
+          - generic: Véronique Michelet
+        - paragraph: Prof. Institute of Chemistry
+      - group "Mme. Sana BELHDI Secrétariat Département Tourisme Nice":
+        - paragraph: Mme. Sana BELHDI Secrétariat Département Tourisme Nice
+      - group "Prof. Dr. Sc. LE Thanh Nhan Director of Danang International Institute of Technology (DNIIT)":
+        - paragraph:
+          - generic: Prof. Dr. Sc. LE Thanh Nhan
+        - paragraph: Director of Danang International Institute of Technology (DNIIT)
+      - img "Thành phần"
+      - img "Thành phần"
+      - img "Thành phần"
+      - group "Nhóm":
+        - generic: 2 thành phần, Để bắt đầu khám phá nội dung trong nhóm, hãy nhấn Enter
+        - img "Màu trắng, Hình chữ nhật"
+        - img "Thành phần"
+      - group "Dr. CAO Tri Dung Chairman of the Danang Tourism Association":
+        - paragraph:
+          - generic: Dr. CAO Tri Dung
+        - paragraph: Chairman of the Danang Tourism Association
+      - group "Mr. NGUYEN Duc Quynh General Manager of Furama Resort Danang":
+        - paragraph:
+          - generic: Mr. NGUYEN Duc Quynh
+        - paragraph: General Manager of Furama Resort Danang
+      - group "Assoc. Prof. Dr. GIANG Thi Kim Lien Deputy Director – Vietnam–UK Institute for Research and Training":
+        - paragraph:
+          - generic: Assoc. Prof. Dr. GIANG Thi Kim Lien
+        - paragraph: Deputy Director – Vietnam–UK Institute for Research and Training
+      - group "Dr. DOAN Thi Ngoc Canh Responsible for the E-tourism program":
+        - paragraph: Dr. DOAN Thi Ngoc Canh
+        - paragraph: Responsible for the E-tourism program
+      - group "Dr Jérémie Topin Director of the MSc Management of the Flavor & Fragrance Industry Associate Prof...":
+        - paragraph:
+          - generic: Dr Jérémie Topin
+        - paragraph: Director of the MSc Management of the Flavor & Fragrance Industry Associate Professor / Maître de Conférences
+      - group "SPEAKERS":
+        - paragraph:
+          - strong: SPEAKERS
+      - img "Màu xanh lam rực rỡ, Hình chữ nhật"
+      - img "Thành phần"
+      - img "Thành phần"
+      - img "Thành phần"
+      - img "Thành phần"
+      - img "Thành phần"
+      - group "Topic 3":
+        - paragraph: Topic 3
+      - group "Topic 2":
+        - paragraph: Topic 2
+      - group "Topic 3":
+        - paragraph: Topic 3
+      - img "Thành phần"
+      - img "Thành phần"
+      - img "Thành phần"
+      - img "Thành phần"
+      - img "Thành phần"
+      - group "Topic 2":
+        - paragraph: Topic 2
+      - group "Topic 3":
+        - paragraph: Topic 3
+      - group "Topic 5":
+        - paragraph: Topic 5
+      - img "Thành phần"
+      - img "Thành phần"
+      - img "Thành phần"
+      - group "Topic 12":
+        - paragraph: Topic 12
+      - group "Topic 13":
+        - paragraph: Topic 13
+      - group "Topic 14":
+        - paragraph: Topic 14
+      - group "Topic 1":
+        - paragraph: Topic 1
+      - group "Topic 2":
+        - paragraph: Topic 2
+      - group "Topic 4":
+        - paragraph: Topic 4
+      - group "MASTER ETOURISM ENROLLMENT":
+        - paragraph:
+          - link "MASTER ETOURISM ENROLLMENT":
+            - /url: https://etourism.dniit.edu.vn
+            - strong:
+              - generic: MASTER ETOURISM ENROLLMENT
+      - figure "snapsave-app_1376954700840535_hd.mp4"
+      - group "Danang Internation Institute of Technology - DNIIT Phòng 602-604, Khu B, Đại học Đà Nẵng, 41 Lê D...":
+        - paragraph:
+          - strong: Danang Internation Institute of Technology - DNIIT
+        - paragraph:
+          - strong: Phòng 602-604, Khu B, Đại học Đà Nẵng, 41 Lê Duẩn, TP. Đà Nẵng
+      - img "Facebook Logo"
+      - img "Gradient Neon Email Icon Representing Messages and Digital Communication Suitable for Social Media Graphics, Marketing Campaigns, and Innovative UI UX Projects"
+  - group "Điều khiển video":
+    - paragraph: 0.0 giây
+    - slider "Thanh tìm kiếm": "0"
+    - button "Phát":
+    - button:
+  - group "Điều khiển trang":
+    - generic: Trang 3 -
+    - textbox "Tiêu đề trang": AGENDA
+    - generic: AGENDA
+    - button "Chuyển lên":
+    - button "Chuyển xuống":
+    - button "Ẩn 1 trang":
+    - button "Khóa trang":
+    - button "Tạo bản sao":
+    - button "Xóa trang":
+    - button "Thêm trang":
+  - paragraph: AGENDA
+  - paragraph: June 15 – June 19, 2026
+  - paragraph: "Locations: Nice, Grasse, and Cannes (France)"
+  - paragraph: Danang Internation Institute of Technology - DNIIT
+  - paragraph: Phòng 602-604, Khu B, Đại học Đà Nẵng, 41 Lê Duẩn, TP. Đà Nẵng
+  - paragraph: 16 June 2026
+  - paragraph: Specialist Workshop in Grasse
+  - paragraph: Morning
+  - paragraph: "09:00 – 10:30: Session 1: Sensory Science in Tourism."
+  - paragraph: "Presentation: Prof. Sylvain ANTONIOTTI – \"Application of Fragrance Extraction in High-end Tourism Experiences.\""
+  - paragraph: "Presentation: Ms. Nguyen Thi Thu Hien (Master 2 Student) – \"Local Aromas: A Multi-sensory Approach to Culinary Tourism\""
+  - paragraph: Lunch
+  - paragraph: Lunch hosted by UniCA
+  - paragraph: Afternoon
+  - paragraph: 17 June 2026
+  - paragraph: Specialist Workshop in Nice
+  - paragraph: "10:30 – 12:00: Session 2: Supply Chain and Sustainability."
+  - paragraph: "Presentation: Mr. Nguyen Duc Quynh – \"Strategy to Elevate Danang’s Culinary Tourism through Sensory Experiences.\""
+  - paragraph: "14:00 – 15:30: Round Table 1: Green Logistics and Infrastructure."
+  - paragraph: "Moderator: Mr. Nguyen Duc Quynh (Chairman, Danang Hotel & Culinary Association)."
+  - paragraph: "Panelists: Mr. Nguyen Pham Tuyen (Head of Dept, Petrolimex Danang) on energy logistics for tourism and Mr. Pham Ngoc Lợi (Master 2 Student)"
+  - paragraph: Galleries
+  - paragraph: Agenda
+  - paragraph: Venue
+  - paragraph: Nice Travel News
+  - paragraph: Da Nang Travel News
+  - paragraph: Previous Conference
+  - paragraph: 15 June 2026
+  - paragraph: Academic Connectivity & Institutional Exchange (Nice)
+  - paragraph: Morning
+  - paragraph: "08:30 – 12:00: Field visit to Campus Valrose and Campus Carlone/Trotabas"
+  - paragraph: Afternoon
+  - paragraph: "14:00 – 17:00: Working session with the Direction of the Master of Tourism at UniCA"
+  - paragraph:
+    - text: "Keynote Presentation:"
+    - generic: "Assoc. Prof. Dr. Kieu Thi Kinh (University of Danang) – \"Tourism Training in the Digital Era: Integrating Educational Technology and Pedagogical Innovation.\""
+  - paragraph: "Follow-up Remarks: Mr. Phan Van Quang (Officer, DNIIT) on the technological collaboration framework between DNIIT and UniCA"
+  - paragraph: "Observers: Cao Nam Phong and Cao Van Miên"
+  - paragraph: Theme
+  - paragraph:
+    - generic: "Fragrance and Perfume in Culinary Tourism Co-Chaired by: Prof. Sylvain ANTONIOTTI (Vice Director of IDEX, UniCA) & Mr. Nguyen Duc Quynh (Chairman of Danang Hotel & Culinary Association; GM of Furama Resort)"
+  - paragraph: Morning
+  - paragraph: "08:30 – 10:30: Session 3: The Luxury Ecosystem & Digital Transformation."
+  - paragraph: "Keynote Presentation: Dr. Doan Thi Ngoc Canh – \"Digital Transformation and Smart Tourism.\""
+  - paragraph: "Presentation: Dr. Cao Tri Dung – \"Positioning Danang as a Preferred Destination for the Global Ultra-Luxury Segment\""
+  - paragraph: "Presentation: Ms. Giang Thi Kim Lien (Vice Dean, VNUK) – \"Luxury Consumer Behavior and Personalized Service Requirements\""
+  - paragraph: Lunch
+  - paragraph: Lunch hosted by UniCA
+  - paragraph: Afternoon
+  - paragraph: "10:30 – 12:00: Round Table 2: MICE and Aviation Connectivity."
+  - paragraph: "Moderator: Dr. Cao Tri Dung (Chairman, Danang Tourism Association)."
+  - paragraph:
+    - generic: "Panelists: Ms. Tran Thi Ngoc Bich (Officer, Danang Tourism Association), Ms. Le Thi Kim Hanh (Master 2 Student, Vietnam Airlines), and Mr. Huynh Le Đức Hợp (Master 2 Student)"
+  - paragraph: "14:00 – 16:00: Research Reports:"
+  - paragraph: "\"Personalization in Luxury Tourism via Digital Tech\" – Mr. Huynh Le Duc Hop."
+  - paragraph: "\"Potential for International Event Tourism in Central Vietnam\" – Ms. Chau Hai Quynh"
+  - paragraph: Theme
+  - paragraph:
+    - generic: "Specialized Tourism and Ultra-Luxury Tourism Co-Chaired by: Assoc. Prof. Frank SOSTHES (Master Tourisme, ELMI, UniCA) & Dr. Cao Tri Dung (Chairman of Danang Tourism Association; Vice Chairman of VITA)"
+  - paragraph: "16:00 – 17:30: Summary of the day and transfer of witness to the Vietnamese Delegation"
+  - paragraph: 19 June 2026
+  - paragraph: Field Operations & Signing Ceremony
+  - paragraph: Morning
+  - paragraph: "09:00 – 12:00: Field survey of luxury yacht marinas and five-star hotel operations (e.g., Le Negresco)."
+  - paragraph: "Field Coordinator: Ms. Nguyen Phan Linh (CEO, Vietchangtravel Danang) and Ms. Nguyen Thị Diệu Tâm (Master 2 Student)"
+  - paragraph: Afternoon
+  - paragraph: "15:00 – 17:00: MOU Signing Ceremony & Collaboration Agreements."
+  - paragraph: "UniCA Representative: Prof. Stéphane NGO MAÏ (Vice-President ULYSSEUS and International Partnerships)"
+  - paragraph: "Danang Representative: Dr. Cao Tri Dung (Chairman, Danang Tourism Association)"
+  - paragraph: ".Content: Agreements on high-quality human resource training and expert exchange."
+  - paragraph: Evening
+  - paragraph: "19:00 – 21:30: Farewell Dinner and Final Summary."
+  - paragraph: Focus
+  - paragraph: Infrastructure survey and formalizing agreements
+  - paragraph: 18 June 2026
+  - paragraph: Applied Training & Technical Survey (IUT)
+  - paragraph: Morning
+  - paragraph: Technical visit to Campus Fabron and Campus Sophiatech.
+  - paragraph: Afternoon
+  - paragraph: Applied work session at Campus Cannes.
+  - paragraph: Technical Presentation
+  - paragraph: Ms. Le Thi Huệ (Officer, Vietnam Energy Inspection) – "Safety Standards and Energy Inspection in Modern Tourism Facilities"
+  - paragraph: Focus
+  - paragraph: Survey of IUT Campuses (Fabron, Sophiatech, Cannes)
+  - paragraph: Field Rapporteurs
+  - paragraph: Ms. Nguyen Thi Thuy Tien and Ms. Chau Hai Quynh
+  - application "Nội dung Canvas":
+    - group "Trang 3, mục 1":
+      - img "Màu đen, Hình chữ nhật"
+      - group "June 15 – June 19, 2026":
+        - paragraph:
+          - strong: June 15 – June 19, 2026
+      - group "AGENDA":
+        - paragraph:
+          - strong: AGENDA
+      - 'group "Locations: Nice, Grasse, and Cannes (France)"':
+        - paragraph:
+          - strong: "Locations: Nice, Grasse, and Cannes (France)"
+      - img "Thành phần"
+      - img "Màu xanh lam rực rỡ, Hình chữ nhật"
+      - group "Galleries":
+        - paragraph:
+          - link "Galleries":
+            - /url: "#page-c"
+            - strong:
+              - generic: Galleries
+      - img "Home"
+      - group "Agenda":
+        - paragraph:
+          - link "Agenda":
+            - /url: "#page-2"
+            - strong:
+              - generic: Agenda
+      - group "Venue":
+        - paragraph:
+          - link "Venue":
+            - /url: "#page-4"
+            - strong:
+              - generic: Venue
+      - group "Nice Travel News":
+        - paragraph:
+          - link "Nice Travel News":
+            - /url: "#page-8"
+            - strong:
+              - generic: Nice Travel News
+      - group "Da Nang Travel News":
+        - paragraph:
+          - link "Da Nang Travel News":
+            - /url: "#page-a"
+            - strong:
+              - generic: Da Nang Travel News
+      - group "Previous Conference":
+        - paragraph:
+          - link "Previous Conference":
+            - /url: "#page-3"
+            - strong:
+              - generic: Previous Conference
+      - img "Downward Arrows Icon"
+      - img "Downward Arrows Icon"
+      - group "15 June 2026":
+        - paragraph:
+          - strong: 15 June 2026
+      - img "Màu xanh lam rực rỡ, Hình chữ nhật"
+      - group "Academic Connectivity & Institutional Exchange (Nice)":
+        - paragraph:
+          - strong: Academic Connectivity & Institutional Exchange (Nice)
+      - group "Morning":
+        - paragraph:
+          - strong: Morning
+      - img "mỏng"
+      - 'group "08:30 – 12:00: Field visit to Campus Valrose and Campus Carlone/Trotabas"':
+        - paragraph:
+          - strong: "08:30 – 12:00:"
+          - text: Field visit to Campus Valrose and Campus Carlone/Trotabas
+        - paragraph
+      - group "Afternoon":
+        - paragraph:
+          - strong: Afternoon
+      - img "mỏng"
+      - 'group "14:00 – 17:00: Working session with the Direction of the Master of Tourism at UniCA"':
+        - paragraph:
+          - strong: "14:00 – 17:00:"
+          - text: Working session with the Direction of the Master of Tourism at UniCA
+      - 'group "Keynote Presentation: Assoc. Prof. Dr. Kieu Thi Kinh (University of Danang) – \"Tourism Training i..."':
+        - paragraph:
+          - strong: "Keynote Presentation:"
+          - text: "Assoc. Prof. Dr. Kieu Thi Kinh (University of Danang) – \"Tourism Training in the Digital Era: Integrating Educational Technology and Pedagogical Innovation.\""
+        - paragraph: "Follow-up Remarks: Mr. Phan Van Quang (Officer, DNIIT) on the technological collaboration framework between DNIIT and UniCA"
+        - paragraph
+        - paragraph:
+          - strong: "Observers:"
+          - text: Cao Nam Phong and Cao Van Miên
+        - paragraph
+      - group "16 June 2026":
+        - paragraph:
+          - strong: 16 June 2026
+      - img "Màu xanh lam rực rỡ, Hình chữ nhật"
+      - group "Specialist Workshop in Grasse":
+        - paragraph:
+          - strong: Specialist Workshop in Grasse
+        - paragraph
+      - group "Theme":
+        - paragraph:
+          - strong: Theme
+      - img "mỏng"
+      - 'group "Fragrance and Perfume in Culinary Tourism Co-Chaired by: Prof. Sylvain ANTONIOTTI (Vice Director..."':
+        - paragraph: "Fragrance and Perfume in Culinary Tourism Co-Chaired by: Prof. Sylvain ANTONIOTTI (Vice Director of IDEX, UniCA) & Mr. Nguyen Duc Quynh (Chairman of Danang Hotel & Culinary Association; GM of Furama Resort)"
+        - paragraph
+      - group "Morning":
+        - paragraph:
+          - strong: Morning
+      - img "mỏng"
+      - 'group "09:00 – 10:30: Session 1: Sensory Science in Tourism. Presentation: Prof. Sylvain ANTONIOTTI – \"A..."':
+        - paragraph:
+          - strong: "09:00 – 10:30:"
+          - text: "Session 1: Sensory Science in Tourism."
+        - paragraph: "Presentation: Prof. Sylvain ANTONIOTTI – \"Application of Fragrance Extraction in High-end Tourism Experiences.\""
+        - paragraph: "Presentation: Ms. Nguyen Thi Thu Hien (Master 2 Student) – \"Local Aromas: A Multi-sensory Approach to Culinary Tourism\""
+        - paragraph
+      - 'group "10:30 – 12:00: Session 2: Supply Chain and Sustainability. Presentation: Mr. Nguyen Duc Quynh – \"..."':
+        - paragraph:
+          - strong: 10:30 – 12:00
+          - text: ": Session 2: Supply Chain and Sustainability."
+        - paragraph: "Presentation: Mr. Nguyen Duc Quynh – \"Strategy to Elevate Danang’s Culinary Tourism through Sensory Experiences.\""
+        - paragraph
+      - group "Lunch":
+        - paragraph:
+          - strong: Lunch
+      - img "mỏng"
+      - group "Lunch hosted by UniCA":
+        - paragraph: Lunch hosted by UniCA
+      - group "Afternoon":
+        - paragraph:
+          - strong: Afternoon
+      - img "mỏng"
+      - 'group "14:00 – 15:30: Round Table 1: Green Logistics and Infrastructure. Moderator: Mr. Nguyen Duc Quynh..."':
+        - paragraph:
+          - strong: "14:00 – 15:30:"
+          - text: "Round Table 1: Green Logistics and Infrastructure."
+        - paragraph: "Moderator: Mr. Nguyen Duc Quynh (Chairman, Danang Hotel & Culinary Association)."
+        - paragraph: "Panelists: Mr. Nguyen Pham Tuyen (Head of Dept, Petrolimex Danang) on energy logistics for tourism and Mr. Pham Ngoc Lợi (Master 2 Student)"
+        - paragraph
+      - group "17 June 2026":
+        - paragraph:
+          - strong: 17 June 2026
+      - img "Màu xanh lam rực rỡ, Hình chữ nhật"
+      - group "Specialist Workshop in Nice":
+        - paragraph:
+          - strong: Specialist Workshop in Nice
+        - paragraph
+      - group "Theme":
+        - paragraph:
+          - strong: Theme
+      - img "mỏng"
+      - 'group "Specialized Tourism and Ultra-Luxury Tourism Co-Chaired by: Assoc. Prof. Frank SOSTHES (Master To..."':
+        - paragraph: "Specialized Tourism and Ultra-Luxury Tourism Co-Chaired by: Assoc. Prof. Frank SOSTHES (Master Tourisme, ELMI, UniCA) & Dr. Cao Tri Dung (Chairman of Danang Tourism Association; Vice Chairman of VITA)"
+        - paragraph
+      - group "Morning":
+        - paragraph:
+          - strong: Morning
+      - img "mỏng"
+      - 'group "08:30 – 10:30: Session 3: The Luxury Ecosystem & Digital Transformation. Keynote Presentation: Dr..."':
+        - paragraph:
+          - strong: "08:30 – 10:30:"
+          - text: "Session 3: The Luxury Ecosystem & Digital Transformation."
+        - paragraph: "Keynote Presentation: Dr. Doan Thi Ngoc Canh – \"Digital Transformation and Smart Tourism.\""
+        - paragraph: "Presentation: Dr. Cao Tri Dung – \"Positioning Danang as a Preferred Destination for the Global Ultra-Luxury Segment\""
+        - paragraph: "Presentation: Ms. Giang Thi Kim Lien (Vice Dean, VNUK) – \"Luxury Consumer Behavior and Personalized Service Requirements\""
+        - paragraph
+        - paragraph
+      - 'group "10:30 – 12:00: Round Table 2: MICE and Aviation Connectivity. Moderator: Dr. Cao Tri Dung (Chairm..."':
+        - paragraph:
+          - strong: "10:30 – 12:00:"
+          - text: "Round Table 2: MICE and Aviation Connectivity."
+        - paragraph: "Moderator: Dr. Cao Tri Dung (Chairman, Danang Tourism Association)."
+        - paragraph: "Panelists: Ms. Tran Thi Ngoc Bich (Officer, Danang Tourism Association), Ms. Le Thi Kim Hanh (Master 2 Student, Vietnam Airlines), and Mr. Huynh Le Đức Hợp (Master 2 Student)"
+        - paragraph
+      - group "Lunch":
+        - paragraph:
+          - strong: Lunch
+      - img "mỏng"
+      - group "Lunch hosted by UniCA":
+        - paragraph: Lunch hosted by UniCA
+      - group "Afternoon":
+        - paragraph:
+          - strong: Afternoon
+      - img "mỏng"
+      - 'group "14:00 – 16:00: Research Reports: \"Personalization in Luxury Tourism via Digital Tech\" – Mr. Huynh..."':
+        - paragraph:
+          - strong: "14:00 – 16:00:"
+          - text: "Research Reports:"
+        - paragraph: "\"Personalization in Luxury Tourism via Digital Tech\" – Mr. Huynh Le Duc Hop."
+        - paragraph: "\"Potential for International Event Tourism in Central Vietnam\" – Ms. Chau Hai Quynh"
+        - paragraph
+      - 'group "16:00 – 17:30: Summary of the day and transfer of witness to the Vietnamese Delegation"':
+        - paragraph:
+          - strong: "16:00 – 17:30:"
+          - text: Summary of the day and transfer of witness to the Vietnamese Delegation
+        - paragraph
+      - group "18 June 2026":
+        - paragraph:
+          - strong: 18 June 2026
+      - img "Màu xanh lam rực rỡ, Hình chữ nhật"
+      - group "Applied Training & Technical Survey (IUT)":
+        - paragraph:
+          - strong: Applied Training & Technical Survey (IUT)
+        - paragraph
+      - group "Focus":
+        - paragraph:
+          - strong: Focus
+      - img "mỏng"
+      - group "Survey of IUT Campuses (Fabron, Sophiatech, Cannes)":
+        - paragraph: Survey of IUT Campuses (Fabron, Sophiatech, Cannes)
+      - group "Morning":
+        - paragraph:
+          - strong: Morning
+      - img "mỏng"
+      - group "Technical visit to Campus Fabron and Campus Sophiatech.":
+        - paragraph: Technical visit to Campus Fabron and Campus Sophiatech.
+        - paragraph
+      - group "Afternoon":
+        - paragraph:
+          - strong: Afternoon
+      - img "mỏng"
+      - group "Applied work session at Campus Cannes.":
+        - paragraph: Applied work session at Campus Cannes.
+        - paragraph
+      - group "Technical Presentation":
+        - paragraph:
+          - strong: Technical Presentation
+      - img "mỏng"
+      - group "Ms. Le Thi Huệ (Officer, Vietnam Energy Inspection) – \"Safety Standards and Energy Inspection in...":
+        - paragraph: Ms. Le Thi Huệ (Officer, Vietnam Energy Inspection) – "Safety Standards and Energy Inspection in Modern Tourism Facilities"
+        - paragraph
+      - group "Field Rapporteurs":
+        - paragraph:
+          - strong: Field Rapporteurs
+      - img "mỏng"
+      - group "Ms. Nguyen Thi Thuy Tien and Ms. Chau Hai Quynh":
+        - paragraph: Ms. Nguyen Thi Thuy Tien and Ms. Chau Hai Quynh
+      - group "19 June 2026":
+        - paragraph:
+          - strong: 19 June 2026
+      - img "Màu xanh lam rực rỡ, Hình chữ nhật"
+      - group "Field Operations & Signing Ceremony":
+        - paragraph:
+          - strong: Field Operations & Signing Ceremony
+        - paragraph
+      - group "Focus":
+        - paragraph:
+          - strong: Focus
+      - img "mỏng"
+      - group "Infrastructure survey and formalizing agreements":
+        - paragraph: Infrastructure survey and formalizing agreements
+        - paragraph
+      - group "Morning":
+        - paragraph:
+          - strong: Morning
+      - img "mỏng"
+      - 'group "09:00 – 12:00: Field survey of luxury yacht marinas and five-star hotel operations (e.g., Le Negr..."':
+        - paragraph:
+          - text: "0"
+          - strong: "9:00 – 12:00:"
+          - text: Field survey of luxury yacht marinas and five-star hotel operations (e.g., Le Negresco).
+        - paragraph: "Field Coordinator: Ms. Nguyen Phan Linh (CEO, Vietchangtravel Danang) and Ms. Nguyen Thị Diệu Tâm (Master 2 Student)"
+        - paragraph
+      - group "Afternoon":
+        - paragraph:
+          - strong: Afternoon
+      - img "mỏng"
+      - 'group "15:00 – 17:00: MOU Signing Ceremony & Collaboration Agreements. UniCA Representative: Prof. Stéph..."':
+        - paragraph:
+          - strong: "15:00 – 17:00:"
+          - text: MOU Signing Ceremony & Collaboration Agreements.
+        - paragraph: "UniCA Representative: Prof. Stéphane NGO MAÏ (Vice-President ULYSSEUS and International Partnerships)"
+        - paragraph: "Danang Representative: Dr. Cao Tri Dung (Chairman, Danang Tourism Association)"
+        - paragraph: ".Content: Agreements on high-quality human resource training and expert exchange."
+        - paragraph
+        - paragraph
+      - group "Evening":
+        - paragraph:
+          - strong: Evening
+      - img "mỏng"
+      - 'group "19:00 – 21:30: Farewell Dinner and Final Summary."':
+        - paragraph:
+          - strong: "19:00 – 21:30:"
+          - text: Farewell Dinner and Final Summary.
+        - paragraph
+      - group "Danang Internation Institute of Technology - DNIIT Phòng 602-604, Khu B, Đại học Đà Nẵng, 41 Lê D...":
+        - paragraph:
+          - strong: Danang Internation Institute of Technology - DNIIT
+        - paragraph:
+          - strong: Phòng 602-604, Khu B, Đại học Đà Nẵng, 41 Lê Duẩn, TP. Đà Nẵng
+      - img "Facebook Logo"
+      - img "Gradient Neon Email Icon Representing Messages and Digital Communication Suitable for Social Media Graphics, Marketing Campaigns, and Innovative UI UX Projects"
+  - button "Thêm trang":
+    - heading "Thêm trang" [level=5]
+  - button "Thêm loại trang":
+- contentinfo:
+  - button "Ghi chú":
+    - generic: Ghi chú
+  - button "Hiển thị bộ đếm ngược":
+    - generic: Đếm ngược
+  - slider "Thu phóng": "-0.305"
+  - combobox "Tùy chọn thu phóng":
+    - generic: 74%
+  - button "Trang":
+    - generic: Trang
+  - button "2 / 14":
+    - generic: 2 / 14
+  - button "Dạng xem lưới":
+  - button "Xem toàn màn hình":
+  - button "Trợ lý AI":
+- generic: Canvas
+- generic: Phần điều hướng chính chứa các nút cho các tùy chọn mức tài liệu. Để chuyển đổi giữa các nút, hãy sử dụng các phím trái và phải. Để kích hoạt, hãy nhấn Enter. Để chuyển sang khung vẽ, hãy nhấn “⌘F2”.
+- generic: Khung vẽ là không gian nơi bạn thiết kế. Để vào trang, hãy nhấn Enter. Để vào các nhóm hoặc thành phần trên trang, hãy nhấn Enter một lần nữa. Nhấn tab để chuyển đến trang, nhóm hoặc thành phần tiếp theo. Để sử dụng thanh công cụ, hãy dùng phím “⌘F1”. Sau khi chọn thành phần, hãy di chuyển thành phần bằng các phím mũi tên; xoay bằng phím “,” và phím “.”; và đổi cỡ bằng cách sử dụng các phím mũi tên cùng với phím “⌘”. Bạn có thể tăng cường cho tất cả các phím này bằng phím “⇧”.
+- generic: Tiêu đề thiết kế là tên của thiết kế. Để chỉnh sửa tiêu đề thiết kế, hãy nhấn Enter. Để dừng chỉnh sửa, nhấn Escape.
+- generic: Bảng bên là nơi bạn có thể áp dụng các mẫu hoặc thêm các thành phần. Để chuyển sang khung vẽ, hãy nhấn “⌘F2”.
+- generic: Ghi chú
+- generic: Hiển thị bộ đếm ngược
+- generic: Thu phóng
+- generic: Hiện hình thu nhỏ của trang
+- generic: Truy cập trang
+- generic: Dạng xem lưới
+- generic: Đã lưu tất cả thay đổi
+- generic: Trang chủ
+- generic: Trợ lý AI
+- generic: Xem toàn màn hình
+- generic: Phân tích
+- generic: Chia sẻ
+- generic: Nút này sẽ mở menu có tất cả các tùy chọn chia sẻ và in thiết kế.
+- generic: Chuyển lên
+- generic: Chuyển xuống
+- generic: Ẩn 1 trang
+- generic: Khóa trang
+- generic: Tạo bản sao
+- generic: Xóa trang
+- generic: Thêm trang
+- generic: Chuyển lên
+- generic: Chuyển xuống
+- generic: Ẩn 1 trang
+- generic: Khóa trang
+- generic: Tạo bản sao
+- generic: Xóa trang
+- generic: Thêm trang
