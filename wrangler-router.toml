@@ -1,0 +1,8 @@
+name = "imtecad-2026-router"
+main = "workers/imtecad-router.js"
+compatibility_date = "2026-05-31"
+account_id = "e0299a8e0a5c634ee0dbfce07cccf2da"
+
+routes = [
+  { pattern = "etourism.dniit.edu.vn/imtecad-2026*", zone_name = "dniit.edu.vn" }
+]

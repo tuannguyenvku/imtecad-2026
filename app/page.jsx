@@ -8,7 +8,8 @@ import {
   UsersRound,
 } from "lucide-react";
 
-const asset = (name) => `/assets/${name}`;
+const basePath = "/imtecad-2026";
+const asset = (name) => `${basePath}/assets/${name}`;
 
 const navItems = [
   ["Agenda", "#agenda"],
