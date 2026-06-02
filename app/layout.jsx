@@ -1,9 +1,9 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "IMTECAD 2026 | International Conference on Tourism & Creative Design",
+  title: "IMTECAD 2026 | The Inter-regional Meeting in Tourism between the Côte d'Azur and Danang",
   description:
-    "The 3rd International Conference on Tourism & Creative Design, hosted in Nice, France, 16-17 June 2026.",
+    "The Inter-regional Meeting in Tourism between the Côte d'Azur and Danang (IMTECAD), hosted in Nice, France, 16-17 June 2026.",
 };
 
 export default function RootLayout({ children }) {

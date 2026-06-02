@@ -277,8 +277,8 @@ export default function HomePage() {
         <div className="hero-copy">
           <p className="kicker">IMTECAD 2026</p>
           <h1>
-            The 3rd International Conference
-            <span>on Tourism & Creative Design</span>
+            The Inter-regional Meeting in Tourism
+            <span>between the Côte d'Azur and Danang</span>
           </h1>
           <p className="hero-lede">
             A Côte d'Azur and Da Nang forum for luxury tourism, creative destination design,
