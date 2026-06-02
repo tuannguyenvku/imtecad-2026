@@ -15,7 +15,6 @@ const navItems = [
   ["Agenda", "#agenda"],
   ["Venue", "#venue"],
   ["Speakers", "#speakers"],
-  ["Participants", "#participants"],
   ["Nice Travel News", "#nice-news"],
   ["Da Nang Travel News", "#danang-news"],
   ["Previous Conference", "#previous"],
@@ -35,17 +34,17 @@ const organizers = [
 ];
 
 const committee = [
-  ["Dr. DOAN Thi Ngoc Canh", "Responsible for the E-tourism program", "canva-edit/995a51469559bab9.webp"],
+  ["Prof. Dr. Sc. LE Thanh Nhan", "Director of Danang International Institute of Technology", "canva-edit/afdee51516b85aa8.webp"],
   ["Prof. Dr. STÉPHANE Ngo Mai", "Vice-President for Ulysseus, Université Côte d'Azur", "canva-edit/a3bba502fca2603a.png"],
   ["Dr. CAO Tri Dung", "Chairman of the Danang Tourism Association", "canva-edit/c1d716f830047cc6.webp"],
-  ["Prof. Dr. Sc. LE Thanh Nhan", "Director of Danang International Institute of Technology", "canva-edit/afdee51516b85aa8.webp"],
-  ["Mr. NGUYEN Duc Quynh", "General Manager of Furama Resort Danang", "canva-edit/4637232ff52fbb74.png"],
   ["Assoc. Prof. Dr. GIANG Thi Kim Lien", "Deputy Director, Vietnam-UK Institute for Research and Training", "84494127381d9954.webp"],
   ["Prof. Franck Sosthé", "Département Tourisme, EUR ELMI, Université Côte d'Azur", "canva-edit/00240ad2bc555c56.png"],
   ["Dr. Jérémie Topin", "MSc Management of the Flavor & Fragrance Industry", "canva-edit/f2ede38187efa620.webp"],
   ["Véronique Michelet", "Institute of Chemistry", "canva-edit/9f9f0dc8239c8b65.webp"],
   ["Pr. Victor Mejia", "Co-directeur du MSc Marketing Track", "canva-edit/b31da49a1894ad17.png"],
   ["Associate Prof. Marie-Catherine Mars", "Co-directrice du MSc Marketing Track, EDHEC", "canva-edit/679c6c5d10d58f4e.webp"],
+  ["Mr. NGUYEN Duc Quynh", "General Manager of Furama Resort Danang", "canva-edit/4637232ff52fbb74.png"],
+  ["Dr. DOAN Thi Ngoc Canh", "Responsible for the E-tourism program", "canva-edit/995a51469559bab9.webp"],
 ];
 
 const agenda = [
@@ -127,49 +126,6 @@ const speakers = [
   ["AI and innovation in luxury tourism", "Mr. Pham Ngoc Loi", "canva-edit/f72e4e9c869c8da9.webp"],
   ["Air connection for luxury packages", "Ms. Le Thi Kim Hanh", "canva-edit/0ba28b03df33b5f6.png"],
   ["Chair / Master Tourism, ELMI, UniCA", "Prof. Franck Sosthe", "canva-edit/00240ad2bc555c56.png"],
-];
-
-const participants = [
-  {
-    group: "Danang Delegation",
-    people: [
-      "Cao Tri Dung, Head of delegation, Vice-President of the Vietnam Tourism Federation, President of the Danang Tourism Federation",
-      "Nguyen Duc Quynh, President of the Danang Hotel Association, Deputy General Director of Indochina Beach Hotel Joint Stock Company",
-      "Pham Ngoc Loi, Digital Marketing Director, Indochina Beach Hotel Joint Stock Company",
-      "Nguyen Pham Tuyen, Head of IT Department, Petrolimex Danang",
-      "Huynh Le Duc Hop, Manager of Song-Han Hotel Guest House, Danang",
-      "Le Thi Kim Hanh, Deputy Manager of Ticketing Division, Vietnam Airlines",
-      "Nguyen Thi Thuy Tien, Sales and Marketing",
-      "Le Thi Hue, Officer, Vietnam Energy Inspection Corporation",
-      "Nguyen Thi Thu Hien, Sales and Marketing, Vietnam Travel",
-      "Nguyen Thi Dieu Tam, Sales and Marketing",
-      "Cao Van Mien, Sales and Marketing",
-      "Phan Van Quang, Officer, DNIIT",
-      "Giang Thi Kim Lien, Deputy Director, Vietnam-UK Institute, University of Danang",
-      "Kieu Thi Kinh, Associate Professor, University of Science and Education, University of Danang",
-      "Tran Thi Ngoc Bich, Lecturer, University of Science and Education, University of Danang",
-      "Doan Thi Ngoc Canh, Training Manager, DNIIT, University of Danang",
-      "Nguyen Thi Thu Thanh, Administrative Manager, DNIIT, University of Danang",
-      "Ngo Dinh Thanh, Lecturer, Danang Polytechnic, University of Danang",
-      "Nguyen Thanh Tuan, Lecturer, VKU, University of Danang",
-      "Prof. Le Thanh Nhan, Director of DNIIT, University of Danang",
-    ],
-  },
-  {
-    group: "Nice Delegation",
-    people: [
-      "Bruno Mercadal, General Manager of the Royal Riviera Hotel, Saint-Jean-Cap-Ferrat",
-      "Pascal Brochiero, Director of the Tourist Office of Grasse",
-      "Stephane Ngo Mai, Vice-President of UniCA, Ulysseus delegate",
-      "Sylvain Antoniotti, Vice-President of UniCA, IDEX delegate",
-      "Franck Sosthe, Head of the Tourism Master's Program, ELMI, UniCA",
-      "Lila Prey, Tourism Master's Program, ELMI, UniCA",
-      "Sana Belhedi, Administrative Assistant, Tourism Master's Program, ELMI, UniCA",
-      "Pauline Archard",
-      "Yacine Gouaich",
-      "Bruna Rodrigues",
-    ],
-  },
 ];
 
 const niceNews = [
@@ -462,24 +418,6 @@ export default function HomePage() {
               <Image src={asset(image)} alt={name} width={220} height={220} />
               <span>{role}</span>
               <h3>{name}</h3>
-            </article>
-          ))}
-        </div>
-      </section>
-
-      <section className="section participants" id="participants">
-        <SectionTitle eyebrow="Participants" title="Delegations">
-          Participants listed in the IMTECAD 2026 agenda workbook.
-        </SectionTitle>
-        <div className="participant-grid">
-          {participants.map((group) => (
-            <article key={group.group}>
-              <h3>{group.group}</h3>
-              <ol>
-                {group.people.map((person) => (
-                  <li key={person}>{person}</li>
-                ))}
-              </ol>
             </article>
           ))}
         </div>
