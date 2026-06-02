@@ -298,6 +298,15 @@ section[id] {
   line-height: 1.02;
 }
 
+.section-title h2 .title-main,
+.section-title h2 .title-year {
+  display: block;
+  margin: 0;
+  color: inherit;
+  font: inherit;
+  text-transform: none;
+}
+
 .section-title p {
   margin: 16px auto 0;
   max-width: 720px;
@@ -426,6 +435,12 @@ section[id] {
   object-fit: cover;
   object-position: center top;
   background: #eef2f7;
+}
+
+.person.media-zoom-out img {
+  object-fit: contain;
+  object-position: center;
+  padding: 4px;
 }
 
 .person h3,
@@ -596,6 +611,12 @@ section[id] {
   object-fit: cover;
   object-position: center top;
   background: #eef2f7;
+}
+
+.speaker.media-zoom-out img {
+  object-fit: contain;
+  object-position: center;
+  padding: 8px;
 }
 
 .speaker span {

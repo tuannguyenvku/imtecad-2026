@@ -41,7 +41,7 @@ const committee = [
   ["Pauline Archard", "Université Côte d'Azur", "people/pauline-archard.jpg"],
   ["Prof. Dr. Sc. LE Thanh Nhan", "Director of Danang International Institute of Technology", "canva-edit/afdee51516b85aa8.webp"],
   ["Dr. DOAN Thi Ngoc Canh", "Responsible for the E-tourism program", "canva-edit/995a51469559bab9.webp"],
-  ["Ms. NGUYEN Thi Thu Thanh", "Administrative Manager, Danang International Institute of Technology", "people/nguyen-thi-thu-thanh.jpg"],
+  ["Ms. NGUYEN Thi Thu Thanh", "Administrative Manager and International Cooperation, Danang International Institute of Technology", "people/nguyen-thi-thu-thanh.jpg"],
   ["Dr. NGUYEN Thanh Tuan", "Lecturer, University of Danang", "people/nguyen-thanh-tuan.jpg"],
 ];
 
@@ -129,6 +129,9 @@ const speakers = [
   ["Air connection for luxury packages", "Ms. Le Thi Kim Hanh", "canva-edit/0ba28b03df33b5f6.png"],
   ["Chair / Master Tourism, ELMI, UniCA", "Prof. Franck Sosthe", "canva-edit/00240ad2bc555c56.png"],
 ];
+
+const zoomOutNames = new Set(["Prof. Franck Sosthé", "Prof. Franck Sosthe", "Pascal Brochiero"]);
+const mediaClass = (name) => (zoomOutNames.has(name) ? "media-zoom-out" : "");
 
 const niceNews = [
   [
@@ -318,7 +321,15 @@ export default function HomePage() {
       </section>
 
       <section className="intro section">
-        <SectionTitle eyebrow="Introduction" title="Welcome to IMTECAD 2026" />
+        <SectionTitle
+          eyebrow="Introduction"
+          title={
+            <>
+              <span className="title-main">Welcome to IMTECAD</span>
+              <span className="title-year">2026</span>
+            </>
+          }
+        />
         <div className="intro-grid">
           <article>
             <p>
@@ -378,7 +389,7 @@ export default function HomePage() {
         <SectionTitle eyebrow="Committees" title="Conference Committees" />
         <div className="people-grid">
           {committee.map(([name, role, image]) => (
-            <article className="person" key={name}>
+            <article className={`person ${mediaClass(name)}`} key={name}>
               <Image src={asset(image)} alt={name} width={180} height={180} />
               <h3>{name}</h3>
               <p>{role}</p>
@@ -416,7 +427,7 @@ export default function HomePage() {
         <SectionTitle eyebrow="Speakers" title="Sessions, Panels & Contributors" />
         <div className="speaker-grid">
           {speakers.map(([role, name, image]) => (
-            <article key={`${role}-${name}`} className="speaker">
+            <article key={`${role}-${name}`} className={`speaker ${mediaClass(name)}`}>
               <Image src={asset(image)} alt={name} width={220} height={220} />
               <span>{role}</span>
               <h3>{name}</h3>
@@ -489,7 +500,7 @@ export default function HomePage() {
         ))}
       </section>
 
-      <HeroBand id="galleries" image="crops/gallery-group.jpg" title="Galleries" />
+      <HeroBand id="galleries" image="crops/nice-coast.jpg" title="Galleries" />
       <section className="section gallery">
         <h2>Events</h2>
         <div>
