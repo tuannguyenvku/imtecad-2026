@@ -42,7 +42,7 @@ const committee = [
   ["Prof. Dr. Sc. LE Thanh Nhan", "Director of Danang International Institute of Technology", "canva-edit/afdee51516b85aa8.webp"],
   ["Dr. DOAN Thi Ngoc Canh", "Responsible for the E-tourism program", "canva-edit/995a51469559bab9.webp"],
   ["Ms. NGUYEN Thi Thu Thanh", "Administrative Manager, Danang International Institute of Technology", "canva-edit/db4c7f05faa31086.png"],
-  ["Dr. NGUYEN Thanh Tuan", "Lecturer, University of Danang", "03c4895fb94c6b2b.webp"],
+  ["Dr. NGUYEN Thanh Tuan", "Lecturer, University of Danang", "people/nguyen-thanh-tuan.jpg"],
 ];
 
 const agenda = [
