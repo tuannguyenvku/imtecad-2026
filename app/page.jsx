@@ -24,27 +24,25 @@ const navItems = [
 const organizers = [
   { name: "DNIIT", image: "1ef117c01c86c275.webp" },
   { name: "Université Côte d'Azur", image: "b1a0a900f5ddf92b.png" },
-  { name: "ELMI", image: "d53c1b3e12418b3c.webp" },
+  { name: "ELMI - UniCA", image: "people/logo-elmi-unica.jpg" },
   { name: "Institut de Chimie de Nice", image: "cad3c326592cf74f.webp" },
   { name: "Furama Resort Danang", image: "furama-resort-danang-logo.svg", zoom: 1.55 },
   { name: "Danang Tourism Association", image: "9a765a3669ccad36.webp", zoom: 1.65 },
   { name: "Ulysseus European University", image: "canva-edit/4cd8032f971429b3.png", zoom: 1.15 },
   { name: "Danang Hotel Association", image: "canva-edit/27ed3f05c004f948.png", zoom: 1.2 },
-  { name: "EDHEC Business School", image: "canva-edit/2d02d6a661925ae4.png" },
 ];
 
 const committee = [
-  ["Prof. Dr. Sc. LE Thanh Nhan", "Director of Danang International Institute of Technology", "canva-edit/afdee51516b85aa8.webp"],
   ["Prof. Dr. STÉPHANE Ngo Mai", "Vice-President for Ulysseus, Université Côte d'Azur", "canva-edit/a3bba502fca2603a.png"],
   ["Dr. CAO Tri Dung", "Chairman of the Danang Tourism Association", "canva-edit/c1d716f830047cc6.webp"],
-  ["Assoc. Prof. Dr. GIANG Thi Kim Lien", "Deputy Director, Vietnam-UK Institute for Research and Training", "84494127381d9954.webp"],
   ["Prof. Franck Sosthé", "Département Tourisme, EUR ELMI, Université Côte d'Azur", "canva-edit/00240ad2bc555c56.png"],
-  ["Dr. Jérémie Topin", "MSc Management of the Flavor & Fragrance Industry", "canva-edit/f2ede38187efa620.webp"],
-  ["Véronique Michelet", "Institute of Chemistry", "canva-edit/9f9f0dc8239c8b65.webp"],
-  ["Pr. Victor Mejia", "Co-directeur du MSc Marketing Track", "canva-edit/b31da49a1894ad17.png"],
-  ["Associate Prof. Marie-Catherine Mars", "Co-directrice du MSc Marketing Track, EDHEC", "canva-edit/679c6c5d10d58f4e.webp"],
   ["Mr. NGUYEN Duc Quynh", "General Manager of Furama Resort Danang", "canva-edit/4637232ff52fbb74.png"],
+  ["Prof. Sylvain Antoniotti", "Vice-President IDEX, Université Côte d'Azur", "people/sylvain-antoniotti.jpg"],
+  ["Pauline Archard", "Université Côte d'Azur", "people/pauline-archard.jpg"],
+  ["Prof. Dr. Sc. LE Thanh Nhan", "Director of Danang International Institute of Technology", "canva-edit/afdee51516b85aa8.webp"],
   ["Dr. DOAN Thi Ngoc Canh", "Responsible for the E-tourism program", "canva-edit/995a51469559bab9.webp"],
+  ["Ms. NGUYEN Thi Thu Thanh", "Administrative Manager, Danang International Institute of Technology", "canva-edit/db4c7f05faa31086.png"],
+  ["Dr. NGUYEN Thanh Tuan", "Lecturer, University of Danang", "03c4895fb94c6b2b.webp"],
 ];
 
 const agenda = [
@@ -67,7 +65,7 @@ const agenda = [
       ["10:20 - 10:40", "Tea break"],
       [
         "10:40 - 11:10",
-        "Inter-regional collaboration panel: Sylvain Antoniotti, Fragonard representative, Nguyen Duc Quynh, Cao Tri Dung, Giang Thi Kim Lien",
+        "Inter-regional collaboration panel: Sylvain Antoniotti, Christian Sinicropi, Fragonard representative, Nguyen Duc Quynh, Cao Tri Dung, Giang Thi Kim Lien",
       ],
       [
         "11:10 - 11:20",
@@ -120,9 +118,13 @@ const agenda = [
 ];
 
 const speakers = [
-  ["Chair / Vietnam aromas in tourism", "Mr. Nguyen Duc Quynh", "canva-edit/4637232ff52fbb74.png"],
+  ["Chair / Aromas and perfumes in tourism", "Prof. Sylvain Antoniotti", "people/sylvain-antoniotti.jpg"],
+  ["Panel Day 16 / Gastronomy and sensory tourism", "Chef Christian Sinicropi", "people/christian-sinicropi.jpg"],
+  ["Panel Day 16 / Vietnam aromas in tourism", "Mr. Nguyen Duc Quynh", "canva-edit/4637232ff52fbb74.png"],
   ["Luxury tourism demand", "Dr. Cao Tri Dung", "canva-edit/c1d716f830047cc6.webp"],
   ["Natural essential oil resources", "Assoc. Prof. Dr. Giang Thi Kim Lien", "84494127381d9954.webp"],
+  ["Panel Day 17 / Luxury hospitality", "Bruno Mercadal", "people/bruno-mercadal.jpg"],
+  ["Panel Day 17 / Destination development", "Pascal Brochiero", "people/pascal-brochiero.jpg"],
   ["AI and innovation in luxury tourism", "Mr. Pham Ngoc Loi", "canva-edit/f72e4e9c869c8da9.webp"],
   ["Air connection for luxury packages", "Ms. Le Thi Kim Hanh", "canva-edit/0ba28b03df33b5f6.png"],
   ["Chair / Master Tourism, ELMI, UniCA", "Prof. Franck Sosthe", "canva-edit/00240ad2bc555c56.png"],
