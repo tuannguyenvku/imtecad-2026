@@ -338,6 +338,7 @@ section[id] {
 .image-news a,
 .logo-card,
 .agenda-day,
+.participant-grid article,
 .speaker {
   border: 1px solid var(--line);
   border-radius: 8px;
@@ -542,13 +543,21 @@ section[id] {
 
 .agenda-day > strong {
   display: block;
-  margin-bottom: 10px;
+  margin-bottom: 8px;
   padding: 14px 16px;
   border-radius: 8px;
   background: var(--deep-blue);
   color: white;
   font-family: Georgia, "Times New Roman", serif;
   font-size: 1.15rem;
+}
+
+.agenda-day > em {
+  display: block;
+  margin-bottom: 12px;
+  color: var(--teal);
+  font-style: normal;
+  font-weight: 900;
 }
 
 .agenda-day p {
@@ -601,6 +610,40 @@ section[id] {
 .speaker h3 {
   padding: 0 16px 20px;
   font-size: 1.12rem;
+}
+
+.participants {
+  width: min(1180px, calc(100% - 44px));
+}
+
+.participant-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1.35fr) minmax(0, 1fr);
+  gap: 18px;
+}
+
+.participant-grid article {
+  padding: 26px;
+  box-shadow: 0 14px 34px rgba(10, 28, 54, 0.07);
+}
+
+.participant-grid h3 {
+  margin: 0 0 18px;
+  color: var(--red);
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.55rem;
+}
+
+.participant-grid ol {
+  display: grid;
+  gap: 10px;
+  margin: 0;
+  padding-left: 22px;
+}
+
+.participant-grid li {
+  color: var(--soft-ink);
+  line-height: 1.45;
 }
 
 .venue {
@@ -840,6 +883,7 @@ section[id] {
   .intro-grid,
   .logo-grid,
   .people-grid,
+  .participant-grid,
   .speaker-grid,
   .image-news,
   .gallery > div {
@@ -878,6 +922,7 @@ section[id] {
   .logo-grid,
   .people-grid,
   .previous-grid,
+  .participant-grid,
   .image-news,
   .speaker-grid,
   .gallery > div {

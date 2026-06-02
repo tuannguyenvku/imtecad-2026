@@ -15,6 +15,7 @@ const navItems = [
   ["Agenda", "#agenda"],
   ["Venue", "#venue"],
   ["Speakers", "#speakers"],
+  ["Participants", "#participants"],
   ["Nice Travel News", "#nice-news"],
   ["Da Nang Travel News", "#danang-news"],
   ["Previous Conference", "#previous"],
@@ -49,109 +50,126 @@ const committee = [
 
 const agenda = [
   {
-    date: "15 June 2026",
-    theme: "Academic Connectivity & Institutional Exchange (Nice)",
-    rows: [
-      ["08:30 - 12:00", "Field visit to Campus Valrose and Campus Carlone/Trotabas"],
-      ["14:00 - 17:00", "Working session with the Direction of the Master of Tourism at UniCA"],
-      [
-        "Keynote",
-        "Assoc. Prof. Dr. Kieu Thi Kinh: Tourism Training in the Digital Era: Integrating Educational Technology and Pedagogical Innovation.",
-      ],
-      [
-        "Follow-up",
-        "Mr. Phan Van Quang on the technological collaboration framework between DNIIT and UniCA. Observers: Cao Nam Phong and Cao Van Mien.",
-      ],
-    ],
-  },
-  {
     date: "16 June 2026",
-    theme: "Specialist Workshop in Grasse: Fragrance and Perfume in Culinary Tourism",
+    theme: "Aromas and Perfumes in Tourism",
+    chairs: "Chairs: Sylvain Antoniotti and Nguyen Duc Quynh",
     rows: [
+      ["08:30 - 08:50", "Welcome"],
+      ["08:50 - 09:00", "Performance by students from the Danang Master's program in tourism"],
+      ["09:00 - 09:05", "Opening Ceremony, MC"],
+      ["09:05 - 09:20", "Presentation of the perfumes and aromas lab at UniCA, Sylvain Antoniotti"],
+      ["09:20 - 09:35", "Aromas and perfumes in Vietnam tourism, with video clip, Nguyen Duc Quynh"],
       [
-        "Theme",
-        "Co-chaired by Prof. Sylvain Antoniotti and Mr. Nguyen Duc Quynh.",
+        "09:35 - 09:50",
+        "Potential for Product Development from Natural Essential Oil Resources in Central Vietnam, Giang Thi Kim Lien",
+      ],
+      ["09:50 - 10:05", "Presentation of the Fragonard Group, Fragonard representative"],
+      ["10:05 - 10:20", "Presentation of the MENAS Vietnam Group, Pham Ngoc Loi"],
+      ["10:20 - 10:40", "Tea break"],
+      [
+        "10:40 - 11:10",
+        "Inter-regional collaboration panel: Sylvain Antoniotti, Fragonard representative, Nguyen Duc Quynh, Cao Tri Dung, Giang Thi Kim Lien",
       ],
       [
-        "09:00 - 10:30",
-        "Session 1: Sensory Science in Tourism, with presentations on fragrance extraction and local aromas.",
+        "11:10 - 11:20",
+        "Signing of the Memorandum of Understanding for Collaboration: Fragonard representative, Nguyen Duc Quynh, Cao Tri Dung",
       ],
-      [
-        "10:30 - 12:00",
-        "Session 2: Supply Chain and Sustainability. Mr. Nguyen Duc Quynh presents strategy for elevating Danang's culinary tourism through sensory experiences.",
-      ],
-      ["Lunch", "Lunch hosted by UniCA"],
-      [
-        "14:00 - 15:30",
-        "Round Table 1: Green Logistics and Infrastructure, moderated by Mr. Nguyen Duc Quynh.",
-      ],
+      ["11:20 - 11:25", "Conclusion, Sylvain Antoniotti"],
+      ["11:25 - 12:00", "Move to lunch"],
+      ["12:00 - 14:00", "Lunch"],
+      ["14:00 - 16:30", "Visit to Fragonard"],
+      ["16:30 - 17:00", "Back"],
     ],
   },
   {
     date: "17 June 2026",
-    theme: "Specialist Workshop in Nice: Specialized Tourism and Ultra-Luxury Tourism",
+    theme: "Luxury Tourism",
+    chairs: "Chairs: Franck Sosthe and Cao Tri Dung",
     rows: [
+      ["08:30 - 09:00", "Welcome"],
+      ["09:00 - 09:05", "Opening Ceremony, MC"],
       [
-        "Theme",
-        "Co-chaired by Assoc. Prof. Frank Sosthes and Dr. Cao Tri Dung.",
+        "09:05 - 09:20",
+        "Demand and requirements of Vietnamese customers for Nice, Cannes and Monaco luxury packages, Cao Tri Dung",
+      ],
+      ["09:20 - 09:35", "Luxury tourism in France, Bruno Mercadal"],
+      [
+        "09:35 - 09:50",
+        "Applying technology, AI and innovation into luxury tourism segment development in Danang, Pham Ngoc Loi",
+      ],
+      ["09:50 - 10:05", "Intervention 3, France"],
+      [
+        "10:05 - 10:20",
+        "Air connection for luxury packages between Côte d'Azur and Danang, Le Thi Kim Hanh",
+      ],
+      ["10:20 - 10:40", "Tea break"],
+      [
+        "10:40 - 11:10",
+        "Inter-regional collaboration panel: Franck Sosthe, Bruno Mercadal, Pascal Brochiero, Nguyen Duc Quynh, Cao Tri Dung, Pham Ngoc Loi",
       ],
       [
-        "08:30 - 10:30",
-        "Session 3: The Luxury Ecosystem and Digital Transformation. Presentations by Dr. Doan Thi Ngoc Canh, Dr. Cao Tri Dung, and Ms. Giang Thi Kim Lien.",
+        "11:10 - 11:20",
+        "Signing of the Memorandum of Understanding for Collaboration: Bruno Mercadal, Pascal Brochiero, Nguyen Duc Quynh, Cao Tri Dung",
       ],
-      [
-        "10:30 - 12:00",
-        "Round Table 2: MICE and Aviation Connectivity, moderated by Dr. Cao Tri Dung.",
-      ],
-      ["Lunch", "Lunch hosted by UniCA"],
-      [
-        "14:00 - 16:00",
-        "Research reports on personalization in luxury tourism via digital tech and event tourism in Central Vietnam.",
-      ],
-      ["16:00 - 17:30", "Summary of the day and transfer of witness to the Vietnamese delegation."],
-    ],
-  },
-  {
-    date: "18 June 2026",
-    theme: "Applied Training & Technical Survey (IUT)",
-    rows: [
-      ["Focus", "Survey of IUT campuses: Fabron, Sophiatech, and Cannes"],
-      ["Morning", "Technical visit to Campus Fabron and Campus Sophiatech."],
-      ["Afternoon", "Applied work session at Campus Cannes."],
-      [
-        "Technical Presentation",
-        "Ms. Le Thi Hue: Safety Standards and Energy Inspection in Modern Tourism Facilities.",
-      ],
-      ["Field Rapporteurs", "Ms. Nguyen Thi Thuy Tien and Ms. Chau Hai Quynh"],
-    ],
-  },
-  {
-    date: "19 June 2026",
-    theme: "Field Operations & Signing Ceremony",
-    rows: [
-      ["Focus", "Infrastructure survey and formalizing agreements"],
-      [
-        "09:00 - 12:00",
-        "Field survey of luxury yacht marinas and five-star hotel operations, including Le Negresco.",
-      ],
-      [
-        "15:00 - 17:00",
-        "MOU Signing Ceremony and Collaboration Agreements between UniCA and Danang representatives.",
-      ],
-      ["19:00 - 21:30", "Farewell dinner and final summary."],
+      ["11:20 - 11:25", "Conclusion, Franck Sosthe"],
+      ["11:25 - 12:00", "Move to lunch"],
+      ["12:00 - 14:00", "Lunch"],
+      ["14:00 - 16:30", "Visit to the Royal Riviera Hotel, a five-star hotel in Saint-Jean-Cap-Ferrat"],
+      ["16:30 - 17:00", "Back"],
     ],
   },
 ];
 
 const speakers = [
-  ["Session 1", "Ms. Nguyen Thi Thu Hien", "canva-edit/db4c7f05faa31086.png"],
-  ["Round table 2", "Ms. Le Thi Kim Hanh", "canva-edit/0ba28b03df33b5f6.png"],
-  ["Session 3", "Dr. DOAN Thi Ngoc Canh", "canva-edit/995a51469559bab9.webp"],
-  ["Round table 2 / Research reports", "Huynh Le Duc Hop", "canva-edit/cc32dd4fb48636bb.png"],
-  ["Round table 1", "Mr. Pham Ngoc Loi", "canva-edit/f72e4e9c869c8da9.webp"],
-  ["Research reports", "Ms. Chau Hai Quynh", "canva-edit/83ca8cc08acd263c.webp"],
-  ["Field Rapporteurs", "Ms. Nguyen Thi Thuy Tien", "canva-edit/9eebd396597b9782.webp"],
-  ["Field coordinator", "Ms. Nguyen Phan Linh", "canva-edit/947cb992ed4a65ba.webp"],
+  ["Chair / Vietnam aromas in tourism", "Mr. Nguyen Duc Quynh", "canva-edit/4637232ff52fbb74.png"],
+  ["Luxury tourism demand", "Dr. Cao Tri Dung", "canva-edit/c1d716f830047cc6.webp"],
+  ["Natural essential oil resources", "Assoc. Prof. Dr. Giang Thi Kim Lien", "84494127381d9954.webp"],
+  ["AI and innovation in luxury tourism", "Mr. Pham Ngoc Loi", "canva-edit/f72e4e9c869c8da9.webp"],
+  ["Air connection for luxury packages", "Ms. Le Thi Kim Hanh", "canva-edit/0ba28b03df33b5f6.png"],
+  ["Chair / Master Tourism, ELMI, UniCA", "Prof. Franck Sosthe", "canva-edit/00240ad2bc555c56.png"],
+];
+
+const participants = [
+  {
+    group: "Danang Delegation",
+    people: [
+      "Cao Tri Dung, Head of delegation, Vice-President of the Vietnam Tourism Federation, President of the Danang Tourism Federation",
+      "Nguyen Duc Quynh, President of the Danang Hotel Association, Deputy General Director of Indochina Beach Hotel Joint Stock Company",
+      "Pham Ngoc Loi, Digital Marketing Director, Indochina Beach Hotel Joint Stock Company",
+      "Nguyen Pham Tuyen, Head of IT Department, Petrolimex Danang",
+      "Huynh Le Duc Hop, Manager of Song-Han Hotel Guest House, Danang",
+      "Le Thi Kim Hanh, Deputy Manager of Ticketing Division, Vietnam Airlines",
+      "Nguyen Thi Thuy Tien, Sales and Marketing",
+      "Le Thi Hue, Officer, Vietnam Energy Inspection Corporation",
+      "Nguyen Thi Thu Hien, Sales and Marketing, Vietnam Travel",
+      "Nguyen Thi Dieu Tam, Sales and Marketing",
+      "Cao Van Mien, Sales and Marketing",
+      "Phan Van Quang, Officer, DNIIT",
+      "Giang Thi Kim Lien, Deputy Director, Vietnam-UK Institute, University of Danang",
+      "Kieu Thi Kinh, Associate Professor, University of Science and Education, University of Danang",
+      "Tran Thi Ngoc Bich, Lecturer, University of Science and Education, University of Danang",
+      "Doan Thi Ngoc Canh, Training Manager, DNIIT, University of Danang",
+      "Nguyen Thi Thu Thanh, Administrative Manager, DNIIT, University of Danang",
+      "Ngo Dinh Thanh, Lecturer, Danang Polytechnic, University of Danang",
+      "Nguyen Thanh Tuan, Lecturer, VKU, University of Danang",
+      "Prof. Le Thanh Nhan, Director of DNIIT, University of Danang",
+    ],
+  },
+  {
+    group: "Nice Delegation",
+    people: [
+      "Bruno Mercadal, General Manager of the Royal Riviera Hotel, Saint-Jean-Cap-Ferrat",
+      "Pascal Brochiero, Director of the Tourist Office of Grasse",
+      "Stephane Ngo Mai, Vice-President of UniCA, Ulysseus delegate",
+      "Sylvain Antoniotti, Vice-President of UniCA, IDEX delegate",
+      "Franck Sosthe, Head of the Tourism Master's Program, ELMI, UniCA",
+      "Lila Prey, Tourism Master's Program, ELMI, UniCA",
+      "Sana Belhedi, Administrative Assistant, Tourism Master's Program, ELMI, UniCA",
+      "Pauline Archard",
+      "Yacine Gouaich",
+      "Bruna Rodrigues",
+    ],
+  },
 ];
 
 const niceNews = [
@@ -316,8 +334,8 @@ export default function HomePage() {
         </div>
         <aside className="hero-card" aria-label="Conference highlights">
           <span>Program Arc</span>
-          <strong>Nice / Grasse / Cannes</strong>
-          <p>Academic exchange, specialist workshops, IUT surveys and formal collaboration.</p>
+          <strong>Aromas / Perfumes / Luxury Tourism</strong>
+          <p>Two specialist workshop days connecting Côte d'Azur and Danang tourism partners.</p>
         </aside>
       </header>
 
@@ -325,14 +343,14 @@ export default function HomePage() {
 
       <section className="program-strip" aria-label="Conference quick facts">
         <article>
-          <span>5 days</span>
+          <span>2 days</span>
           <strong>Program</strong>
-          <p>15-19 June 2026</p>
+          <p>16-17 June 2026</p>
         </article>
         <article>
-          <span>3 cities</span>
-          <strong>Route</strong>
-          <p>Nice, Grasse, Cannes</p>
+          <span>2 themes</span>
+          <strong>Focus</strong>
+          <p>Aromas and luxury tourism</p>
         </article>
         <article>
           <span>2 regions</span>
@@ -414,15 +432,16 @@ export default function HomePage() {
       <HeroBand
         id="agenda"
         image="6e7b148705fb8cfa.webp"
-        eyebrow="June 15 - June 19, 2026"
+        eyebrow="June 16 - June 17, 2026"
         title="Agenda"
-        subtitle="Locations: Nice, Grasse, and Cannes"
+        subtitle="Aromas and perfumes in tourism; luxury tourism"
       />
       <section className="section agenda-list">
         {agenda.map((day) => (
           <article className="agenda-day" key={day.date}>
             <h3>{day.date}</h3>
             <strong>{day.theme}</strong>
+            <em>{day.chairs}</em>
             <div>
               {day.rows.map(([time, description]) => (
                 <p key={`${day.date}-${time}`}>
@@ -436,13 +455,31 @@ export default function HomePage() {
       </section>
 
       <section className="section muted" id="speakers">
-        <SectionTitle eyebrow="Speakers" title="Sessions, Round Tables & Field Teams" />
+        <SectionTitle eyebrow="Speakers" title="Sessions, Panels & Contributors" />
         <div className="speaker-grid">
           {speakers.map(([role, name, image]) => (
             <article key={`${role}-${name}`} className="speaker">
               <Image src={asset(image)} alt={name} width={220} height={220} />
               <span>{role}</span>
               <h3>{name}</h3>
+            </article>
+          ))}
+        </div>
+      </section>
+
+      <section className="section participants" id="participants">
+        <SectionTitle eyebrow="Participants" title="Delegations">
+          Participants listed in the IMTECAD 2026 agenda workbook.
+        </SectionTitle>
+        <div className="participant-grid">
+          {participants.map((group) => (
+            <article key={group.group}>
+              <h3>{group.group}</h3>
+              <ol>
+                {group.people.map((person) => (
+                  <li key={person}>{person}</li>
+                ))}
+              </ol>
             </article>
           ))}
         </div>
