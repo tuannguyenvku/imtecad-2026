@@ -26,23 +26,23 @@ const organizers = [
   { name: "Université Côte d'Azur", image: "b1a0a900f5ddf92b.png" },
   { name: "ELMI - UniCA", image: "people/logo-elmi-unica.jpg" },
   { name: "Institut de Chimie de Nice", image: "cad3c326592cf74f.webp" },
-  { name: "Furama Resort Danang", image: "furama-resort-danang-logo.svg", zoom: 1.55 },
-  { name: "Danang Tourism Association", image: "9a765a3669ccad36.webp", zoom: 1.65 },
+  { name: "Furama Resort Da Nang", image: "furama-resort-danang-logo.svg", zoom: 1.55 },
+  { name: "Da Nang Tourism Association", image: "9a765a3669ccad36.webp", zoom: 1.65 },
   { name: "Ulysseus European University", image: "canva-edit/4cd8032f971429b3.png", zoom: 1.15 },
-  { name: "Danang Hotel Association", image: "canva-edit/27ed3f05c004f948.png", zoom: 1.2 },
+  { name: "Da Nang Hotel Association", image: "canva-edit/27ed3f05c004f948.png", zoom: 1.2 },
 ];
 
 const committee = [
   ["Prof. Dr. STÉPHANE Ngo Mai", "Vice-President for Ulysseus, Université Côte d'Azur", "canva-edit/a3bba502fca2603a.png"],
-  ["Dr. CAO Tri Dung", "Chairman of the Danang Tourism Association", "canva-edit/c1d716f830047cc6.webp"],
+  ["Dr. CAO Tri Dung", "Chairman of the Da Nang Tourism Association", "canva-edit/c1d716f830047cc6.webp"],
   ["Prof. Franck Sosthé", "Département Tourisme, EUR ELMI, Université Côte d'Azur", "canva-edit/00240ad2bc555c56.png"],
-  ["Mr. NGUYEN Duc Quynh", "General Manager of Furama Resort Danang", "canva-edit/4637232ff52fbb74.png"],
+  ["Mr. NGUYEN Duc Quynh", "General Manager of Furama Resort Da Nang", "canva-edit/4637232ff52fbb74.png"],
   ["Prof. Sylvain Antoniotti", "Vice-President IDEX, Université Côte d'Azur", "people/sylvain-antoniotti.jpg"],
   ["Pauline Archard", "Université Côte d'Azur", "people/pauline-archard.jpg"],
-  ["Prof. Dr. Sc. LE Thanh Nhan", "Director of Danang International Institute of Technology", "canva-edit/afdee51516b85aa8.webp"],
+  ["Prof. Dr. Sc. LE Thanh Nhan", "Director of Da Nang International Institute of Technology", "canva-edit/afdee51516b85aa8.webp"],
   ["Dr. DOAN Thi Ngoc Canh", "Responsible for the E-tourism program", "canva-edit/995a51469559bab9.webp"],
-  ["Ms. NGUYEN Thi Thu Thanh", "Administrative Manager and International Cooperation, Danang International Institute of Technology", "people/nguyen-thi-thu-thanh.jpg"],
-  ["Dr. NGUYEN Thanh Tuan", "Lecturer, University of Danang", "people/nguyen-thanh-tuan.jpg"],
+  ["Ms. NGUYEN Thi Thu Thanh", "Administrative Manager and International Cooperation, Da Nang International Institute of Technology", "people/nguyen-thi-thu-thanh.jpg"],
+  ["Dr. NGUYEN Thanh Tuan", "Lecturer, University of Da Nang", "people/nguyen-thanh-tuan.jpg"],
 ];
 
 const agenda = [
@@ -52,7 +52,7 @@ const agenda = [
     chairs: "Chairs: Sylvain Antoniotti and Nguyen Duc Quynh",
     rows: [
       ["08:30 - 08:50", "Welcome"],
-      ["08:50 - 09:00", "Performance by students from the Danang Master's program in tourism"],
+      ["08:50 - 09:00", "Performance by students from the Da Nang Master's program in tourism"],
       ["09:00 - 09:05", "Opening Ceremony, MC"],
       ["09:05 - 09:20", "Presentation of the perfumes and aromas lab at UniCA, Sylvain Antoniotti"],
       ["09:20 - 09:35", "Aromas and perfumes in Vietnam tourism, with video clip, Nguyen Duc Quynh"],
@@ -95,7 +95,7 @@ const agenda = [
       ],
       [
         "09:35 - 09:50",
-        "Applying technology, AI and innovation into luxury tourism segment development in Danang, Pham Ngoc Loi",
+        "Applying technology, AI and innovation into luxury tourism segment development in Da Nang, Pham Ngoc Loi",
       ],
       [
         "09:50 - 10:05",
@@ -103,7 +103,7 @@ const agenda = [
       ],
       [
         "10:05 - 10:20",
-        "Air connection for luxury packages between Côte d'Azur and Danang, Le Thi Kim Hanh",
+        "Air connection for luxury packages between Côte d'Azur and Da Nang, Le Thi Kim Hanh",
       ],
       ["10:20 - 10:40", "Tea break"],
       [
@@ -165,7 +165,7 @@ const niceNews = [
 const danangNews = [
   [
     "crops/danang-city.jpg",
-    "DaNang FantastiCity",
+    "Da Nang FantastiCity",
     "Vietnamese tourism news",
     "https://danangfantasticity.com/en",
   ],
@@ -280,7 +280,7 @@ export default function HomePage() {
           <p className="kicker">IMTECAD 2026</p>
           <h1>
             The Inter-regional Meeting in Tourism
-            <span>between the Côte d'Azur and Danang</span>
+            <span>between the Côte d'Azur and Da Nang</span>
           </h1>
           <p className="hero-lede">
             A Côte d'Azur and Da Nang forum for luxury tourism, creative destination design,
@@ -298,7 +298,7 @@ export default function HomePage() {
         <aside className="hero-card" aria-label="Conference highlights">
           <span>Program Arc</span>
           <strong>Aromas / Perfumes / Luxury Tourism</strong>
-          <p>Two specialist workshop days connecting Côte d'Azur and Danang tourism partners.</p>
+          <p>Two specialist workshop days connecting Côte d'Azur and Da Nang tourism partners.</p>
         </aside>
       </header>
 
@@ -335,7 +335,7 @@ export default function HomePage() {
         <div className="intro-grid">
           <article>
             <p>
-              The Inter-regional Meeting in Tourism between the Côte d'Azur and Danang (IMTECAD)
+              The Inter-regional Meeting in Tourism between the Côte d'Azur and Da Nang (IMTECAD)
               2026 is an international event dedicated to fostering cooperation in tourism
               development between the Côte d'Azur, France and Da Nang, Vietnam.
             </p>
@@ -518,7 +518,7 @@ export default function HomePage() {
       <footer className="footer">
         <div>
           <h2>IMTECAD 2026</h2>
-          <p>Danang International Institute of Technology - DNIIT</p>
+          <p>Da Nang International Institute of Technology - DNIIT</p>
           <p>Phòng 602-604, Khu B, Đại học Đà Nẵng, 41 Lê Duẩn, TP. Đà Nẵng</p>
         </div>
         <div className="footer-links">
