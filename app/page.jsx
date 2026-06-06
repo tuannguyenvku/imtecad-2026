@@ -65,7 +65,7 @@ const agenda = [
       ["10:20 - 10:40", "Tea break"],
       [
         "10:40 - 11:10",
-        "Inter-regional collaboration panel: Sylvain Antoniotti, Christian Sinicropi, Fragonard representative, Nguyen Duc Quynh, Cao Tri Dung, Giang Thi Kim Lien",
+        "Inter-regional collaboration panel: Sylvain Antoniotti, Fragonard representative, Christian Sinicropi, Nguyen Duc Quynh, Cao Tri Dung, Giang Thi Kim Lien",
       ],
       [
         "11:10 - 11:20",
@@ -89,12 +89,18 @@ const agenda = [
         "09:05 - 09:20",
         "Demand and requirements of Vietnamese customers for Nice, Cannes and Monaco luxury packages, Cao Tri Dung",
       ],
-      ["09:20 - 09:35", "Luxury tourism in France, Bruno Mercadal"],
+      [
+        "09:20 - 09:35",
+        "Specifics in managing a luxury hotel: The example of the Royal Riviera hotel in Saint-Jean-Cap-Ferrat, Bruno Mercadal",
+      ],
       [
         "09:35 - 09:50",
         "Applying technology, AI and innovation into luxury tourism segment development in Danang, Pham Ngoc Loi",
       ],
-      ["09:50 - 10:05", "Intervention 3, France"],
+      [
+        "09:50 - 10:05",
+        "The role of a Tourist Office in promoting a prestigious territory: The case of the Grasse region, Pascal Brochiero",
+      ],
       [
         "10:05 - 10:20",
         "Air connection for luxury packages between Côte d'Azur and Danang, Le Thi Kim Hanh",
@@ -104,15 +110,11 @@ const agenda = [
         "10:40 - 11:10",
         "Inter-regional collaboration panel: Franck Sosthe, Bruno Mercadal, Pascal Brochiero, Nguyen Duc Quynh, Cao Tri Dung, Pham Ngoc Loi",
       ],
-      [
-        "11:10 - 11:20",
-        "Signing of the Memorandum of Understanding for Collaboration: Bruno Mercadal, Pascal Brochiero, Nguyen Duc Quynh, Cao Tri Dung",
-      ],
-      ["11:20 - 11:25", "Conclusion, Franck Sosthe"],
-      ["11:25 - 12:00", "Move to lunch"],
+      ["11:10 - 11:15", "Conclusion, Franck Sosthe"],
+      ["11:15 - 12:00", "Move to lunch"],
       ["12:00 - 14:00", "Lunch"],
       ["14:00 - 16:30", "Visit to the Royal Riviera Hotel, a five-star hotel in Saint-Jean-Cap-Ferrat"],
-      ["16:30 - 17:00", "Back"],
+      ["16:30 - 18:00", "Back"],
     ],
   },
 ];
